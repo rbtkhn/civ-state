@@ -53,6 +53,6 @@ Not every severe security doctrine is sacred or exterminatory. The burden is to 
 
 1. Use deeper sacred-political or law-memory objects when available.
 2. Use this scaffold while the pattern is still being normalized from the Crooke activation surface.
-3. Use legacy `civ-mem` only when the historical lineage is still absent from `civ-emp`.
+3. Use legacy `archive memory` only when the historical lineage is still absent from `civ-emp`.
 
 

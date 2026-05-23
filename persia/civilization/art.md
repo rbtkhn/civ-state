@@ -42,7 +42,7 @@ Status: **Full-strength backfill**.
 - **Complicating source:** `MEM–PERSIA–GEO–PERSIAN–GULF.md` turns beauty/recognition into chokepoint leverage, warning that dignity can become coercive geography.
 - **Counterweights:** Persepolis/Pasargadae as nostalgia risk; Sasanian sacred form as lost public law but persistent grammar; Safavid/Isfahan prestige as sacred enclosure; Gulf beauty/geography as recognition claim becoming leverage overuse.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIV–CORE–PERSIA.md`
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIV–STATE–PERSIA.md`

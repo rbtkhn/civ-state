@@ -58,7 +58,7 @@ Use the first-wave civilization objects in this order when the drafting problem 
 - [war](war.md) for deterrent conversion, escalation channels, and endurance limits
 - [peace](peace.md) for recognition formulas, review, relief, and bounded equilibrium
 
-These are now the preferred Persia civilization-side openings ahead of older compact notes or direct `civ-mem` provenance files.
+These are now the preferred Persia civilization-side openings ahead of older compact notes or direct `archive memory` provenance files.
 
 
 

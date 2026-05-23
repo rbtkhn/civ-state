@@ -30,11 +30,11 @@ This object does not tell you whether Russia can win a given operation tacticall
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“COREâ€“RUSSIA.md`
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“STATEâ€“RUSSIA.md`
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/MEMâ€“RELEVANCEâ€“RUSSIA.md`
-  - all war-specific and corridor-specific `MEMâ€“RUSSIAâ€“...` files listed under `CIV-MEM Inputs`
+  - all war-specific and corridor-specific `MEMâ€“RUSSIAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [Russia state memory](objects/state-memory.md)
   - [Russia empire instrument](../empire/seed-instruments.md)
@@ -158,7 +158,7 @@ If the question is about continuity-bearing authority and state survival, return
 - **Connection-discovered counterweights:** Crimean War shows endurance without modernization can become strategic defeat; Kulikovo shows symbolic victory without sovereignty; Leningrad preserves the tension between sacred heroism and policy failure; Great Game shows buffer rivalry can be stabilized by spheres and ceilings; Barbarossa shows survival was contingent and nearly failed.
 - **Complicating source:** `MEMâ€“RUSSIAâ€“GEOâ€“STEPPE` explains expansion as defensive absorption of open-frontier threats, but also supplies the expansion-ceiling warning that the same logic can regenerate insecurity.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“COREâ€“RUSSIA.md`
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“STATEâ€“RUSSIA.md`

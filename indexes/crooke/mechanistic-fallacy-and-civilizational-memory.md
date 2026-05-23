@@ -18,7 +18,7 @@ When does remembered imperial or civilizational form remain active enough that m
 
 - Crooke modern examples: Ottoman lineage, mechanistic-fallacy framing, remembered sovereignty
 - `civ-emp` retrieval contracts for `state-memory` and adjacent `civilization` work
-- legacy `civ-mem` only where a deeper imperial-memory lineage is still missing from `civ-emp`
+- legacy `archive memory` only where a deeper imperial-memory lineage is still missing from `civ-emp`
 
 ## Arc Pattern
 
@@ -53,6 +53,6 @@ Historical memory is not infinitely elastic. A claim of lineage must still show 
 
 1. Cite future `state-memory` objects when they exist.
 2. Use this scaffold for pattern-level diagnosis.
-3. Use legacy `civ-mem` only when a memory lineage has not yet been translated into `civ-emp`.
+3. Use legacy `archive memory` only when a memory lineage has not yet been translated into `civ-emp`.
 
 

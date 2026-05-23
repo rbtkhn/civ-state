@@ -42,7 +42,7 @@ Status: **Full-strength backfill**.
 - **Complicating source:** `MEM–RUSSIA–ART–SHOSTAKOVICH.md` complicates beauty by making art both survival witness and coerced public form.
 - **Counterweights:** Peter/Petersburg as state-imposed Westernizing spectacle; Soviet monumentality as command aesthetics; Leningrad as endurance and policy-failure sanctification; imperial museum culture as nostalgia and recognition demand.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIV–CORE–RUSSIA.md`
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIV–STATE–RUSSIA.md`

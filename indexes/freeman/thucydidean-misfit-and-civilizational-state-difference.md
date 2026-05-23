@@ -19,7 +19,7 @@ When do imported great-power models fail because the historical substrate is a f
 - Freeman modern activation around Thucydides, Peloponnesian framing, Europe, India, and China
 - CIV-EMP retrieval contract for `state-memory`
 - China-lane civilization and state-memory objects as they mature
-- Legacy `civ-mem` only if deeper China or Europe civilizational-comparison provenance is later needed
+- Legacy `archive memory` only if deeper China or Europe civilizational-comparison provenance is later needed
 
 ## Arc Pattern
 
@@ -62,6 +62,6 @@ Counterweight rule:
 
 1. Cite lane-local China or America state-memory objects when they already hold the comparison.
 2. Cite this scaffold for model-fit and civilizational-form questions.
-3. Use legacy `civ-mem` only when deeper provenance is needed for the civilizational substrate itself.
+3. Use legacy `archive memory` only when deeper provenance is needed for the civilizational substrate itself.
 
 

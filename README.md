@@ -20,6 +20,10 @@ It is built for operators who need historical depth without drift, sacred and ci
 - [China](china/README.md)
 - [Persia](persia/README.md)
 
+## Volume Pilot
+
+- [China Volume I spine](china/volume-i-spine.md)
+
 ## Deferred Lane
 
 - [Rome](rome/README.md) - reserved as the final fill lane and not yet an active authored bench
@@ -48,5 +52,5 @@ The corpus assumes:
 - [Persia proof object: Hormuz Recognition / Transit Restraint](persia/proof-objects/hormuz-recognition-transit-restraint.md)
 - [Founding provenance](FOUNDING-PROVENANCE.md)
 
-This repo is a curated founding cut from a larger workshop environment. It keeps the live corpus and selected retrieval companions while leaving most migration archaeology and workshop control residue upstream.
+This repo is a curated authored corpus. It keeps the live lane, synthesis, and retrieval surfaces in one place without exposing the larger making process that produced them.
 

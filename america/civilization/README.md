@@ -56,6 +56,6 @@ Use the first-wave civilization objects in this order when the drafting problem 
 - [war](war.md) for coercive design, command ceilings, contact architecture, and the boundary between defense and imperial drift
 - [peace](peace.md) for lawful settlement, review, relief, burden-sharing, and successor-stable exit
 
-These are now the preferred America civilization-side strand openings ahead of older compact notes or direct `civ-mem` provenance files. Use them after the [America helix](../helix.md) has identified which strand should lead the draft.
+These are now the preferred America civilization-side strand openings ahead of older compact notes or direct `archive memory` provenance files. Use them after the [America helix](../helix.md) has identified which strand should lead the draft.
 
 

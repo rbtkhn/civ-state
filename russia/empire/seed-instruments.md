@@ -38,7 +38,7 @@ This object cannot decide whether a specific invasion threat, pipeline bargain, 
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIV-CORE-RUSSIA.md`
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIV-STATE-RUSSIA.md`
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/MEM-RUSSIA-GOLDEN-HORDE.md`

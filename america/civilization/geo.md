@@ -30,11 +30,11 @@ This object does not tell you whether a specific port, water compact, or logisti
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“COREâ€“AMERICA.md`
   - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“STATEâ€“AMERICA.md`
   - `research/repos/civilization_memory/content/civilizations/AMERICA/MEMâ€“RELEVANCEâ€“AMERICA.md`
-  - all geo-specific `MEMâ€“AMERICAâ€“...` files listed under `CIV-MEM Inputs`
+  - all geo-specific `MEMâ€“AMERICAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [America state memory](objects/state-memory.md)
   - [America empire instrument](../empire/seed-instruments.md)
@@ -147,7 +147,7 @@ Status: **Full-strength backfill**.
 - **Complicating source:** `MEMâ€“AMERICAâ€“GEOâ€“COLORADOâ€“RIVER.md` complicates abundance by showing that western settlement depends on allocation, compacts, dams, drought, and federal-state procedure.
 - **Counterweights:** Manifest Destiny as terrain-justified dispossession; Colorado River as water scarcity and allocation conflict; Pacific nodal control as overextension; frontier/rail logic as continental integration and extraction.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“COREâ€“AMERICA.md`
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“STATEâ€“AMERICA.md`

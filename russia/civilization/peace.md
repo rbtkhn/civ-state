@@ -30,12 +30,12 @@ This object does not determine whether a specific ceasefire or neutrality formul
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“COREâ€“RUSSIA.md`
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“STATEâ€“RUSSIA.md`
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“DOCTRINEâ€“RUSSIA.md`
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/MEMâ€“RELEVANCEâ€“RUSSIA.md`
-  - all peace-and-settlement-specific `MEMâ€“RUSSIAâ€“...` files listed under `CIV-MEM Inputs`
+  - all peace-and-settlement-specific `MEMâ€“RUSSIAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [Russia state memory](objects/state-memory.md)
   - [Russia empire instrument](../empire/seed-instruments.md)
@@ -175,7 +175,7 @@ Counterweights:
 - **Gorbachev / post-Soviet counterweight:** settlement, reform, and de-escalation can read as collapse if authority is not preserved.
 - **Cold War counterweight:** managed competition can prevent catastrophe while normalizing permanent militarized rivalry.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“COREâ€“RUSSIA.md`
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“STATEâ€“RUSSIA.md`

@@ -53,6 +53,6 @@ Not every legacy doctrine is wrong; some inherited patterns still matter. The bu
 
 1. Use future lane-local war objects when they exist.
 2. Use this scaffold for the pattern of overlearned Cold War success and mutated war conditions.
-3. Use legacy `civ-mem` only if a specific lineage of overmatch thought needs deeper recovery.
+3. Use legacy `archive memory` only if a specific lineage of overmatch thought needs deeper recovery.
 
 

@@ -20,7 +20,7 @@ How do maritime systems pass, decay, or get bypassed by geography, infrastructur
 - CIV-EMP retrieval contracts for `geo` and `peace`
 - Existing [Hormuz Recognition / Transit Restraint](../../persia/hormuz-recognition-transit-restraint.md)
 - Lane-local geo, peace, helix, and transaction surfaces where present
-- Legacy `civ-mem` only if older sea-power or chokepoint provenance later becomes necessary
+- Legacy `archive memory` only if older sea-power or chokepoint provenance later becomes necessary
 
 ## Arc Pattern
 
@@ -63,6 +63,6 @@ Counterweight rule:
 
 1. Cite the existing Hormuz object and lane-local geo / peace files when the issue is already translated operationally.
 2. Cite this scaffold when the question is the broader historical pattern of maritime transition and adaptation.
-3. Use legacy `civ-mem` only when older sea-power lineage needs deeper recovery.
+3. Use legacy `archive memory` only when older sea-power lineage needs deeper recovery.
 
 

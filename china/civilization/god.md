@@ -10,7 +10,7 @@ This is not theology, devotional writing, or a claim about metaphysical truth. I
 
 ## Civilizational Function
 
-China's sacred grammar is not centered on church or creed. CIV-MEM points to a political-cosmic order in which legitimacy is conditional: authority must preserve order, provision, unity, ritual coherence, and civilizational dignity.
+China's sacred grammar is not centered on church or creed. archive memory points to a political-cosmic order in which legitimacy is conditional: authority must preserve order, provision, unity, ritual coherence, and civilizational dignity.
 
 The arc is layered:
 
@@ -66,7 +66,7 @@ Status: **Full-strength backfill**.
 - **Counterweights used:** Kongzi hollow ritual; Qin coercive standardization; Taiping legitimacy war and civil collapse; Boxer court vacillation and humiliation; ROC authority without reach; Taiwan ambiguity as sovereignty unsettled by geography.
 - **Complicating source:** `MEM-CHINA-WAR-BOXER-REBELLION.md` warns that anti-foreign sacred rage plus court vacillation can produce humiliation rather than protection. Sacred order fails when command coherence collapses.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIV–CORE–CHINA.md` - mandate logic, harmony-over-freedom axiom, performance legitimacy, social order coherence.
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIV–STATE–CHINA.md` - party-state fusion, Taiwan legitimacy, mandate stability, and narrative control.

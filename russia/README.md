@@ -50,7 +50,7 @@ Russia's broader first-wave strand set is now usable as an ordered drafting surf
 - [peace](civilization/peace.md) for reciprocal limits, recognition formulas, review, and bounded equilibrium
 - [empire instrument](empire/seed-instruments.md) for the outward control stack that protects, overreaches, or traps Russian timing
 
-Use these after the helix has clarified which strand is actually governing the clause. Use older lane notes or direct `civ-mem` provenance only when the first-wave set still leaves a real gap.
+Use these after the helix has clarified which strand is actually governing the clause. Use older lane notes or direct `archive memory` provenance only when the first-wave set still leaves a real gap.
 
 - [State](state/) - current government, presidential-security authority, Security Council carrier, and foreign-ministry signal objects.
 - [Civilization](civilization/) - inherited Russian code: strategic depth, invasion memory, state continuity, sovereignty, and recognition.

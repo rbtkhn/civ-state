@@ -19,7 +19,7 @@ When does coercion fail to convert into settlement, and what kinds of war memory
 - Freeman modern activation around Vietnam, Afghanistan, and battlefield-loss realism
 - CIV-EMP retrieval contract for `war`
 - Lane-local war objects as they mature
-- Legacy `civ-mem` only when a deeper war-memory chain becomes necessary
+- Legacy `archive memory` only when a deeper war-memory chain becomes necessary
 
 ## Arc Pattern
 
@@ -62,6 +62,6 @@ Counterweight rule:
 
 1. Cite lane-local war-memory or war objects when they already hold the pattern.
 2. Cite this scaffold when the question is coercion-versus-settlement conversion.
-3. Use legacy `civ-mem` only when the historical war-memory lineage needs deeper recovery.
+3. Use legacy `archive memory` only when the historical war-memory lineage needs deeper recovery.
 
 

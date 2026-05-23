@@ -37,6 +37,10 @@ Use Richelieu to test institutional capacity: which ministries, banks, firms, po
 ## Civilization / Empire Helix
 
 - [Helix](helix.md) - primary lane interpretation; use this first when the question spans order, continuity, leverage, deformation, and restoration together.
+- [Volume I spine](volume-i-spine.md) - the full 20-chapter map for the first China volume in the five-volume series.
+- [Chapter 1: China - Order Without Final Ownership](chapters/01-order-without-final-ownership.md)
+- [Chapter 2: Heaven, Mandate, and the Fear of Disorder](chapters/02-heaven-mandate-and-the-fear-of-disorder.md)
+- [Chapter 8: Qin and Han as the Regime Carrier of Continuity](chapters/08-qin-and-han-as-regime-carrier.md)
 
 China is now the third helix-first transfer case. Start with [helix](helix.md) when the lane question has split across several notes and you need the governing line again. The helix is the primary authored interpretation; the first-wave objects below are the supporting strand surfaces.
 
@@ -50,7 +54,7 @@ China's broader first-wave strand set is now usable as an ordered drafting surfa
 - [peace](civilization/peace.md) for stabilization formulas, review, recognition, and bounded equilibrium
 - [empire instrument](empire/seed-instruments.md) for the outward control stack that protects, overreaches, or exposes Chinese leverage
 
-Use these after the helix has clarified which strand is actually governing the clause. Use older lane notes or direct `civ-mem` provenance only when the first-wave set still leaves a real gap.
+Use these after the helix has clarified which strand is actually governing the clause. Use older lane notes only when the first-wave set still leaves a real gap.
 
 - [State](state/) - current party-state authority, top leadership, bureaucracy, PLA, banks, firms, ports, and diplomatic carriers.
 - [Civilization](civilization/) - inherited Chinese code: order, continuity, mandate logic, humiliation memory, and unity.

@@ -30,11 +30,11 @@ This object does not decide whether a specific maritime arrangement, corridor de
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“COREâ€“PERSIA.md`
   - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“STATEâ€“PERSIA.md`
   - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“DOCTRINEâ€“PERSIA.md`
-  - all geo-specific `MEMâ€“PERSIAâ€“...` files listed under `CIV-MEM Inputs`
+  - all geo-specific `MEMâ€“PERSIAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [Persia state memory](objects/state-memory.md)
   - [Persia empire instrument](../empire/seed-instruments.md)
@@ -153,7 +153,7 @@ Status: **Full-strength backfill**.
 - **Complicating source:** `MEMâ€“PERSIAâ€“GEOâ€“PERSIANâ€“GULF.md` shows that Persia's strongest geography is also the easiest to overuse: chokepoint leverage can become systemic threat.
 - **Counterweights:** Persian Gulf and Hormuz overuse; Caspian containment rather than projection; Caucasus as barrier and loss memory; Mesopotamia as exposed lowland corridor; aridity and sanctions turning endurance into domestic stress.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“COREâ€“PERSIA.md`
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“STATEâ€“PERSIA.md`

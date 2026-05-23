@@ -30,10 +30,10 @@ This object does not decide whether a specific strike, proxy action, or Hormuz s
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“COREâ€“PERSIA.md`
   - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“STATEâ€“PERSIA.md`
-  - all war-specific and Gulf-specific `MEMâ€“PERSIAâ€“...` files listed under `CIV-MEM Inputs`
+  - all war-specific and Gulf-specific `MEMâ€“PERSIAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [Persia state memory](objects/state-memory.md)
   - [Persia empire instrument](../empire/seed-instruments.md)
@@ -163,7 +163,7 @@ Status: **Full-strength backfill**.
 - **Complicating source:** `MEMâ€“PERSIAâ€“GEOâ€“PERSIANâ€“GULF.md` shows that geography gives leverage, but overuse can convert recognition leverage into systemic threat.
 - **Counterweights:** Alexander as rupture and imperial overextension; Rome-facing parity as exhaustion risk; Iran-Iraq War as martyrdom/endurance and trauma lock; Gulf/Hormuz as leverage that can become escalation trap.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“COREâ€“PERSIA.md`
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“STATEâ€“PERSIA.md`

@@ -10,7 +10,7 @@ This is not theology, devotional writing, or a claim about metaphysical truth. I
 
 ## Civilizational Function
 
-Iran's sacred grammar joins righteous order to sovereignty. CIV-MEM points to a deep arc in which moral order, imperial dignity, Islamic legitimacy, Shia resistance, revolutionary anti-dependency, martyrdom, and siege adaptation become one bargaining constraint.
+Iran's sacred grammar joins righteous order to sovereignty. archive memory points to a deep arc in which moral order, imperial dignity, Islamic legitimacy, Shia resistance, revolutionary anti-dependency, martyrdom, and siege adaptation become one bargaining constraint.
 
 The arc is layered:
 
@@ -66,7 +66,7 @@ Status: **Full-strength backfill**.
 - **Counterweights used:** Sasanian law as public order lost after conquest but grammar persisting; constitutional law as constraint on sacred sovereignty; Mossadegh/1953 as secular nationalism absorbed into anti-dependency memory; Islamic Revolution as liberation versus clerical capture; Islamic Republic as dignity under siege but prosperity subordinated.
 - **Complicating source:** `MEM-PERSIA-LAW-CONSTITUTION.md` warns that sacred sovereignty is not single-channel authority. Iran has written constitutional limits, elected institutions, and guardianship; a settlement must pass the split rather than treating sacred dignity as one voice.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIV–CORE–PERSIA.md` - sovereignty as sacred law, Shia memory engine, dignity-patience-compute trinity, siege legitimacy.
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIV–STATE–PERSIA.md` - Iran as civilization-state, Achaemenid/Sasanian/Safavid/Pahlavi/Islamic Republic continuity.

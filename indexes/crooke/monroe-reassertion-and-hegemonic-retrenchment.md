@@ -53,6 +53,6 @@ Not every home-base security move is imperial. The pattern only holds when the p
 
 1. Use America-lane empire or geo objects when they already exist.
 2. Use this scaffold for perimeter and retrenchment pattern recognition.
-3. Use legacy `civ-mem` only if a specific Monroe-lineage recovery becomes necessary.
+3. Use legacy `archive memory` only if a specific Monroe-lineage recovery becomes necessary.
 
 

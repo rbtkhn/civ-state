@@ -72,7 +72,7 @@ Counterweights:
 - **Wilson / Nixon counterweight:** moralized purpose and strategic competence both fail when they bypass rights, Congress, courts, or succession.
 - **Steinbeck counterweight:** compassion without mechanism becomes witness only; the republic must absorb suffering through institutions.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIV–CORE–AMERICA.md`
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIV–STATE–AMERICA.md`

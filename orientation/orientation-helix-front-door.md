@@ -100,6 +100,13 @@ Once the top-level line is clear, descend by question type:
 - [China helix](../china/helix.md)
 - [Persia helix](../persia/helix.md)
 
+**Volume pilot**
+
+- [China Volume I spine](../china/volume-i-spine.md)
+- [China Chapter 1: Order Without Final Ownership](../china/chapters/01-order-without-final-ownership.md)
+- [China Chapter 2: Heaven, Mandate, and the Fear of Disorder](../china/chapters/02-heaven-mandate-and-the-fear-of-disorder.md)
+- [China Chapter 8: Qin and Han as the Regime Carrier of Continuity](../china/chapters/08-qin-and-han-as-regime-carrier.md)
+
 **Cross-lane synthesis**
 
 - [Canonical-family synthesis: real settlement](../synthesis/canonical-family-settlement-real.md)

@@ -1,33 +1,31 @@
-# CIV-EMP Source Retrieval Matrix
+# CIV-EMP Retrieval Matrix
 
 WORK only; not Record.
 
 ## Purpose
 
-Use this matrix before creating or upgrading academy-statecraft civilization, empire, helix, or state-memory objects from CIV-EMP.
-
-CIV-EMP is the local Civilization and Empire source base for academy-statecraft. It replaces active CIV-MEM reliance in this workshop while preserving CIV-MEM as legacy provenance where older lane objects already cite it.
+Use this matrix before creating or upgrading civilization, empire, helix, state-memory, or chapter surfaces inside this corpus.
 
 ## Retrieval Contract
 
 For each arc-lens or empire instrument, run four retrieval layers:
 
-1. **CIV-EMP source retrieval** - open the relevant CIV-EMP source object, volume map, or index entry once present.
+1. **Core retrieval** - open the relevant lane object, volume map, or index entry once present.
 2. **Lane retrieval** - open the lane's `civilization/`, `empire/`, `state/`, `helix.md`, and seed-pattern surfaces where present.
 3. **Lens retrieval** - search for the object-specific seed terms below.
 4. **Counterweight retrieval** - find at least one source or lane object where the pattern degrades, reverses, overreaches, or becomes unusable.
 
-Where older CIV-MEM files are still useful as provenance, statecraft outputs should still cite the CIV-EMP object or lane-local translation whenever one exists.
+Prefer the narrowest destination-corpus surface that already carries the pattern honestly.
 
 ## Citation Preference
 
 Prefer the narrowest source that can carry the claim:
 
 1. Cite a lane-local object when the claim is already translated into statecraft use.
-2. Cite a CIV-EMP source object when the claim needs source-base authority.
-3. Cite PH-CIV or legacy CIV-MEM only as upstream provenance or when no CIV-EMP object exists yet.
+2. Cite a CIV-EMP object when the claim needs lane or corpus authority.
+3. Cite a broader public or comparative surface only when no narrower CIV-EMP object yet carries the claim.
 
-Do not cite a broad public source or legacy graph file merely because it is impressive. The goal is faster operational retrieval with enough provenance to remain honest.
+Do not cite a broad public source merely because it is impressive. The goal is faster operational retrieval with enough grounding to remain honest.
 
 ## Arc-Lens Contract
 
@@ -74,7 +72,7 @@ Route durable discoveries as:
 
 `CIV-EMP signal -> named statecraft pattern -> lane-local update candidate -> human review -> accepted lane change`
 
-Use `<lane>/updates/pending.md` for candidates. Do not directly rewrite transactions, PH-CIV, CIV-MEM, Record surfaces, raw-input, speaker sources, or current state carrier files unless the operator separately requests that implementation.
+Use `<lane>/updates/pending.md` for candidates. Do not directly rewrite transactions, PH-CIV, Record surfaces, raw-input, speaker sources, or current state carrier files unless the operator separately requests that implementation.
 
 
 

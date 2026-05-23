@@ -70,7 +70,7 @@ Counterweights:
 - **Chekhov counterweight:** suffering may be quiet depletion rather than redemptive authority.
 - **Gogol counterweight:** state language can become performative order masking moral emptiness.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIV–CORE–RUSSIA.md`
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIV–STATE–RUSSIA.md`

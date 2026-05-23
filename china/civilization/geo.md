@@ -30,12 +30,12 @@ This object does not decide whether a specific port arrangement, water project, 
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“COREâ€“CHINA.md`
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“STATEâ€“CHINA.md`
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“DOCTRINEâ€“CHINA.md`
   - `research/repos/civilization_memory/content/civilizations/CHINA/MEMâ€“RELEVANCEâ€“CHINA.md`
-  - all geo-specific `MEMâ€“CHINAâ€“...` files listed under `CIV-MEM Inputs`
+  - all geo-specific `MEMâ€“CHINAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [China state memory](objects/state-memory.md)
   - [China empire instrument](../empire/seed-instruments.md)
@@ -148,7 +148,7 @@ Status: **Full-strength backfill**.
 - **Complicating source:** `MEMâ€“CHINAâ€“GEOâ€“YELLOWâ€“RIVER.md` shows that the same river can be cradle and hazard, making legitimacy depend on visible control of floods, grain, and supply.
 - **Counterweights:** Yellow River flood and disorder risk; Grand Canal as logistical unity and centralized vulnerability; Taiwan Strait as connector and political divide; South China Sea as trade route and coalition-triggering sovereignty theater.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“COREâ€“CHINA.md`
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“STATEâ€“CHINA.md`

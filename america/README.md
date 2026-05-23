@@ -55,7 +55,7 @@ America's broader first-wave strand set is now usable as an ordered drafting sur
 - [peace](civilization/peace.md) for lawful settlement, burden-sharing, review, and successor-stable exit
 - [empire instrument](empire/seed-instruments.md) for the outward control stack that protects, overreaches, or deforms the republic
 
-Use these after the helix has clarified which strand is actually governing the clause. Use older lane notes or direct `civ-mem` provenance only when the first-wave set still leaves a real gap.
+Use these after the helix has clarified which strand is actually governing the clause. Use older lane notes or direct `archive memory` provenance only when the first-wave set still leaves a real gap.
 
 ## Current State Carriers
 

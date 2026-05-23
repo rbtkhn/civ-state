@@ -30,12 +30,12 @@ This object does not determine whether a specific mediation, maritime arrangemen
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“COREâ€“CHINA.md`
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“STATEâ€“CHINA.md`
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“DOCTRINEâ€“CHINA.md`
   - `research/repos/civilization_memory/content/civilizations/CHINA/MEMâ€“RELEVANCEâ€“CHINA.md`
-  - all peace-and-order-specific `MEMâ€“CHINAâ€“...` files listed under `CIV-MEM Inputs`
+  - all peace-and-order-specific `MEMâ€“CHINAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [China state memory](objects/state-memory.md)
   - [China empire instrument](../empire/seed-instruments.md)
@@ -180,7 +180,7 @@ Counterweights:
 - **Taiwan / maritime counterweight:** visible restraint can be read as containment or fragmentation normalization.
 - **Zhou counterweight:** face-saving diplomacy can make a channel work, but only if it does not force China to publicly own disorder it cannot control.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“COREâ€“CHINA.md`
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“STATEâ€“CHINA.md`

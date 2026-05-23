@@ -52,7 +52,7 @@ Persia's broader first-wave strand set is now usable as an ordered drafting surf
 - [peace](civilization/peace.md) for recognition formulas, review, relief, and bounded equilibrium
 - [empire instrument](empire/seed-instruments.md) for the outward control stack that protects, overreaches, or self-isolates Persian leverage
 
-Use these after the helix has clarified which strand is actually governing the clause. Use older lane notes or direct `civ-mem` provenance only when the first-wave set still leaves a real gap.
+Use these after the helix has clarified which strand is actually governing the clause. Use older lane notes or direct `archive memory` provenance only when the first-wave set still leaves a real gap.
 
 - [State](state/) - current split authority, supreme/elected government, foreign ministry, parliament, IRGC, and security carriers.
 - [Civilization](civilization/) - inherited Persianate and Iranian code: Persian continuity, Shi'a legitimacy, dignity, sovereignty, and resistance memory.

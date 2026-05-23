@@ -10,7 +10,7 @@ This is not theology, devotional writing, or a claim about metaphysical truth. I
 
 ## Civilizational Function
 
-Russia's sacred grammar is not simple theocracy. CIV-MEM points to a denser pattern: sacral legitimacy preserves identity across regime collapse, but it does not secure political succession, administrative capacity, or moral innocence.
+Russia's sacred grammar is not simple theocracy. archive memory points to a denser pattern: sacral legitimacy preserves identity across regime collapse, but it does not secure political succession, administrative capacity, or moral innocence.
 
 The continuity chain is layered:
 
@@ -64,7 +64,7 @@ Status: **Full-strength backfill**.
 - **Counterweights used:** Peter I / Holy Synod subordination of church to state; Bolshevik replacement of sacred legitimacy with party-historical legitimacy; Leningrad as both martyrdom memory and warning that suffering can sanctify policy failure.
 - **Complicating source:** `MEM-RUSSIA-MOSCOW.md` preserves Third Rome elevation and isolation together, warning against treating sacred mission as a clean explanatory master key.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIV–CORE–RUSSIA.md` - sovereignty dilution, compressed legitimacy, sacrifice as legitimacy generator.
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIV–STATE–RUSSIA.md` - state continuity and authority grammar.

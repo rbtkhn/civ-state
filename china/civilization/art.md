@@ -42,7 +42,7 @@ Status: **Full-strength backfill**.
 - **Complicating source:** `MEM–CHINA–WAR–BOXER–REBELLION.md` shows ritual/court order collapsing into vacillation and humiliation under external pressure.
 - **Counterweights:** Kongzi hollow ritual; Qin coercive standardization; Taiping as aesthetic/order collapse into civil war; Boxer as face and ritual order failing under coalition punishment.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIV–CORE–CHINA.md`
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIV–DOCTRINE–CHINA.md`

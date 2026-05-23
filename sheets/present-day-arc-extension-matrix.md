@@ -55,6 +55,6 @@ This matrix is an overlay for live analysis. It does not replace the decentraliz
 
 ## Membrane Rule
 
-If a live read reveals a durable new modern carrier, threshold, or failure mode, stage it only as a lane-local recursive candidate in `<lane>/updates/pending.md`. Do not directly rewrite transactions, CIV-MEM, PH-CIV, Record, raw-input, or current carrier files unless separately requested.
+If a live read reveals a durable new modern carrier, threshold, or failure mode, stage it only as a lane-local recursive candidate in `<lane>/updates/pending.md`. Do not directly rewrite transactions, archive memory, PH-CIV, Record, raw-input, or current carrier files unless separately requested.
 
 

@@ -7,7 +7,7 @@ WORK only; not Record.
 - CIV-EMP lane: `persia`
 - Source frame: Civilization and Empire, applied to Persia's plateau / Gulf geography, dignity-sovereignty memory, and imperial chokepoint leverage.
 - Lane translations used: [Persia geo](../../persia/civilization/geo.md), [Persia peace](../../persia/civilization/peace.md), [Persia helix](../../persia/helix.md), and [Hormuz recognition transit transaction](../../persia/transactions/hormuz-recognition-transit-transaction.md).
-- Legacy provenance: older Persia arc-lenses may still cite CIV-MEM Persia materials; this object is the statecraft-local CIV-EMP retrieval surface for the Hormuz recognition pattern.
+- Legacy provenance: older Persia arc-lenses may still cite archive memory Persia materials; this object is the statecraft-local CIV-EMP retrieval surface for the Hormuz recognition pattern.
 
 ## Pattern
 
@@ -61,7 +61,7 @@ For new Persia/Hormuz statecraft work:
 
 1. Cite this CIV-EMP object for the source pattern.
 2. Cite lane-local Persia geo, peace, helix, and transaction files for operational translation.
-3. Cite PH-CIV or legacy CIV-MEM only when upstream provenance is needed and no CIV-EMP object yet carries the claim.
+3. Cite PH-CIV or legacy archive memory only when upstream provenance is needed and no CIV-EMP object yet carries the claim.
 
 
 

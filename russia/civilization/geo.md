@@ -30,11 +30,11 @@ This object does not decide whether a specific base, corridor, or maritime arran
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“COREâ€“RUSSIA.md`
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“STATEâ€“RUSSIA.md`
   - `research/repos/civilization_memory/content/civilizations/RUSSIA/MEMâ€“RELEVANCEâ€“RUSSIA.md`
-  - all geo-specific `MEMâ€“RUSSIAâ€“...` files listed under `CIV-MEM Inputs`
+  - all geo-specific `MEMâ€“RUSSIAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [Russia state memory](objects/state-memory.md)
   - [Russia empire instrument](../empire/seed-instruments.md)
@@ -149,7 +149,7 @@ Status: **Full-strength backfill**.
 - **Complicating source:** `MEMâ€“RUSSIAâ€“GEOâ€“STEPPE.md` shows why open terrain creates real security pressure while also tempting expansion as the answer to every exposure.
 - **Counterweights:** steppe exposure becoming expansion trap; Black Sea access becoming chokepoint fixation; Siberia as resource base and underpopulated burden; Arctic opportunity constrained by climate, distance, and infrastructure.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“COREâ€“RUSSIA.md`
 - `research/repos/civilization_memory/content/civilizations/RUSSIA/CIVâ€“STATEâ€“RUSSIA.md`

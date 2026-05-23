@@ -19,7 +19,7 @@ How do remembered conferences, whether accurately or mythically remembered, shap
 - Mercouris modern examples: Yalta memory, Munich warning memory
 - `civ-emp` retrieval contract for `peace`
 - lane-local conference or settlement-memory objects where they exist
-- legacy `civ-mem` only if a specific conference lineage needs deeper provenance
+- legacy `archive memory` only if a specific conference lineage needs deeper provenance
 
 ## Arc Pattern
 
@@ -55,6 +55,6 @@ Exclusion anxiety is real, but it does not by itself prove that every excluded a
 
 1. Use lane-local settlement-memory objects when they already carry the relevant history.
 2. Use this scaffold when the live problem is conference memory and exclusion psychology.
-3. Use legacy `civ-mem` only when a specific conference archive is needed.
+3. Use legacy `archive memory` only when a specific conference archive is needed.
 
 

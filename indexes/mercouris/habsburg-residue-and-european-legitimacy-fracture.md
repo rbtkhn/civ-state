@@ -19,7 +19,7 @@ When do old regional alignments or imperial residues become newly visible during
 - Mercouris modern examples: Habsburg residue, Ostpolitik memory, Churchill myth
 - `civ-emp` retrieval contract for `empire-instrument` and `state-memory`
 - lane-local Europe legitimacy objects where they exist
-- legacy `civ-mem` likely needed if this theme is later deepened
+- legacy `archive memory` likely needed if this theme is later deepened
 
 ## Arc Pattern
 
@@ -54,6 +54,6 @@ This theme is highly compression-heavy and should be treated with caution; older
 
 1. Prefer existing Europe legitimacy objects if they already exist.
 2. Use this scaffold as a v1 pattern-holder rather than a finished historical answer.
-3. Use legacy `civ-mem` if a deeper imperial-residue lineage is later needed.
+3. Use legacy `archive memory` if a deeper imperial-residue lineage is later needed.
 
 

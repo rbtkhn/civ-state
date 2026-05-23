@@ -42,7 +42,7 @@ Status: **Full-strength backfill**.
 - **Complicating source:** `MEM–PERSIA–IRAN–MOSSADEGH.md` shows a secular nationalist memory absorbed into anti-dependency dignity, warning against flattening Iran into one regime grammar.
 - **Counterweights:** Hedayat as alienation rather than triumph; Mossadegh as sovereignty denied but also failed institutional protection; Islamic Revolution as dignity reset and clerical capture; Iran-Iraq War as martyrdom and endurance lock.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIV–CORE–PERSIA.md`
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIV–STATE–PERSIA.md`

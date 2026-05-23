@@ -19,7 +19,7 @@ How do republics or empires justify privileged zones, and how does the resulting
 - Freeman Monroe activation
 - America empire-republic diagnostics
 - CIV-EMP retrieval contract for `state-memory`
-- Legacy `civ-mem` only if deeper hemispheric or imperial-zone provenance later becomes necessary
+- Legacy `archive memory` only if deeper hemispheric or imperial-zone provenance later becomes necessary
 
 ## Arc Pattern
 
@@ -62,6 +62,6 @@ Counterweight rule:
 
 1. Cite America-lane objects when they already carry the lawful-reach or empire-republic logic.
 2. Cite this scaffold when the question is hemispheric privilege as historical pattern.
-3. Use legacy `civ-mem` only if deeper sphere-doctrine provenance is required.
+3. Use legacy `archive memory` only if deeper sphere-doctrine provenance is required.
 
 

@@ -19,7 +19,7 @@ How do legitimacy breakdown, loss of confidence in truth-bearing institutions, a
 - Freeman Roman-collapse activation
 - CIV-EMP retrieval contract for `state-memory`
 - America-lane empire-republic and successor-legitimacy diagnostics where useful
-- Legacy `civ-mem` only if deeper Rome or successor-order provenance later becomes necessary
+- Legacy `archive memory` only if deeper Rome or successor-order provenance later becomes necessary
 
 ## Arc Pattern
 
@@ -62,6 +62,6 @@ Counterweight rule:
 
 1. Cite lane-local state-memory or America successor-legitimacy objects where present.
 2. Cite this scaffold when the question is regime mutation under decline.
-3. Use legacy `civ-mem` only if a deeper Rome-to-successor historical chain is needed.
+3. Use legacy `archive memory` only if a deeper Rome-to-successor historical chain is needed.
 
 

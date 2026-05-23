@@ -19,7 +19,7 @@ When do settlements hold because they are carried by real state form, and when d
 - Crooke modern examples: end-of-Cold-War verbal assurance, treaty-form insistence, sovereign-settlement blockage
 - `civ-emp` retrieval contract for `peace`
 - lane-local treaty or settlement objects where they exist
-- legacy `civ-mem` only if a specific settlement lineage later needs deeper provenance
+- legacy `archive memory` only if a specific settlement lineage later needs deeper provenance
 
 ## Arc Pattern
 
@@ -59,6 +59,6 @@ Formal treaty language alone does not save a settlement if the parties never int
 
 1. Use lane-local peace objects when they already carry the relevant treaty or recognition logic.
 2. Use this scaffold when the question is still about pattern and carrier type.
-3. Use legacy `civ-mem` only when a specific settlement genealogy needs deeper provenance.
+3. Use legacy `archive memory` only when a specific settlement genealogy needs deeper provenance.
 
 

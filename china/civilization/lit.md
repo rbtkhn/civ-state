@@ -75,7 +75,7 @@ Counterweights:
 - **ROC counterweight:** legitimacy claims without coercive and administrative capacity produce fragmentation.
 - **Sunzi counterweight:** strategic patience can become opacity, mistrust, or delayed escalation if no one can verify restraint.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIV–CORE–CHINA.md`
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIV–STATE–CHINA.md`

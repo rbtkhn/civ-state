@@ -28,7 +28,7 @@ This object cannot decide current policy by itself. It does not tell you whether
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“COREâ€“AMERICA.md`
   - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“STATEâ€“AMERICA.md`
   - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“DOCTRINEâ€“AMERICA.md`

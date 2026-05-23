@@ -38,7 +38,7 @@ This object cannot decide whether a specific transit incident, inspection propos
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/PERSIA/CIV-CORE-PERSIA.md`
   - `research/repos/civilization_memory/content/civilizations/PERSIA/CIV-STATE-PERSIA.md`
   - `research/repos/civilization_memory/content/civilizations/PERSIA/MEM-PERSIA-IRAN-MOSSADEGH.md`

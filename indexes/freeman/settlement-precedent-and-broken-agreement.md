@@ -19,7 +19,7 @@ How do durable settlements fail, hold, or get hollowed out over time when neutra
 - Freeman modern examples: Austrian State Treaty, Korean Armistice, Westphalia, Vienna, JCPOA, Minsk, Camp David
 - CIV-EMP retrieval contract for `peace`
 - Existing lane-local peace objects where relevant
-- Legacy `civ-mem` only if a specific settlement lineage later needs deeper provenance than current `civ-emp` can supply
+- Legacy `archive memory` only if a specific settlement lineage later needs deeper provenance than current `civ-emp` can supply
 
 ## Arc Pattern
 
@@ -65,6 +65,6 @@ Counterweight rule:
 
 1. Cite lane-local peace objects when they already carry the relevant settlement logic.
 2. Cite this source scaffold when the question is still at the pattern-and-architecture level.
-3. Cite legacy `civ-mem` only if a specific settlement lineage needs deeper historical recovery.
+3. Cite legacy `archive memory` only if a specific settlement lineage needs deeper historical recovery.
 
 

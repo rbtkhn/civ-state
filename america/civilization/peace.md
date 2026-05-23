@@ -30,11 +30,11 @@ This object does not determine whether a specific ceasefire, alliance clause, or
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“STATEâ€“AMERICA.md`
   - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“DOCTRINEâ€“AMERICA.md`
   - `research/repos/civilization_memory/content/civilizations/AMERICA/MEMâ€“RELEVANCEâ€“AMERICA.md`
-  - all peace-and-settlement-specific `MEMâ€“AMERICAâ€“...` files listed under `CIV-MEM Inputs`
+  - all peace-and-settlement-specific `MEMâ€“AMERICAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [America state memory](objects/state-memory.md)
   - [America empire instrument](../empire/seed-instruments.md)
@@ -159,7 +159,7 @@ Status: **Full-strength backfill**.
 - **Complicating source:** `MEMâ€“AMERICAâ€“PRESIDENTâ€“WILSON.md` shows moral peace architecture failing when the president cannot secure domestic institutional consent.
 - **Counterweights:** Monroe perimeter peace becoming policing; Marshall reconstruction becoming template for indefinite management; Cold War peace becoming permanent rivalry; Kissingerian order lowering moral clarity; Wilsonian peace failing in the Senate.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“STATEâ€“AMERICA.md`
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“DOCTRINEâ€“AMERICA.md`

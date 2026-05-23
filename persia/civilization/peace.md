@@ -30,11 +30,11 @@ This object does not determine whether a specific sanctions-relief package, insp
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“COREâ€“PERSIA.md`
   - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“STATEâ€“PERSIA.md`
   - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“DOCTRINEâ€“PERSIA.md`
-  - all peace-and-recognition-specific `MEMâ€“PERSIAâ€“...` files listed under `CIV-MEM Inputs`
+  - all peace-and-recognition-specific `MEMâ€“PERSIAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [Persia state memory](objects/state-memory.md)
   - [Persia empire instrument](../empire/seed-instruments.md)
@@ -163,7 +163,7 @@ If the question is about continuity-bearing sovereignty and humiliation memory, 
 - **Complicating source:** `MEMâ€“PERSIAâ€“GEOâ€“PERSIANâ€“GULF` gives Persia real structural leverage through Hormuz, but `CIVâ€“DOCTRINEâ€“PERSIA` warns that calibrated denial is preferable to total closure unless the evidence changes.
 - **Retrieval warning:** `route_civ_mem_topic.py` misrouted the Persia-peace query into a Rome / France / America profile. This backfill therefore used manual Persia anchoring rather than the automatic route as authority.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“COREâ€“PERSIA.md`
 - `research/repos/civilization_memory/content/civilizations/PERSIA/CIVâ€“STATEâ€“PERSIA.md`

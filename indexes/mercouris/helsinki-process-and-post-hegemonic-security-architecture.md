@@ -19,7 +19,7 @@ When does a region move from coercive dominance attempts toward conference-style
 - Mercouris modern examples: Helsinki process as Gulf model, non-aggression architecture, postwar coexistence
 - `civ-emp` retrieval contract for `geo` and `peace`
 - lane-local Gulf, Hormuz, and security-architecture objects where they exist
-- legacy `civ-mem` only if a deeper Helsinki-process lineage is needed
+- legacy `archive memory` only if a deeper Helsinki-process lineage is needed
 
 ## Arc Pattern
 
@@ -55,6 +55,6 @@ Helsinki is a pattern family, not a magic template; regional actors, regime type
 
 1. Use lane-local Gulf or security-architecture objects when they already exist.
 2. Use this scaffold when the question is about post-hegemonic design patterning.
-3. Use legacy `civ-mem` only when a deeper conference-process lineage is needed.
+3. Use legacy `archive memory` only when a deeper conference-process lineage is needed.
 
 

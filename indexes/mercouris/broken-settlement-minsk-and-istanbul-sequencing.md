@@ -19,7 +19,7 @@ When does a ceasefire or interim process fail because it postpones the real poli
 - Mercouris modern examples: Minsk failure, Istanbul 2022, Istanbul Plus
 - `civ-emp` retrieval contract for `peace`
 - lane-local settlement, armistice, or sequencing objects where they exist
-- legacy `civ-mem` only if a particular settlement genealogy needs deeper provenance
+- legacy `archive memory` only if a particular settlement genealogy needs deeper provenance
 
 ## Arc Pattern
 
@@ -55,6 +55,6 @@ Some interim arrangements are necessary; the point is not to reject staging alto
 
 1. Use lane-local peace objects when they already hold the settlement logic.
 2. Use this scaffold when the problem is still sequencing and trust exhaustion.
-3. Use legacy `civ-mem` only when a deeper settlement genealogy is needed.
+3. Use legacy `archive memory` only when a deeper settlement genealogy is needed.
 
 

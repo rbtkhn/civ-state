@@ -10,7 +10,7 @@ This is not theology, devotional writing, or a claim about metaphysical truth. I
 
 ## Civilizational Function
 
-America's sacred grammar is covenantal and constitutional more than ecclesiastical. CIV-MEM points to an arc in which moral mission becomes legitimate only when carried through law, consent, rights, and institutional checks.
+America's sacred grammar is covenantal and constitutional more than ecclesiastical. archive memory points to an arc in which moral mission becomes legitimate only when carried through law, consent, rights, and institutional checks.
 
 The arc is layered:
 
@@ -66,7 +66,7 @@ Status: **Full-strength backfill**.
 - **Counterweights used:** slavery as rights contradiction; Manifest Destiny as providential conquest; Wilson as democracy rhetoric joined to domestic repression and Senate failure; Monroe/Roosevelt perimeter logic as anti-colonial language turning into policing.
 - **Complicating source:** `MEM-AMERICA-FEDERALIST-PAPERS.md` warns that liberty is protected by structure, not purity. Sacred rights claims need faction management, separated powers, and ambition countering ambition.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIV–CORE–AMERICA.md` - constitutional continuity, rights-based legitimacy, separation-of-powers failure modes.
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIV–STATE–AMERICA.md` - Anglian inheritance, Protestant moral individualism, procedure, perimeter, and hegemonic order grammar.

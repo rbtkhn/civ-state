@@ -30,12 +30,12 @@ This object does not tell you whether a specific operation around Taiwan or the 
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“COREâ€“CHINA.md`
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“STATEâ€“CHINA.md`
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“DOCTRINEâ€“CHINA.md`
   - `research/repos/civilization_memory/content/civilizations/CHINA/MEMâ€“RELEVANCEâ€“CHINA.md`
-  - all war-specific and maritime-specific `MEMâ€“CHINAâ€“...` files listed under `CIV-MEM Inputs`
+  - all war-specific and maritime-specific `MEMâ€“CHINAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [China state memory](objects/state-memory.md)
   - [China empire instrument](../empire/seed-instruments.md)
@@ -157,7 +157,7 @@ If the question is about continuity, authority, and development legitimacy, retu
 
 Status: **Full-strength backfill**.
 
-- **Direct CIV-MEM sources opened:** `CIVâ€“COREâ€“CHINA`, `CIVâ€“STATEâ€“CHINA`, `CIVâ€“DOCTRINEâ€“CHINA`, `MEMâ€“RELEVANCEâ€“CHINA`, China seed patterns, and China state-memory.
+- **Direct archive memory sources opened:** `CIVâ€“COREâ€“CHINA`, `CIVâ€“STATEâ€“CHINA`, `CIVâ€“DOCTRINEâ€“CHINA`, `MEMâ€“RELEVANCEâ€“CHINA`, China seed patterns, and China state-memory.
 - **Lens retrieval terms:** disorder, dynastic rupture, Opium, Taiping, Boxer, ROC, PRC, Mao, Deng, Taiwan, Taiwan Strait, quarantine, blockade, maritime access, first island chain, PLA restraint, insurance panic, development legitimacy.
 - **MEM CONNECTIONS expansion:** followed humiliation, rebellion, civil-war, Taiwan, near-seas, Song-Yuan, Grand Canal, PRC, Mao, and Deng connection paths to find adjacency, counterweights, and transaction constraints.
 - **Connected MEMs used:** First Opium, Second Opium, Taiping, Boxer, ROC, PRC, Mao, Deng, Song-Yuan, Grand Canal, Taiwan, Taiwan Strait, East China Sea, and South China Sea.
@@ -165,7 +165,7 @@ Status: **Full-strength backfill**.
 - **Counterweights:** Boxer shows anti-foreign mobilization producing coalition retaliation; First Opium shows survival sometimes accepting a humiliating settlement; Deng shows performance legitimacy depends on development continuity; Mao shows mobilization can build the state while damaging society; ROC shows legitimacy without capacity can fragment; Taiwan shows forced resolution can create more disorder than managed ambiguity.
 - **Retrieval warning:** `route_civ_mem_topic.py` misrouted the initial query toward a Latin / Rome path, so this backfill used manual China anchoring plus direct MEM CONNECTIONS traversal.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“COREâ€“CHINA.md`
 - `research/repos/civilization_memory/content/civilizations/CHINA/CIVâ€“STATEâ€“CHINA.md`

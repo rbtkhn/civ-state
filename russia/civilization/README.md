@@ -58,6 +58,6 @@ Use the first-wave civilization objects in this order when the drafting problem 
 - [war](war.md) for coercive depth, command compression, and escalation architecture
 - [peace](peace.md) for reciprocal limits, recognition formulas, and bounded equilibrium
 
-These are now the preferred Russia civilization-side strand openings ahead of older compact notes or direct `civ-mem` provenance files. Use them after the [Russia helix](../helix.md) has identified which strand should lead the draft.
+These are now the preferred Russia civilization-side strand openings ahead of older compact notes or direct `archive memory` provenance files. Use them after the [Russia helix](../helix.md) has identified which strand should lead the draft.
 
 

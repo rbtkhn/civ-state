@@ -43,7 +43,7 @@ Status: **Full-strength backfill**.
 - **Complicating source:** `MEM–AMERICA–MANIFEST–DESTINY.md` shows how providential landscape and expansion imagery can lower the legitimacy cost of conquest.
 - **Counterweights:** slavery as rights-image contradiction; Manifest Destiny as beauty/mission masking dispossession; Philippine-American War as liberty language turning imperial; Wilson as moral image outrunning institutional consent.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIV–CORE–AMERICA.md`
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIV–STATE–AMERICA.md`

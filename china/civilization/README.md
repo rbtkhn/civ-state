@@ -58,6 +58,6 @@ Use the first-wave civilization objects in this order when the drafting problem 
 - [war](war.md) for coercive classification, party-state command, and escalation architecture
 - [peace](peace.md) for stabilization formulas, review, recognition, and bounded equilibrium
 
-These are now the preferred China civilization-side strand openings ahead of older compact notes or direct `civ-mem` provenance files. Use them after the [China helix](../helix.md) has identified which strand should lead the draft.
+These are now the preferred China civilization-side strand openings. Use them after the [China helix](../helix.md) has identified which strand should lead the draft.
 
 

@@ -19,7 +19,7 @@ When do rival great powers preserve enough contact and treaty memory to manage d
 - Mercouris modern examples: Cold War contact, direct-strike threshold, INF / SS20 memory
 - `civ-emp` retrieval contract for `state-memory` and `war`
 - lane-local deterrence or arms-control objects where they exist
-- legacy `civ-mem` only if a specific hotline or treaty lineage needs deeper provenance
+- legacy `archive memory` only if a specific hotline or treaty lineage needs deeper provenance
 
 ## Arc Pattern
 
@@ -59,6 +59,6 @@ Cold War memory can itself mislead if treated as a complete model rather than as
 
 1. Use lane-local deterrence and treaty objects when they already exist.
 2. Use this scaffold when the question is still about contact-regime patterning.
-3. Use legacy `civ-mem` only when a specific Cold War lineage needs deeper archival provenance.
+3. Use legacy `archive memory` only when a specific Cold War lineage needs deeper archival provenance.
 
 

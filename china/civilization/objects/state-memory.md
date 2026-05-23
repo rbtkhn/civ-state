@@ -26,7 +26,7 @@ This object cannot decide current policy by itself. It does not tell you whether
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIV-CORE-CHINA.md`
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIV-STATE-CHINA.md`
   - `research/repos/civilization_memory/content/civilizations/CHINA/CIV-DOCTRINE-CHINA.md`

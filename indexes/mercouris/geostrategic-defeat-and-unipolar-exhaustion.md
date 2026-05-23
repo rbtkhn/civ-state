@@ -19,7 +19,7 @@ When does defeat matter most as a reversal of order psychology and hegemonic sel
 - Mercouris modern examples: Vietnam comparison, end-of-Cold-War glow, Western misreading of Russian history
 - `civ-emp` retrieval contract for `war`
 - lane-local decline, defeat, or prestige objects where they exist
-- legacy `civ-mem` only if a longer defeat genealogy is needed
+- legacy `archive memory` only if a longer defeat genealogy is needed
 
 ## Arc Pattern
 
@@ -55,6 +55,6 @@ Not every setback is a system-defining defeat; the pattern only holds when prest
 
 1. Use lane-local defeat or order-transition objects when they already carry the pattern.
 2. Use this scaffold when the problem is prestige reversal and unipolar exhaustion.
-3. Use legacy `civ-mem` only when a deeper defeat genealogy is needed.
+3. Use legacy `archive memory` only when a deeper defeat genealogy is needed.
 
 

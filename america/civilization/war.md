@@ -30,12 +30,12 @@ This object does not decide whether a specific operation, deployment, or strike 
 
 ## Source Basis
 
-- Legacy `civ-mem` provenance:
+- Legacy `archive memory` provenance:
   - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“COREâ€“AMERICA.md`
   - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“STATEâ€“AMERICA.md`
   - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“DOCTRINEâ€“AMERICA.md`
   - `research/repos/civilization_memory/content/civilizations/AMERICA/MEMâ€“RELEVANCEâ€“AMERICA.md`
-  - all war-specific and command-specific `MEMâ€“AMERICAâ€“...` files listed under `CIV-MEM Inputs`
+  - all war-specific and command-specific `MEMâ€“AMERICAâ€“...` files listed under `archive memory Inputs`
 - Lane-local translation inputs:
   - [America state memory](objects/state-memory.md)
   - [America empire instrument](../empire/seed-instruments.md)
@@ -152,7 +152,7 @@ If the question is about inherited legitimacy and successor carry, return to [Am
 
 Status: **Full-strength backfill**.
 
-- **Direct CIV-MEM sources opened:** `CIVâ€“COREâ€“AMERICA`, `CIVâ€“STATEâ€“AMERICA`, `CIVâ€“DOCTRINEâ€“AMERICA`, `MEMâ€“RELEVANCEâ€“AMERICA`, America seed patterns, and America state-memory.
+- **Direct archive memory sources opened:** `CIVâ€“COREâ€“AMERICA`, `CIVâ€“STATEâ€“AMERICA`, `CIVâ€“DOCTRINEâ€“AMERICA`, `MEMâ€“RELEVANCEâ€“AMERICA`, America seed patterns, and America state-memory.
 - **Lens retrieval terms:** independence, Congress, constitutional authority, civil war, Appomattox, total war, expeditionary empire, Spanish-American, Philippine-American, Manifest Destiny, Wilson, intervention, Vietnam, Nixon, Cold War, alliance, MacArthur, civilian supremacy, Navy, Atlantic, Pacific, fatigue, exit.
 - **MEM CONNECTIONS expansion:** followed independence, Congress, Civil War, Appomattox, Spanish-American, Philippine-American, Manifest Destiny, Wilson, Cold War, MacArthur, Army / Navy, Atlantic, and Pacific connection paths to find adjacency, counterweights, and transaction constraints.
 - **Connected MEMs used:** War of American Independence, Continental Congress, Treaty of Paris, Constitution, Congress, Federalist Papers, Civil War, Gettysburg, Vicksburg, Appomattox, Sherman, Spanish-American War, Philippine-American War, Manifest Destiny, Mexican-American War, Wilson, Johnson, Nixon, Cold War diplomacy, MacArthur, Truman, Eisenhower, Army, Navy, Atlantic, Pacific, and Monroe Doctrine diplomacy.
@@ -160,7 +160,7 @@ Status: **Full-strength backfill**.
 - **Counterweights:** Wilson shows moralized war exceeding Senate ratification and suppressing dissent; Philippine-American memory shows liberation rhetoric becoming occupation and counterinsurgency; MacArthur shows military prestige trying to outrun civilian policy; Vietnam / Nixon shows exit can be procedural while strategic success remains unresolved; Manifest Destiny shows ideology and procedure can jointly mask conquest; Congress shows practice has blurred the constitutional war-and-purse allocation.
 - **Retrieval warning:** `route_civ_mem_topic.py` routed the initial query through a Latin / Rome / Anglia profile before America, so this backfill used manual America anchoring plus direct MEM CONNECTIONS traversal.
 
-## CIV-MEM Inputs
+## archive memory Inputs
 
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“COREâ€“AMERICA.md`
 - `research/repos/civilization_memory/content/civilizations/AMERICA/CIVâ€“STATEâ€“AMERICA.md`
