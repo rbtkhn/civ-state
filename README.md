@@ -1,56 +1,56 @@
-WORK only; not Record.
+# Civilizational Statecraft
 
-# CIV-EMP
+**Public home:** [rbtkhn/civ-state](https://github.com/rbtkhn/civ-state)
 
-`civ-emp` is a helix-first civilizational statecraft corpus.
+A comparative book for the general statesman reader: five civilization-state volumes, a source-lattice for each case, and whole-work apparatus for continuity, legitimacy, and settlement judgment.
 
-It is built for operators who need historical depth without drift, sacred and civilizational seriousness without vagueness, and operational sharpness without flattening everything into generic geopolitics.
+## What this book is
 
-## Start Here
+This book teaches **civilizational statecraft** — how inherited civilizational form, imperial instrument, and live statecraft judgment interact under pressure. It is **self-contained**: finish navigation inside this repository.
 
-1. [Architecture](ARCHITECTURE.md)
-2. [Orientation front door](orientation/orientation-helix-front-door.md)
-3. [Problem-shape router](orientation/orientation-problem-shape-router.md)
-4. [Operator-task router](orientation/orientation-operator-task-router.md)
+The governing movement at volume level:
 
-## Active Lanes
+```text
+civilization → empire → statecraft
+```
 
-- [America](america/README.md)
-- [Russia](russia/README.md)
-- [China](china/README.md)
-- [Persia](persia/README.md)
+The governing movement at whole-work level:
 
-## Volume Pilot
+```text
+memory → legitimacy → carrier → pressure → settlement
+```
 
-- [China Volume I spine](china/volume-i-spine.md)
+## Start here
 
-## Deferred Lane
+1. [Table of Contents](table-of-contents.md)
+2. [Reader Guide](reader-guide.md)
+3. [Source-Lattice](source-lattice.md) — how to read shelves before synthesis
+4. [Volume Map](volumes/README.md)
 
-- [Rome](rome/README.md) - reserved as the final fill lane and not yet an active authored bench
+## Reading order
 
-## Governing Line
+Read civilization-state cases in this order:
 
-The corpus assumes:
+1. [China](volumes/china/README.md)
+2. [Persia](volumes/persia/README.md)
+3. [Rome](volumes/rome/README.md) — preview volume; see volume README
+4. [Russia](volumes/russia/README.md)
+5. [America](volumes/america/README.md)
 
-- civilizational arcs are usually more durable than particular imperial or state forms
-- empire amplifies and degrades as well as protects
-- continuity usually deserves first hearing, but only if it is audited against real carrying capacity
-- sacred legitimacy, law, beauty, and liturgical form are real carriers
-- false flattening is a greater comparative danger than missed recurrence
-- deep patterns are incomplete until they cash out into carrier, restraint, and settlement consequences
+## Whole-work apparatus
 
-## Shared Surfaces
+- [Framework](framework/civilization-empire-faith-science-memory-desire.md)
+- [Comparative continuity](comparative/continuity-mechanism.md)
+- [Pattern library](comparative/pattern-library/README.md)
+- [Sacred grammar](sacred-grammar/README.md)
+- [Glossary](glossary.md) · [Hybrid references](hybrid-references.md) · [Index](index.md)
 
-- [Synthesis](synthesis/)
-- [Orientation](orientation/)
-- [Transactions](transactions/)
-- [Indexes](indexes/README.md)
-- [Sheets](sheets/)
+## Provenance
 
-## Proof And Provenance
+Exported from the governed upstream workshop via `export_civilizational_statecraft_public.py`. Canonical public edits land in this repository; the workshop drafts upstream and re-exports on tagged releases.
 
-- [Persia proof object: Hormuz Recognition / Transit Restraint](persia/proof-objects/hormuz-recognition-transit-restraint.md)
-- [Founding provenance](FOUNDING-PROVENANCE.md)
+See [FOUNDING-PROVENANCE.md](FOUNDING-PROVENANCE.md) for the reshape from the legacy helix-lane public cut.
 
-This repo is a curated authored corpus. It keeps the live lane, synthesis, and retrieval surfaces in one place without exposing the larger making process that produced them.
+## License
 
+See [LICENSE](LICENSE). Contributions: [CONTRIBUTING.md](CONTRIBUTING.md).
