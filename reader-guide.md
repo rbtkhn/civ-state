@@ -13,6 +13,19 @@ Read it with four habits:
 - look for equilibrium before maximal declaration
 - look for settlement possibility before rhetorical climax
 
+## Names and titles
+
+Do not collapse these layers:
+
+| Name | Role |
+|------|------|
+| **Civilizational Statecraft** | Book title (public reader-facing name) |
+| **Civilization and Empire** | Whole-work opening essay ([introduction.md](introduction.md)) — not the book title |
+| **Volume introduction** | Each volume's thematic essay (e.g. Mandate of Heaven) — not the whole-work essay |
+| **civ-state** | Workshop folder and GitHub repo slug — source-memory substrate, not a reader title |
+
+Within each volume, read **volume introduction → Civilization chapter → Empire chapter**. The whole work begins with **Civilization and Empire**, then this Reader Guide, then the volume map.
+
 ## What This Work Is
 
 Civilizational Statecraft is a **five-volume** source-memory book for operators:
@@ -29,7 +42,7 @@ This is why the work should feel book-like without ceasing to be usable.
 
 ## How To Read The Whole Work
 
-Begin with [Table of Contents](table-of-contents.md).
+Begin with [Civilization and Empire](introduction.md) for the whole-book thesis, then this Reader Guide for reading doctrine, then [Table of Contents](table-of-contents.md) for the map.
 
 Then choose between two entry modes:
 
@@ -50,11 +63,11 @@ Choose governing-layer entry when the real question is:
 
 ## How To Read One Civilization Volume
 
-Every volume should be opened through the same order:
+Every volume in Civilizational Statecraft should be opened through the same order:
 
-1. `civilization-<civ>.md`
-2. `empire-<civ>.md`
-3. `statecraft-<civ>.md`
+1. volume introduction (thematic essay; not [Civilization and Empire](introduction.md))
+2. `civilization-<civ>.md`
+3. `empire-<civ>.md`
 
 Each volume should also carry its own bibliography. Use it when the operator needs the primary-source field, bounded secondary support, or evidence spine evidence orientation for one civilization-state case rather than for the whole work at once.
 
@@ -67,31 +80,41 @@ Read the stack as a switchboard:
 - stay in the primary shelf when the issue is legitimacy language, founding wording, sacred grammar, legal form, or the civilization's own self-description
 - open the secondary shelf when the issue is chronology, provenance, translation, institutional context, counterweight, or misreading correction
 - return to the primary shelf once the difficulty has been clarified rather than letting secondary scholarship become the new center of gravity
-- move upward into civilization, empire, or statecraft once the source difficulty has been resolved and the live question has become present carrier, outward instrument, or settlement-bearing judgment
+- move upward into civilization or empire once the source difficulty has been resolved and the live question has become present carrier, outward instrument, or civilizational entropy
 
-Read Part 1 first when the issue is continuity, legitimacy, founding, inheritance, sacred grammar, or category membership.
+Read the volume introduction first when the issue is case placement, sovereignty chain, or read path.
 
-Read Part 2 next when the issue is reach, projection stack, coercive carriage, maintenance burden, or overreach.
+Read **Civilization** when the issue is continuity, legitimacy, founding, inheritance, sacred grammar, or category membership.
 
-Read Part 3 when the issue is no longer merely historical structure but the present-tense diplomatic read:
+Read **Empire** when the issue is reach, projection stack, coercive carriage, maintenance burden, overreach, or civilizational entropy.
 
-- room
-- pressure
-- legitimacy
-- equilibrium
-- settlement possibility
+## When To Descend Into the Sub-Lenses
 
-## When To Descend Into the Statecraft Sub-Essays
+The `geo-strategy`, `secret-history`, and `game-theory` files are optional sub-lenses beneath **Empire**.
 
-The `geo-strategy`, `secret-history`, and `game-theory` files sit beneath Part 3.
-
-Descend only when the statecraft chapter has made the pressure geometry narrower:
+Descend when the civilization and empire read has clarified the pressure geometry:
 
 - `geo-strategy` when terrain, corridors, buffers, chokepoints, distance, or maritime exposure govern
 - `secret-history` when humiliation memory, symbolic activation, sacred residue, or hidden inheritance govern
 - `game-theory` when incentives, hierarchy, coalition geometry, bargaining, or escalation govern
 
 Do not open these first by default when the civilization, empire, and present-carrier read is still unclear.
+
+## Sacred grammar (volume-local)
+
+**Sacred grammar** is the legitimacy substrate beneath sovereignty — mandate, Asha, Roman juridical universality, Orthodoxy, covenant and civil religion, and similar deep-grammar questions.
+
+Each volume carries its own **`sacred-grammar.md`** beside introduction, Civilization, and Empire. Open it when the question is *what makes authority feel rightful here* — not yet sovereign opening or present carrier.
+
+| Volume | File |
+|--------|------|
+| I — China | [volumes/china/sacred-grammar.md](volumes/china/sacred-grammar.md) |
+| II — Persia | [volumes/persia/sacred-grammar.md](volumes/persia/sacred-grammar.md) |
+| III — Rome | [volumes/rome/sacred-grammar.md](volumes/rome/sacred-grammar.md) |
+| IV — Russia | [volumes/russia/sacred-grammar.md](volumes/russia/sacred-grammar.md) |
+| V — America | [volumes/america/sacred-grammar.md](volumes/america/sacred-grammar.md) |
+
+Sacred grammar is **not** sovereign opening, current carrier, official religion alone, or a policy memo. Build judgments from seed MEM → MEM CONNECTIONS → overview corroborators, then translate into book-native prose (workshop evidence rules apply).
 
 ## How evidence spine Enters the Work
 
@@ -164,9 +187,9 @@ It must prevent five errors:
 
 ## Companion Doors
 
+- [Civilization and Empire](introduction.md)
 - [Table of Contents](table-of-contents.md)
 - [Glossary](glossary.md)
 - [Hybrid References](hybrid-references.md)
 - [Index](index.md)
 - [Volume Map](volumes/README.md)
-- [Sacred Grammar Library](sacred-grammar/README.md)

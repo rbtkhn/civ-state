@@ -6,26 +6,38 @@ A comparative book for the general statesman reader: five civilization-state vol
 
 ## What this book is
 
-This book teaches **civilizational statecraft** — how inherited civilizational form, imperial instrument, and live statecraft judgment interact under pressure. It is **self-contained**: finish navigation inside this repository.
+This book teaches **civilizational statecraft** — how inherited civilizational form, imperial instrument, and statesmanlike judgment interact under pressure. It is **self-contained**: finish navigation inside this repository.
 
-The governing movement at volume level:
+The governing helix:
 
 ```text
-civilization → empire → statecraft
+civilization beautifies → empire amplifies → civilizational entropy
 ```
 
-The governing movement at whole-work level:
+Whole-work retrieval movement:
 
 ```text
 memory → legitimacy → carrier → pressure → settlement
 ```
 
+## Names and titles
+
+| Name | Role |
+|------|------|
+| **Civilizational Statecraft** | This book's title |
+| **Civilization and Empire** | Whole-work opening essay — not the book title |
+| **Volume introduction** | Each volume's thematic essay (e.g. Mandate of Heaven) |
+| **civ-state** | GitHub repo slug only — not a reader title |
+
+See [Reader Guide](reader-guide.md#names-and-titles) and [Glossary](glossary.md).
+
 ## Start here
 
-1. [Table of Contents](table-of-contents.md)
-2. [Reader Guide](reader-guide.md)
-3. [Source-Lattice](source-lattice.md) — how to read shelves before synthesis
-4. [Volume Map](volumes/README.md)
+1. [Civilization and Empire](introduction.md)
+2. [Table of Contents](table-of-contents.md)
+3. [Reader Guide](reader-guide.md)
+4. [Source-Lattice](source-lattice.md) — how to read shelves before synthesis
+5. [Volume Map](volumes/README.md)
 
 ## Reading order
 
@@ -37,12 +49,14 @@ Read civilization-state cases in this order:
 4. [Russia](volumes/russia/README.md)
 5. [America](volumes/america/README.md)
 
+Within each volume: **volume introduction** (thematic title) → **Civilization** chapter → **Empire** chapter → optional sub-lenses. Begin the whole work with [Civilization and Empire](introduction.md), not a volume introduction.
+
 ## Whole-work apparatus
 
 - [Framework](framework/civilization-empire-faith-science-memory-desire.md)
 - [Comparative continuity](comparative/continuity-mechanism.md)
 - [Pattern library](comparative/pattern-library/README.md)
-- [Sacred grammar](sacred-grammar/README.md)
+- [Sacred grammar (volume-local)](reader-guide.md#sacred-grammar-volume-local) · [Volume Map](volumes/README.md)
 - [Glossary](glossary.md) · [Hybrid references](hybrid-references.md) · [Index](index.md)
 
 ## Provenance

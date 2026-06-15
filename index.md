@@ -1,30 +1,34 @@
 # Index
 
-Use this as the whole-work index for Civilizational Statecraft. It is biased toward names, peoples, polities, dynasties, empires, churches, routes, and retrieval doors rather than toward purely abstract categorization.
+Use this as the whole-work index for Civilizational Statecraft. It is biased toward names, peoples, polities, dynasties, empires, churches, routes, and retrieval doors rather than toward purely abstract categorization. Volume front-door links use **Volume I–V** labels, not the `civ-state` slug — see [Names and titles](reader-guide.md#names-and-titles).
 
 ## A
 
-- Alfred the Great - [America](volumes/america/README.md)
-- America - [America](volumes/america/README.md)
+- Alfred the Great - [Volume V — America](volumes/america/README.md)
+- America - [Volume V](volumes/america/README.md)
 - Anglo-America - [Glossary](glossary.md)
 
 ## B
 
 - bureaucratic restoration - [Bureaucratic Restoration](comparative/pattern-library/bureaucratic-restoration.md)
-- Byzantium - [Glossary](glossary.md), [Rome](volumes/rome/README.md)
+- Byzantium - [Glossary](glossary.md), [Volume III — Rome](volumes/rome/README.md)
 
 ## C
 
 - carrier - [Glossary](glossary.md)
-- China - [China](volumes/china/README.md)
+- China - [Volume I](volumes/china/README.md)
+- [Civilization and Empire](introduction.md) — opening essay for Civilizational Statecraft (not the book title)
+- Civilizational Statecraft — book title; see [Names and titles](reader-guide.md#names-and-titles)
+- civ-state — workshop/repo slug; not the book title — [Glossary](glossary.md#civ-state)
 - civilization-state - [Glossary](glossary.md)
+- civilizational entropy - [Civilization and Empire](introduction.md)
 - Civilizational Statecraft Framework - [civilization-empire-faith-science-memory-desire.md](framework/civilization-empire-faith-science-memory-desire.md)
 - Civilizational Pattern Library - [Civilizational Pattern Library](comparative/pattern-library/README.md)
 - corridor civilization - [Corridor Civilization](comparative/pattern-library/corridor-civilization.md)
 - continuity - [Glossary](glossary.md)
 - continuity mechanism - [Continuity Mechanism](comparative/continuity-mechanism.md)
 - current sovereign heads - current-sovereign-heads-of-the-civ-states.md
-- Cyrus - [Persia](volumes/persia/README.md)
+- Cyrus - [Volume II — Persia](volumes/persia/README.md)
 
 ## D
 
@@ -55,6 +59,7 @@ Use this as the whole-work index for Civilizational Statecraft. It is biased tow
 
 ## I
 
+- Imperial Republic - [Volume V introduction](volumes/america/introduction.md)
 - index - this file
 
 ## J
@@ -73,6 +78,7 @@ Use this as the whole-work index for Civilizational Statecraft. It is biased tow
 ## M
 
 - Machiavelli - [Hybrid References](hybrid-references.md)
+- Mandate of Heaven - [Volume I introduction](volumes/china/introduction.md)
 - Metternich - [Hybrid References](hybrid-references.md)
 - migration workspace - migration/README.md
 - Muscovy - [Glossary](glossary.md)
@@ -80,12 +86,14 @@ Use this as the whole-work index for Civilizational Statecraft. It is biased tow
 ## O
 
 - order - [Reader Guide](reader-guide.md)
+- Order of Asha - [Volume II introduction](volumes/persia/introduction.md)
 - overreach - [Glossary](glossary.md)
 
 ## P
 
 - parity rival - [Parity Rival](comparative/pattern-library/parity-rival.md)
-- Persia - [Persia](volumes/persia/README.md)
+- Pax Romana - [Volume III introduction](volumes/rome/introduction.md)
+- Persia - [Volume II](volumes/persia/README.md)
 - provisional evidence law - [Hybrid References](hybrid-references.md)
 
 ## Q
@@ -96,13 +104,13 @@ Use this as the whole-work index for Civilizational Statecraft. It is biased tow
 
 - reader guide - [Reader Guide](reader-guide.md)
 - restoration - [Glossary](glossary.md)
-- Rome - [Rome](volumes/rome/README.md)
+- Rome - [Volume III](volumes/rome/README.md)
 - routes - [Table of Contents](table-of-contents.md), [Volume Map](volumes/README.md)
-- Russia - [Russia](volumes/russia/README.md)
+- Russia - [Volume IV](volumes/russia/README.md)
 
 ## S
 
-- sacred grammar - [sacred-grammar/README.md](sacred-grammar/README.md)
+- sacred grammar - [Reader Guide § Sacred grammar](reader-guide.md#sacred-grammar-volume-local); volume files e.g. [China](volumes/china/sacred-grammar.md)
 - sacred reconcentration - [Sacred Reconcentration](comparative/pattern-library/sacred-reconcentration.md)
 - Safavid Persia - [Glossary](glossary.md)
 - secret-history chapters - [Volume Map](volumes/README.md)
@@ -110,7 +118,8 @@ Use this as the whole-work index for Civilizational Statecraft. It is biased tow
 - sovereignty under cognitive compression - [High-Skill Labor Compression and Civilizational Statecraft](comparative/high-skill-labor-compression-and-civilizational-statecraft.md)
 - sovereign continuity - sovereign-continuity-of-the-civ-states.md
 - sovereign opening - [Glossary](glossary.md)
-- statecraft chapters - [Volume Map](volumes/README.md)
+- civilization chapters - [Volume Map](volumes/README.md)
+- empire chapters - [Volume Map](volumes/README.md)
 - survivable sovereignty - [Survivable Sovereignty](comparative/pattern-library/survivable-sovereignty.md)
 - transformed carrier - [Glossary](glossary.md)
 
@@ -118,7 +127,7 @@ Use this as the whole-work index for Civilizational Statecraft. It is biased tow
 
 - table of contents - [Table of Contents](table-of-contents.md)
 - Talleyrand - [Hybrid References](hybrid-references.md)
-- Third Rome - [Glossary](glossary.md)
+- The Third Rome - [Volume IV introduction](volumes/russia/introduction.md), [Glossary](glossary.md)
 - transformed continuity - [Transformed Continuity](comparative/pattern-library/transformed-continuity.md)
 
 ## U
