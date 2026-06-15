@@ -1,7 +1,5 @@
 # Party-State Carrier
 
-WORK only; not Record.
-
 Use this note when a China-lane instrument requires institutional implementation beyond the top leader.
 
 ## Role In Current State Form
@@ -29,5 +27,3 @@ Use this carrier when:
 ## Warning
 
 If a China transaction lacks party-state implementation channels, it may be rhetoric rather than statecraft.
-
-

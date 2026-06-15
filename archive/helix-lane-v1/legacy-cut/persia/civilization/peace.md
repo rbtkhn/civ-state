@@ -1,7 +1,5 @@
 # Persia Peace
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Iranian peace memory as a statecraft lens for recognition with dignity, non-regime-change assurances, sanctions relief sequencing, verification without humiliation, Hormuz restraint, and sovereignty-preserving compromise.
@@ -189,7 +187,3 @@ If the question is about continuity-bearing sovereignty and humiliation memory, 
 ## Recursive Candidate Check
 
 Do not stage a candidate by default. Stage one in `iran/updates/pending.md` only if a live transaction reveals a durable new Persia-lane rule about dignity-preserving verification, sanctions sequencing, non-regime-change language, split-authority implementation, Hormuz restraint, or martyrdom-to-settlement conversion.
-
-
-
-

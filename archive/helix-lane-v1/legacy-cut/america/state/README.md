@@ -1,7 +1,5 @@
 # America State
 
-WORK only; not Record.
-
 Use this folder for the current American state apparatus: executive authority, Congress, military command, courts, intelligence agencies, party coalitions, allied carriers, and successor-authority figures. This is the near-term institutional layer that turns American civilizational memory and imperial/security striving into orders, statutes, deployments, sanctions, guarantees, negotiations, and implementable instruments.
 
 ## Start Here
@@ -23,5 +21,3 @@ State is the current-government and institutional-carrier layer. It is not the w
 ## Drafting Use
 
 Open this folder when an America-lane instrument depends on who can actually authorize, sell, fund, command, restrain, or survive a policy. A settlement that cannot pass through this state layer is theater, not statecraft.
-
-

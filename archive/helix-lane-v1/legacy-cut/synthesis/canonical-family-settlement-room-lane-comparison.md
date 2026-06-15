@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Lane Comparison: Settlement-Room Architecture
 
 ## Scope
@@ -194,6 +192,3 @@ If the question becomes lane-specific, return to the relevant helix:
 - [Russia helix](../russia/helix.md)
 - [China helix](../china/helix.md)
 - [Persia helix](../persia/helix.md)
-
-
-

@@ -1,7 +1,5 @@
 # Present-Day Arc Extension Matrix
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this sheet when a `hex` read, current-event brief, transaction route, or recursive candidate scan needs to extend deep civilization arcs into present-day operating forms.
@@ -55,6 +53,4 @@ This matrix is an overlay for live analysis. It does not replace the decentraliz
 
 ## Membrane Rule
 
-If a live read reveals a durable new modern carrier, threshold, or failure mode, stage it only as a lane-local recursive candidate in `<lane>/updates/pending.md`. Do not directly rewrite transactions, archive memory, PH-CIV, Record, raw-input, or current carrier files unless separately requested.
-
-
+If a live read reveals a durable new modern carrier, threshold, or failure mode, stage it only as a lane-local recursive candidate in `<lane>/updates/pending.md`. Do not directly rewrite transactions, archive memory, public lecture corpus, Record, raw-input, or current carrier files unless separately requested.

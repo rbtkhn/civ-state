@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Founding Provenance
 
 This repo is a curated founding cut from a larger workshop environment.
@@ -37,4 +35,3 @@ That choice is intentional:
 - it does not erase upstream provenance
 
 The upstream workshop may continue to use `iran/` operational paths until a separate rename is chosen there.
-

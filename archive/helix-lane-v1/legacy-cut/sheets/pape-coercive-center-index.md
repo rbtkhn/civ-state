@@ -1,10 +1,8 @@
 # Pape Coercive-Center Index
 
-WORK only; not Record.
-
 This is a statecraft tracking surface inspired by Pape's fourth-center thesis. It is not a published Pape index. Use it to score which powers can force systemic adjustment under crisis conditions, especially when energy, chokepoints, sanctions, escalation, and alliance fragmentation are the battlefield.
 
-The index complements [Comprehensive Power Vs Coercive Center](comprehensive-power-vs-coercive-center.md). It asks a narrower question:
+The index complements Comprehensive Power Vs Coercive Center. It asks a narrower question:
 
 > Which actors can make the system reorganize around them under pressure?
 
@@ -12,9 +10,9 @@ The index complements [Comprehensive Power Vs Coercive Center](comprehensive-pow
 
 Use Pape's speaker state as the main theory input:
 
-- [Pape speaker object](../../../speakers/pape/pape-speaker-object.md)
-- [Pape forecast ledger](../../../years/2026/pape/pape-forecast-ledger-2026.md)
-- [Pape helix](../../../speakers/pape/pape-helix.md)
+- Pape speaker object
+- Pape forecast ledger
+- Pape helix
 
 Use other speaker state only as corroboration, challenge, or mechanism support. Do not attribute this exact scoring system to Pape unless a future Pape-authored source states it.
 
@@ -102,5 +100,3 @@ Use this crosswalk when a statecraft draft needs both pressure and structure.
 | U.S. civil fracture deepens | America falls if command credibility, sanctions, or military coordination weaken. | America falls if institutional carrier and strategic autonomy degrade. |
 | China brokers a Gulf transit compact | China rises if it monetizes crisis leverage into system adjustment. | China rises if brokerage improves balance-of-power position without overextension. |
 | Israel escalates regionally | Israel may rise as an escalation generator. | Israel may fall if escalation exposes lack of depth, restraint, or autonomy. |
-
-

@@ -1,7 +1,5 @@
 # Zangezur Framework - Four-Lane Comparison
 
-WORK only; not Record.
-
 | lane | wants | fears | workable formula |
 | --- | --- | --- | --- |
 | America | access and partner credibility | corridor imperialism or adversary alignment | access guarantee without extraterritoriality |
@@ -16,6 +14,3 @@ Transit without territorial severance; access without extraterritoriality.
 ## Entropy Signal
 
 Amplification degrades into civilizational entropy when route access becomes a claim to rule the corridor.
-
-
-

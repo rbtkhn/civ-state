@@ -1,7 +1,5 @@
 # Russia War
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Russian war memory as a statecraft lens for invasion corridors, strategic depth, command compression, sacrifice legitimacy, control nodes, nuclear continuity, and the boundary between legitimate security and overreach.
@@ -181,5 +179,3 @@ If the question is about continuity-bearing authority and state survival, return
 ## Recursive Candidate Check
 
 Do not stage a candidate by default. Stage one in `russia/updates/pending.md` only if a live transaction reveals a durable new Russia-lane rule about bounded depth, command compression, sacrifice legitimacy, control-node bargaining, or nuclear-restraint language.
-
-

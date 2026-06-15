@@ -1,7 +1,5 @@
 # Supreme Leader Carrier
 
-WORK only; not Record.
-
 Refresh current officeholder facts before load-bearing use.
 
 ## Role In Current State Form
@@ -35,6 +33,3 @@ Can authorize restraint when it is framed as reciprocal recognition, sanctions r
 ## Binding Instrument Test
 
 Can this authority frame restraint as protection of the revolution and state, rather than capitulation?
-
-
-

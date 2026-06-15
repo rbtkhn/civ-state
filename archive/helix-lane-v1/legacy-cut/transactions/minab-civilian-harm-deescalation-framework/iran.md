@@ -1,7 +1,5 @@
 # Iran - Minab Civilian-Harm De-Escalation Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Minab dignity-preserving de-escalation sequence.
@@ -12,9 +10,9 @@ Minab dignity-preserving de-escalation sequence.
 
 ## Source Inputs
 
-- Speaker-state inputs: [Marandi](../../../../speakers/marandi/) for Iranian moral register and red-line psychology; [Parsi](../../../../speakers/parsi/) for settlement architecture; [Mercouris](../../../../speakers/mercouris/) for diplomatic choreography and register separation; [Ritter](../../../../speakers/ritter/) for the Minab targeting scaffold.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Ritter 2026-03-14](../../../../years/2026/raw-input/2026-03-14/substack-ritter-the-backpack-girls-2026-03-14.md); [Marandi 2026-04-28](../../../../years/2026/raw-input/2026-04-28/transcript-marandi-dialogue-works-trump-plan-dead-after-strike-2026-04-28.md); [Mercouris / Parsi 2026-05-06](../../../../years/2026/raw-input/2026-05-06/transcript-duran-mercouris-trita-parsi-us-iran-blockade-diplomacy-2026-05-06.md).
+- Speaker-state inputs: Marandi for Iranian moral register and red-line psychology; Parsi for settlement architecture; Mercouris for diplomatic choreography and register separation; Ritter for the Minab targeting scaffold.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Ritter 2026-03-14; Marandi 2026-04-28; Mercouris / Parsi 2026-05-06.
 
 ## Realism / Incentive Filter
 
@@ -44,7 +42,7 @@ Minab dignity-preserving de-escalation sequence.
 - Civilization input: memory of children killed, sovereignty violated, and dignity defended.
 - Empire input: deterrent reach, Hormuz leverage, retaliation capacity, and regional recognition.
 - Statecraft regulation: Spend moral leverage into inquiry, protected channels, and sanctions relief before it hardens into endless war.
-- Relevant lane helix: [Persia helix](../../persia/helix.md).
+- Relevant lane helix: Persia helix.
 
 ## Pattern / Narrative Conversion
 
@@ -110,6 +108,3 @@ Draft clause:
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

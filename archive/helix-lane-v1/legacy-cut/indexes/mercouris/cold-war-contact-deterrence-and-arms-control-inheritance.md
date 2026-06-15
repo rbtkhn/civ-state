@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Cold War Contact, Deterrence, And Arms-Control Inheritance
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Mercouris theme in which dangerous r
 
 ## Modern Activation
 
-Mercouris-side activation surface: [Cold War contact, deterrence, and arms-control inheritance](../../../../../speakers/mercouris/themes/cold-war-contact-deterrence-and-arms-control-inheritance.md)
+Mercouris-side activation surface: Cold War contact, deterrence, and arms-control inheritance
 
 ## Backward Historical Question
 
@@ -60,5 +58,3 @@ Cold War memory can itself mislead if treated as a complete model rather than as
 1. Use lane-local deterrence and treaty objects when they already exist.
 2. Use this scaffold when the question is still about contact-regime patterning.
 3. Use legacy `archive memory` only when a specific Cold War lineage needs deeper archival provenance.
-
-

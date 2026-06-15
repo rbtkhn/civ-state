@@ -1,7 +1,5 @@
 # China Art
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Chinese art as a statecraft lens for calligraphy, painting, music, architecture, sculpture, ritual object, garden, city, landscape, ceremony, infrastructure beauty, disciplined form, imperial continuity, and civilizational refinement.
@@ -77,5 +75,3 @@ Questions:
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default. Stage one in `china/updates/pending.md` only if a live transaction reveals a durable new rule about face, form, infrastructure beauty, ritual order, or refinement concealing disorder.
-
-

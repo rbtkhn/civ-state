@@ -1,7 +1,5 @@
 # China - Egypt Debt / Suez / Bread Legitimacy Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Egypt infrastructure credit without extraction spiral.
@@ -92,6 +90,3 @@ China shall support a time-bound debt rollover and infrastructure maintenance pa
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

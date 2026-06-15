@@ -1,7 +1,5 @@
 # Persia State Memory
 
-WORK only; not Record.
-
 This civilization object stores the long memory of Iranian state authority from Medes / Achaemenids through Parthian / Sasanian rule, Islamic / Persianate continuity, Safavid Shi'a state formation, Qajar / Pahlavi foreign-pressure memory, Mossadegh / 1953, 1979 revolution, Iran-Iraq War, sanctions endurance, and compute-siege sovereignty. It links that long continuity to one statecraft question: what must current Iranian carriers preserve so a transaction reads as sovereignty, dignity, deterrent continuity, and anti-humiliation competence rather than as externally managed retreat or self-isolating overreaction?
 
 Helix-first role: in the Persia transfer case, this object now functions as a supporting civilization-side strand beneath the primary [Persia helix](../../helix.md). Use the helix for the integrated lane reading; use this note when the governing question has clearly narrowed to continuity memory, dignity-bearing authority, or successor-stable sovereignty.
@@ -183,7 +181,3 @@ State memory deforms when dignity becomes humiliation lock, martyrdom becomes en
 - Any major Supreme Leader, president, IRGC, parliament, SNSC, or foreign ministry statement on nuclear rights, sanctions relief, Hormuz, regional architecture, or non-regime-change.
 - Any current-event read involving regime-change pressure, decapitation, sanctions sequencing, verification dignity, or third-party guarantees.
 - Any Persia-lane transaction that asks Tehran to regulate leverage, restrain escalation, accept inspection, reopen transit, or trade latency for recognition.
-
-
-
-

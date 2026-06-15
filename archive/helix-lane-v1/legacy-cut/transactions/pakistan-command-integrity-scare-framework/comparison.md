@@ -1,7 +1,5 @@
 # Pakistan Framework - Four-Lane Comparison
 
-WORK only; not Record.
-
 | lane | wants | fears | workable formula |
 | --- | --- | --- | --- |
 | America | nuclear reassurance | sovereignty humiliation and panic | confidential command channel |
@@ -16,6 +14,3 @@ Command reassurance without sovereignty humiliation.
 ## Entropy Signal
 
 Amplification degrades when nuclear reassurance becomes visible foreign control over sovereign command.
-
-
-

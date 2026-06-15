@@ -1,7 +1,5 @@
 # Xi Carrier Profile
 
-WORK only; not Record.
-
 Refresh current officeholder facts before load-bearing use.
 
 ## Role In Current State Form
@@ -48,5 +46,3 @@ Medium. A durable instrument should be framed as party-state continuity and anti
 ## Binding Instrument Test
 
 Is the leader expressing the party-state, overcentralizing the state, or failing to let institutions carry the settlement?
-
-

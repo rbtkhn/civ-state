@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Mechanistic Fallacy And Civilizational Memory
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Crooke theme in which strategic acto
 
 ## Modern Activation
 
-Crooke-side activation surface: [Mechanistic fallacy and civilizational memory](../../../../../speakers/crooke/themes/mechanistic-fallacy-and-civilizational-memory.md)
+Crooke-side activation surface: Mechanistic fallacy and civilizational memory
 
 ## Backward Historical Question
 
@@ -54,5 +52,3 @@ Historical memory is not infinitely elastic. A claim of lineage must still show 
 1. Cite future `state-memory` objects when they exist.
 2. Use this scaffold for pattern-level diagnosis.
 3. Use legacy `archive memory` only when a memory lineage has not yet been translated into `civ-emp`.
-
-

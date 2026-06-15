@@ -1,7 +1,5 @@
 # Sergey Lavrov Authority Carrier Object
 
-WORK only; not Record.
-
 ## Object
 
 Sergey Lavrov, Russian foreign minister.
@@ -65,8 +63,8 @@ When a new Lavrov hit appears, classify it before using it:
 
 Ritter's May 2026 use is narrow but important: Lavrov becomes evidence that Moscow has judged the United States to be structurally unreliable as a treaty partner.
 
-- Ritter in Dialogue Works: [2026-05-13 raw-input](../../../../../years/2026/raw-input/2026-05-13/transcript-dialogue-works-scott-ritter-iran-didn-t-break-it-adapted-now-stronger-than-ever-2026-05-13.md)
-- Ritter / McGovern debate: [2026-05-18 raw-input](../../../../../years/2026/raw-input/2026-05-18/transcript-consortium-news-russia-debate-scott-ritter-vs-ray-mcgovern-2026-05-18.md)
+- Ritter in Dialogue Works: 2026-05-13 raw-input
+- Ritter / McGovern debate: 2026-05-18 raw-input
 
 Statecraft reading: if Lavrov says the United States is agreement-incapable and Ritter treats Lavrov as Putin-authorized, the Russia lane should not draft a settlement that relies only on U.S. verbal assurances. It should demand institutional lock-in, third-party custody, staged performance, material guarantees, or self-enforcing mechanisms.
 
@@ -74,13 +72,13 @@ Statecraft reading: if Lavrov says the United States is agreement-incapable and 
 
 Use these as starting surfaces, not an exhaustive set:
 
-- **Ritter / agreement capability:** [2026-05-18 Consortium News debate](../../../../../years/2026/raw-input/2026-05-18/transcript-consortium-news-russia-debate-scott-ritter-vs-ray-mcgovern-2026-05-18.md)
-- **Ritter / Iran agreement skepticism:** [2026-05-13 Dialogue Works](../../../../../years/2026/raw-input/2026-05-13/transcript-dialogue-works-scott-ritter-iran-didn-t-break-it-adapted-now-stronger-than-ever-2026-05-13.md)
-- **Mercouris / Russia-China-Iran energy and enrichment mechanism:** [2026-04-15 Mercouris](../../../../../years/2026/raw-input/2026-04-15/mercouris-russia-intensify-china-tankers-putin-xi-2026-04-15.md)
-- **Mercouris / Europe war language:** [2026-04-25 Mercouris](../../../../../years/2026/raw-input/2026-04-25/youtube-alex-mercouris-lavrov-warns-europe-declared-war-on-russia-aragchi-to-moscow-won-t-talk-2026-04-25.md)
-- **Helmer / Lavrov as military-side faction signal:** [2026-04-28 Helmer](../../../../../years/2026/raw-input/2026-04-28/transcript-alkorshid-helmer-middle-east-unthinkable-iran-play-2026-04-28.md)
-- **Baud / Eurasian linkage:** [2026-05-11 Baud](../../../../../years/2026/raw-input/2026-05-11/transcript-alkorshid-baud-hormuz-security-architecture-2026-05-11.md)
-- **Ritter authored historical baseline:** [2026-02-22 Substack](../../../../../years/2026/raw-input/2026-02-22/substack-ritter-the-flamingo-effect-2026-02-22.md)
+- **Ritter / agreement capability:** 2026-05-18 Consortium News debate
+- **Ritter / Iran agreement skepticism:** 2026-05-13 Dialogue Works
+- **Mercouris / Russia-China-Iran energy and enrichment mechanism:** 2026-04-15 Mercouris
+- **Mercouris / Europe war language:** 2026-04-25 Mercouris
+- **Helmer / Lavrov as military-side faction signal:** 2026-04-28 Helmer
+- **Baud / Eurasian linkage:** 2026-05-11 Baud
+- **Ritter authored historical baseline:** 2026-02-22 Substack
 
 ## Statecraft Uses
 
@@ -113,5 +111,3 @@ When Lavrov is load-bearing in a Russia-lane draft, the instrument must answer:
 - Any new Lavrov statement on agreement capability, NATO / Europe, Ukraine settlement, Iran enrichment, Hormuz, sanctions, China, India, or third-party guarantees.
 - Any crisis transaction that uses Russia as mediator, guarantor, custodian, or escalation manager.
 - Any speaker claim that uses Lavrov to prove Moscow has hardened, softened, or split internally.
-
-

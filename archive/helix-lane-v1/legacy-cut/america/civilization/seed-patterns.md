@@ -1,7 +1,5 @@
 # America Civilization Seed Patterns
 
-WORK only; not Record.
-
 These seeds translate archive memory into America-lane civilization patterns. State rules should draw from these patterns and the America empire folder, not directly from archive memory.
 
 ## Constitutional Legitimacy
@@ -24,5 +22,3 @@ These seeds translate archive memory into America-lane civilization patterns. St
 - **Pattern:** America presents power as defense of navigation, commerce, and open systems.
 - **Statecraft use:** Favor narrow maritime guarantees, insurance stability, burden-sharing, and trade continuity over open-ended occupation or regime pressure.
 - **Failure mode:** Freedom-of-navigation language becomes a blank check for escalation.
-
-

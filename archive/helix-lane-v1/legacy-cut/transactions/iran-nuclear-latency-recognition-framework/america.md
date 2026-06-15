@@ -1,7 +1,5 @@
 # America - Iran Nuclear Latency Recognition Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Threshold containment bargain.
@@ -12,16 +10,16 @@ Threshold containment bargain.
 
 ## Source Inputs
 
-- Speaker-state inputs: [Parsi](../../../../speakers/parsi/) for diplomacy and sanctions-relief architecture; [Ritter](../../../../speakers/ritter/) / [Postol](../../../../speakers/postol/) for nuclear and military danger; [Pape](../../../../speakers/pape/) for escalation clocks; [Mearsheimer](../../../../speakers/mearsheimer/) / [Freeman](../../../../speakers/freeman/) / [Beebe](../../../../speakers/beebe/) for realist restraint.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Parsi 2026-02-20](../../../../years/2026/raw-input/2026-02-20/substack-parsi-no-even-a-small-attack-on-iran-will-lead-to-war-2026-02-20.md); [Parsi 2026-05-03](../../../../years/2026/raw-input/2026-05-03/substack-parsi-a-few-observations-on-irans-latest-proposal-to-trump-2026-05-03.md); [Ritter 2026-02-05](../../../../years/2026/raw-input/2026-02-05/substack-ritter-alas-babylon-2026-02-05.md).
+- Speaker-state inputs: Parsi for diplomacy and sanctions-relief architecture; Ritter / Postol for nuclear and military danger; Pape for escalation clocks; Mearsheimer / Freeman / Beebe for realist restraint.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Parsi 2026-02-20; Parsi 2026-05-03; Ritter 2026-02-05.
 
 ## Civilization / Empire Helix Input
 
 - Civilization input: American legitimacy needs lawful authority, nonproliferation credibility, allied confidence, and domestic consent.
 - Empire input: America wants control over sanctions, inspection terms, military deterrence, coalition alignment, and escalation timing.
 - Statecraft regulation: Contain latency without making hidden regime change the real instrument.
-- Relevant lane helix: [America helix](../../america/helix.md).
+- Relevant lane helix: America helix.
 
 ## State Interest
 
@@ -82,6 +80,3 @@ Legacy normalization note: America's successor-stable interest is nonproliferati
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

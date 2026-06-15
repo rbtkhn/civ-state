@@ -1,7 +1,5 @@
 # Iran Authority Structure
 
-WORK only; not Record.
-
 Refresh current officeholder facts before load-bearing use.
 
 ## Role In Current State Form
@@ -27,6 +25,3 @@ Use this map for sanctions relief, nuclear latency, Hormuz transit, non-regime-c
 ## Warning
 
 If an Iran transaction has only government signature but not supreme/security buy-in, treat it as fragile. If it has only security buy-in but no administrative carrier, treat it as coercive posture rather than settlement.
-
-
-

@@ -1,7 +1,5 @@
 # Russia - Panama Canal Water / Transit Sovereignty Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Panama transit-neutrality opportunism restraint.
@@ -85,6 +83,3 @@ Russia shall support Panama-led canal neutrality language and technical water-re
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

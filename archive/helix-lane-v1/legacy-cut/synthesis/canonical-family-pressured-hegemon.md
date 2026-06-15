@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Canonical Family Synthesis: Pressured Hegemon Misreading Power
 
 ## Scope
@@ -174,6 +172,3 @@ Use the lane empire-instrument objects when the unresolved issue is the outward 
 - [Russia empire instrument](../russia/empire/seed-instruments.md)
 - [China empire instrument](../china/empire/seed-instruments.md)
 - [Persia empire instrument](../persia/empire/seed-instruments.md)
-
-
-

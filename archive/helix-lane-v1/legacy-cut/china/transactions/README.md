@@ -1,8 +1,6 @@
 # China Statecraft Transactions
 
-WORK only; not Record.
-
-This bench spends compact speaker-state into China-lane instruments. Use the canonical [Statecraft Transaction Template](../../templates/statecraft-transaction.md) for any reusable transaction.
+This bench spends compact speaker-state into China-lane instruments. Use the canonical Statecraft Transaction Template for any reusable transaction.
 
 ## Transaction Bias
 
@@ -39,5 +37,3 @@ Each transaction should separate:
 - Does it preserve Iran's usefulness without owning Iran's escalation?
 - Does it accidentally make India the more responsible stabilizer?
 - What mechanism lets China stabilize without demanding public credit?
-
-

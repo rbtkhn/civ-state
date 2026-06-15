@@ -1,7 +1,5 @@
 # America Peace
 
-WORK only; not Record.
-
 ## Purpose
 
 Use American peace memory as a statecraft lens for constitutional settlement, treaty legitimacy, allied order, burden-sharing, procedural restraint, reconstruction, durable exit, and peace that still sounds like republican self-government.
@@ -179,5 +177,3 @@ Status: **Full-strength backfill**.
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default. Stage one in `america/updates/pending.md` only if a live transaction reveals a durable new rule about lawful exit, allied burden-sharing, reconstruction limits, or peace as control.
-
-

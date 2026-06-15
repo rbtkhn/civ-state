@@ -1,7 +1,5 @@
 # Russia Empire Instrument
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this object as the phase-one Russia empire-side carrier for the symmetric-first CIV-EMP migration. It names the outward instruments through which Russia tries to secure strategic depth, bargaining leverage, and recognition without letting security memory harden into self-defeating overreach.
@@ -153,5 +151,3 @@ This is also the empire instrument most likely to generate flattering self-decep
 The positive test is simple and demanding: after entering a crisis as spoiler, broker, or outside pole, can Russia still describe a smaller, calmer end state that leaves it freer than before? If the answer is no, then relevance has become a trap. A mature disruption instrument does not measure success only by how many calls Moscow receives. It measures success by whether Russian leaders can still choose distance, mediation, or restraint without making the entire strategy collapse.
 
 That standard matters for template purposes because it gives the Russia lane a reusable question rather than a Russia-only slogan. Any later lane can ask the same thing of its own disruption tools: does the instrument increase room for choice, or does it merely increase the cost of backing away? Russia is useful here precisely because the distinction is so visible.
-
-

@@ -1,7 +1,5 @@
 # America - Protected Channel / Non-Regime-Change Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Protected-channel and no-regime-change assurance.
@@ -12,16 +10,16 @@ Protected-channel and no-regime-change assurance.
 
 ## Source Inputs
 
-- Speaker-state inputs: [Parsi](../../../../speakers/parsi/) for diplomacy architecture and off-ramp destruction; [Ritter](../../../../speakers/ritter/) for regime-change blowback warnings; [Marandi](../../../../speakers/marandi/) for Iranian institutional continuity; [Pape](../../../../speakers/pape/) for coercive-system leverage and crisis clocks.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Parsi 2026-03-08](../../../../years/2026/raw-input/2026-03-08/substack-parsi-why-the-iranian-theocracy-will-likely-survive-2026-03-08.md); [Parsi 2026-03-17](../../../../years/2026/raw-input/2026-03-17/substack-parsi-why-was-larijani-targeted-2026-03-17.md).
+- Speaker-state inputs: Parsi for diplomacy architecture and off-ramp destruction; Ritter for regime-change blowback warnings; Marandi for Iranian institutional continuity; Pape for coercive-system leverage and crisis clocks.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Parsi 2026-03-08; Parsi 2026-03-17.
 
 ## Civilization / Empire Helix Input
 
 - Civilization input: American legitimacy depends on lawful authority, credible commitments, and a distinction between bargaining strength and murder as policy.
 - Empire input: America wants coercive control over escalation tempo, sanctions, energy routes, and adversary leadership behavior.
 - Statecraft regulation: Bound coercion so it does not destroy the authority carrier needed to end the crisis.
-- Relevant lane helix: [America helix](../../america/helix.md).
+- Relevant lane helix: America helix.
 
 ## State Interest
 
@@ -82,6 +80,3 @@ Legacy normalization note: America's successor-stable interest is preserving cre
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

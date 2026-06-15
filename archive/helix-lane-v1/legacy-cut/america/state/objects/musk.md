@@ -1,7 +1,5 @@
 # Elon Musk Authority Carrier Object
 
-WORK only; not Record.
-
 Refresh current officeholder, contract, company, and platform facts before load-bearing use.
 
 ## Object
@@ -75,7 +73,7 @@ When a new Musk hit appears, classify it before using it:
 - **China exposure:** test whether American technology-industrial policy can decouple rhetorically while remaining dependent on Chinese demand, minerals, manufacturing, or market access.
 - **Regime-pressure boundary:** test whether communications tools become humanitarian access, protest amplification, intelligence support, or covert regime-change infrastructure.
 - **Procurement legitimacy:** test whether executive speed bypasses Congress, courts, regulators, contracting rules, privacy law, or public consent.
-- **Transaction routing:** connect Musk-heavy events to the [U.S. Digital Identity Collapse / Sovereignty Under Acceleration Framework](../../../transactions/us-digital-identity-collapse-sovereignty-framework/) before creating a new transaction object.
+- **Transaction routing:** connect Musk-heavy events to the U.S. Digital Identity Collapse / Sovereignty Under Acceleration Framework before creating a new transaction object.
 
 ## Drafting Rule
 
@@ -101,5 +99,3 @@ When Musk is load-bearing in an America-lane draft, the instrument must answer:
 
 - Any America-lane current-event read involving Starlink, SpaceX, X, xAI, Tesla, AI infrastructure, launch capacity, drones, identity rails, federal data access, procurement, China business exposure, platform moderation, sanctions, protest communications, or emergency state modernization.
 - Any transaction where U.S. leverage depends on private technology capacity more than ordinary public authority.
-
-

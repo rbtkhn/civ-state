@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Habsburg Residue And European Legitimacy Fracture
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a thin `civ-emp` scaffold for the Mercouris theme in which older regiona
 
 ## Modern Activation
 
-Mercouris-side activation surface: [Habsburg residue and European legitimacy fracture](../../../../../speakers/mercouris/themes/habsburg-residue-and-european-legitimacy-fracture.md)
+Mercouris-side activation surface: Habsburg residue and European legitimacy fracture
 
 ## Backward Historical Question
 
@@ -55,5 +53,3 @@ This theme is highly compression-heavy and should be treated with caution; older
 1. Prefer existing Europe legitimacy objects if they already exist.
 2. Use this scaffold as a v1 pattern-holder rather than a finished historical answer.
 3. Use legacy `archive memory` if a deeper imperial-residue lineage is later needed.
-
-

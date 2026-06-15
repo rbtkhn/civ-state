@@ -1,7 +1,5 @@
 # China - Pakistan Command-Integrity Scare Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Pakistan patron reassurance without ownership.
@@ -85,6 +83,3 @@ China shall support quiet command-continuity reassurance through Pakistani sover
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Yalta Myth And European Exclusion Anxiety
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Mercouris theme in which conference 
 
 ## Modern Activation
 
-Mercouris-side activation surface: [Yalta myth and European exclusion anxiety](../../../../../speakers/mercouris/themes/yalta-myth-and-european-exclusion-anxiety.md)
+Mercouris-side activation surface: Yalta myth and European exclusion anxiety
 
 ## Backward Historical Question
 
@@ -56,5 +54,3 @@ Exclusion anxiety is real, but it does not by itself prove that every excluded a
 1. Use lane-local settlement-memory objects when they already carry the relevant history.
 2. Use this scaffold when the live problem is conference memory and exclusion psychology.
 3. Use legacy `archive memory` only when a specific conference archive is needed.
-
-

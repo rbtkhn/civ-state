@@ -1,7 +1,5 @@
 # Pakistan Command-Integrity Scare Framework
 
-WORK only; not Record.
-
 Purpose: compare a nuclear command-integrity scare across America, China, Russia, and Iran. The framework treats command authority, domestic fracture, and escalation control as the crisis object before any actor reaches for coercive intervention.
 
 ## Crisis Object
@@ -19,9 +17,9 @@ The danger is not only nuclear weapons. It is uncertainty over who can command, 
 
 ## Shared Source Frame
 
-- [Crisis test casebook](../../sheets/crisis-test-casebook.md) for command-integrity next test.
-- [Mearsheimer scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md) for nuclear and regional balancing.
-- [Pape index](../../sheets/pape-coercive-center-index.md) for systemic danger and diplomatic monetization.
+- Crisis test casebook for command-integrity next test.
+- Mearsheimer scoreboard for nuclear and regional balancing.
+- Pape index for systemic danger and diplomatic monetization.
 
 ## Comparison
 
@@ -30,6 +28,3 @@ Use [comparison.md](comparison.md) to keep reassurance distinct from interventio
 ## Validity
 
 Status: `draft`. Requires Pakistan-specific source packet before validation.
-
-
-

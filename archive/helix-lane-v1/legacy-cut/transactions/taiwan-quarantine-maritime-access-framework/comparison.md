@@ -1,7 +1,5 @@
 # Taiwan Framework - Four-Lane Comparison
 
-WORK only; not Record.
-
 | lane | wants | fears | workable formula |
 | --- | --- | --- | --- |
 | China | pressure without war ownership | blockade classification and containment | inspection channel with safe-passage categories |
@@ -39,6 +37,3 @@ Public communications should describe the arrangement as an incident-prevention 
 ## Entropy Signal
 
 Amplification degrades when maritime ambiguity becomes an automatic war clock.
-
-
-

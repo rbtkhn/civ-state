@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Settlement Precedent And Broken Agreement
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Freeman theme in which durable settl
 
 ## Modern Activation
 
-Freeman-side activation surface: [Settlement precedent and broken agreement](../../../../../speakers/freeman/themes/settlement-precedent-and-broken-agreement.md)
+Freeman-side activation surface: Settlement precedent and broken agreement
 
 ## Backward Historical Question
 
@@ -66,5 +64,3 @@ Counterweight rule:
 1. Cite lane-local peace objects when they already carry the relevant settlement logic.
 2. Cite this source scaffold when the question is still at the pattern-and-architecture level.
 3. Cite legacy `archive memory` only if a specific settlement lineage needs deeper historical recovery.
-
-

@@ -1,7 +1,5 @@
 # China Empire
 
-WORK only; not Record.
-
 Purpose: name China's outward striving for security and control so statecraft can regulate the drive toward supply-chain, energy, finance, and regional order.
 
 Helix-first role: this folder now serves as the empire-side strand bench beneath the primary [China helix](../helix.md). Use the helix for the integrated lane interpretation; use this folder when the real question has narrowed to the control stack itself.
@@ -42,5 +40,3 @@ Control must serve anti-disorder. If a move increases energy chaos, supply-chain
 ## Development Queue
 
 Start with [China empire instrument](seed-instruments.md), which is now the active phase-one empire-side pilot object and the preferred empire-side strand surface beneath the [China helix](../helix.md). Promote a separate instrument into its own note only when statecraft drafting needs a regulator beyond the paired pilot surface.
-
-

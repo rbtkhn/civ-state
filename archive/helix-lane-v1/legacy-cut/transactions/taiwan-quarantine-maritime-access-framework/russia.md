@@ -1,7 +1,5 @@
 # Russia - Taiwan Quarantine / Maritime Access Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Taiwan maritime precedent management.
@@ -85,6 +83,3 @@ Russia shall call for classification discipline, oppose unilateral blockade reco
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

@@ -1,8 +1,6 @@
 # China Crisis Test Casebook
 
-WORK only; not Record.
-
-Use this lane casebook to track what China learns from each crisis test. The shared method index is [Crisis Test Casebook](../sheets/crisis-test-casebook.md).
+Use this lane casebook to track what China learns from each crisis test. The shared method index is Crisis Test Casebook.
 
 | crisis test | what China sees first | what China fears | leverage | face-saving phrase | best instrument | lesson for China |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16,5 +14,3 @@ Use this lane casebook to track what China learns from each crisis test. The sha
 ## Lane Rule
 
 China should convert leverage into anti-disorder architecture. The best instrument protects supply chains while keeping Beijing from becoming the owner of every partner's instability.
-
-

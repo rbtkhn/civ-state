@@ -1,7 +1,5 @@
 # Iran - Iran Nuclear Latency Recognition Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Dignity-preserving latency restraint.
@@ -12,16 +10,16 @@ Dignity-preserving latency restraint.
 
 ## Source Inputs
 
-- Speaker-state inputs: [Parsi](../../../../speakers/parsi/) / [Marandi](../../../../speakers/marandi/) for Iranian bargaining logic; [Pape](../../../../speakers/pape/) for coercive-center leverage; [Ritter](../../../../speakers/ritter/) for nuclear danger; [Crooke](../../../../speakers/crooke/) for Western misreading.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Parsi 2026-02-07](../../../../years/2026/raw-input/2026-02-07/substack-parsi-irans-despair-is-us-policy-2026-02-07.md); [Parsi 2026-03-08](../../../../years/2026/raw-input/2026-03-08/substack-parsi-why-the-iranian-theocracy-will-likely-survive-2026-03-08.md); [Parsi 2026-05-03](../../../../years/2026/raw-input/2026-05-03/substack-parsi-a-few-observations-on-irans-latest-proposal-to-trump-2026-05-03.md); [Ritter 2026-02-05](../../../../years/2026/raw-input/2026-02-05/substack-ritter-alas-babylon-2026-02-05.md).
+- Speaker-state inputs: Parsi / Marandi for Iranian bargaining logic; Pape for coercive-center leverage; Ritter for nuclear danger; Crooke for Western misreading.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Parsi 2026-02-07; Parsi 2026-03-08; Parsi 2026-05-03; Ritter 2026-02-05.
 
 ## Civilization / Empire Helix Input
 
 - Civilization input: Iran's dignity, sovereignty, resistance memory, and refusal of humiliation.
 - Empire input: Iran seeks deterrence, nuclear latency, sanctions relief, recognition, and bargaining immunity from attack.
 - Statecraft regulation: Trade threshold ambiguity for relief and assurances without surrendering sovereign nuclear dignity.
-- Relevant lane helix: [Persia helix](../../persia/helix.md).
+- Relevant lane helix: Persia helix.
 
 ## State Interest
 
@@ -82,6 +80,3 @@ Legacy normalization note: Iran's successor-stable interest is deterrence, relie
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

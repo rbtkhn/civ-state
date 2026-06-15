@@ -1,7 +1,5 @@
 # China State Memory
 
-WORK only; not Record.
-
 This civilization object stores the long memory of Chinese state authority from Xia / Shang / Zhou dynastic order through Qin-Han standardization, imperial bureaucratic cycles, conquest-dynasty absorption, late-imperial rupture, Republican fragmentation, Maoist party-state reconstruction, reform-era development legitimacy, and Xi-era consolidation. It links that long continuity to one statecraft question: what must current party-state carriers preserve so a transaction reads as order, unity, development continuity, and anti-humiliation competence rather than as premature disorder or foreign-shaped retreat?
 
 Helix-first role: in the China transfer case, this object now functions as a supporting civilization-side strand beneath the primary [China helix](../../helix.md). Use the helix for the integrated lane reading; use this note when the governing question has clearly narrowed to continuity memory, order legitimacy, or successor-stable authority.
@@ -187,5 +185,3 @@ State memory deforms when order becomes brittle control, anti-humiliation become
 - Any major Xi, Politburo, State Council, PLA, MFA, PBC, commerce, port, insurer, or provincial signal on Taiwan, Iran, Russia, sanctions, energy, shipping, compute sovereignty, or regional security architecture.
 - Any current-event read involving blockade, quarantine, sanctions resistance, energy absorber behavior, security architecture, Taiwan warning, or U.S. coercive pressure.
 - Any China-lane transaction that asks Beijing to broker, insure, finance, route, restrain, warn, guarantee, or quietly pressure another actor.
-
-

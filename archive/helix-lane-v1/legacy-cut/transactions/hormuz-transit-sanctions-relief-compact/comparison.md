@@ -1,7 +1,5 @@
 # Hormuz Compact - Four-Lane Comparison
 
-WORK only; not Record.
-
 Purpose: compare the four national transactions without collapsing them into consensus.
 
 ## Orthogonality
@@ -44,6 +42,3 @@ The first serious instrument should not be a grand regional settlement. It shoul
 - Iran changes transit conditions.
 - U.S. Congress or executive action makes relief impossible.
 - Pape coercive-center or Mearsheimer structural-realist scoreboards move in opposite directions.
-
-
-

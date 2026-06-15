@@ -1,7 +1,5 @@
 # America Empire-Republic Arc
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this sheet when an America-lane read, hexagon stress test, transaction, clause, or current event invokes empire / republic tension, constitutional authority, executive emergency power, sanctions-finance reach, resource extraction, ideological suppression, alliance burden, maritime order, platform power, technology-industrial capacity, or successor legitimacy.
@@ -89,5 +87,3 @@ Use this sheet to sharpen:
 ## Membrane Rule
 
 If a live read reveals a durable new empire-republic form, lawful-reach rule, platform-sovereignty threshold, extraction / suppression pattern, successor-legitimacy test, or failure mode, stage it in `america/updates/pending.md` before changing America lane book surfaces.
-
-

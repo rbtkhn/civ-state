@@ -1,7 +1,5 @@
 # China: Order Without Final Ownership
 
-WORK only; not Record.
-
 ## Why This Lane Matters
 
 China matters in this corpus because it is the clearest case of a civilization that wants to become more decisive without becoming visibly imperial in the old overowned sense. Its legitimacy grammar does not begin with conquest glory or abstract freedom. It begins with order: order after rupture, order after humiliation, order after fragmentation, order after exposure, order after local or regional disorder threatens to spill back into the center. China therefore reads power through a filter that is neither purely modern nor merely ideological. The first question is not whether an instrument projects strength. The first question is whether it preserves a civilizational claim that authority should keep life provisioned, routes open, unity legible, hierarchy recognizable, and danger bounded before chaos turns political argument into disintegration.

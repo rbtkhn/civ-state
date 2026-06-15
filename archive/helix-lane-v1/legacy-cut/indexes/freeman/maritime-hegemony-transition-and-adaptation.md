@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Maritime Hegemony Transition And Adaptation
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Freeman theme in which maritime domi
 
 ## Modern Activation
 
-Freeman-side activation surface: [Maritime hegemony transition and adaptation](../../../../../speakers/freeman/themes/maritime-hegemony-transition-and-adaptation.md)
+Freeman-side activation surface: Maritime hegemony transition and adaptation
 
 ## Backward Historical Question
 
@@ -18,7 +16,7 @@ How do maritime systems pass, decay, or get bypassed by geography, infrastructur
 
 - Freeman modern activation around the Seven Years' War, Bismarck Sea, Vietnam rail repair, and Hormuz
 - CIV-EMP retrieval contracts for `geo` and `peace`
-- Existing [Hormuz Recognition / Transit Restraint](../../persia/hormuz-recognition-transit-restraint.md)
+- Existing Hormuz Recognition / Transit Restraint
 - Lane-local geo, peace, helix, and transaction surfaces where present
 - Legacy `archive memory` only if older sea-power or chokepoint provenance later becomes necessary
 
@@ -64,5 +62,3 @@ Counterweight rule:
 1. Cite the existing Hormuz object and lane-local geo / peace files when the issue is already translated operationally.
 2. Cite this scaffold when the question is the broader historical pattern of maritime transition and adaptation.
 3. Use legacy `archive memory` only when older sea-power lineage needs deeper recovery.
-
-

@@ -1,7 +1,5 @@
 # Russia - Zangezur Transit / Sovereignty Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Zangezur mediation without overbinding.
@@ -85,6 +83,3 @@ Russia shall support a corridor formula limited to transit, inspection, and noti
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

@@ -1,8 +1,6 @@
 # CIV-EMP Indexes
 
-WORK only; not Record.
-
-Indexes make CIV-EMP retrievable during statecraft work. They do not replace source objects and they do not create public PH-CIV content.
+Indexes make CIV-EMP retrievable during statecraft work. They do not replace source objects and they do not create public public lecture corpus content.
 
 Use this folder for maps that answer operational questions:
 
@@ -20,6 +18,3 @@ Current index:
 Proof object:
 
 - [Persia: Hormuz Recognition / Transit Restraint](../persia/proof-objects/hormuz-recognition-transit-restraint.md)
-
-
-

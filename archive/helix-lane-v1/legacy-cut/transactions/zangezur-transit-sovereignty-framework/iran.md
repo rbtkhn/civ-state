@@ -1,7 +1,5 @@
 # Iran - Zangezur Transit / Sovereignty Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Zangezur sovereignty firewall.
@@ -85,6 +83,3 @@ Iran shall support regional transit only where the territorial state retains cus
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

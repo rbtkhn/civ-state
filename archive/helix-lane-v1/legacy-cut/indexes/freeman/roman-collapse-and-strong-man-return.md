@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Roman Collapse And Strong-Man Return
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Freeman theme in which legitimacy de
 
 ## Modern Activation
 
-Freeman-side activation surface: [Roman collapse and strong-man return](../../../../../speakers/freeman/themes/roman-collapse-and-strong-man-return.md)
+Freeman-side activation surface: Roman collapse and strong-man return
 
 ## Backward Historical Question
 
@@ -63,5 +61,3 @@ Counterweight rule:
 1. Cite lane-local state-memory or America successor-legitimacy objects where present.
 2. Cite this scaffold when the question is regime mutation under decline.
 3. Use legacy `archive memory` only if a deeper Rome-to-successor historical chain is needed.
-
-

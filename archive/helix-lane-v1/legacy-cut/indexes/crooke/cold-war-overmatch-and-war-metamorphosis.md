@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Cold War Overmatch And War Metamorphosis
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Crooke theme in which the late-Cold-
 
 ## Modern Activation
 
-Crooke-side activation surface: [Cold War overmatch and war metamorphosis](../../../../../speakers/crooke/themes/cold-war-overmatch-and-war-metamorphosis.md)
+Crooke-side activation surface: Cold War overmatch and war metamorphosis
 
 ## Backward Historical Question
 
@@ -54,5 +52,3 @@ Not every legacy doctrine is wrong; some inherited patterns still matter. The bu
 1. Use future lane-local war objects when they exist.
 2. Use this scaffold for the pattern of overlearned Cold War success and mutated war conditions.
 3. Use legacy `archive memory` only if a specific lineage of overmatch thought needs deeper recovery.
-
-

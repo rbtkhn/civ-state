@@ -1,7 +1,5 @@
 # Persia War
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Iranian war memory as a statecraft lens for Marathon / Salamis / Thermopylae, Rome-facing parity, Alexander rupture, Arab and Mongol rupture, Iran-Iraq War, martyrdom, deterrence, Hormuz, sanctions pressure, and imposed vulnerability.
@@ -186,7 +184,3 @@ Status: **Full-strength backfill**.
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default. Stage one in `iran/updates/pending.md` only if a live transaction reveals a durable new rule about martyrdom, Hormuz leverage, deterrence, civilian harm, or endurance-as-escalation.
-
-
-
-

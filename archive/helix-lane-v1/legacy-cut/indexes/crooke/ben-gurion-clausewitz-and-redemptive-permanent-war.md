@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Ben-Gurion, Clausewitz, And Redemptive Permanent War
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Crooke theme in which bounded politi
 
 ## Modern Activation
 
-Crooke-side activation surface: [Ben-Gurion, Clausewitz, and redemptive permanent war](../../../../../speakers/crooke/themes/ben-gurion-clausewitz-and-redemptive-permanent-war.md)
+Crooke-side activation surface: Ben-Gurion, Clausewitz, and redemptive permanent war
 
 ## Backward Historical Question
 
@@ -54,5 +52,3 @@ Not every severe security doctrine is sacred or exterminatory. The burden is to 
 1. Use deeper sacred-political or law-memory objects when available.
 2. Use this scaffold while the pattern is still being normalized from the Crooke activation surface.
 3. Use legacy `archive memory` only when the historical lineage is still absent from `civ-emp`.
-
-

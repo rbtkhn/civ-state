@@ -1,7 +1,5 @@
 # Iran Dignity-Sovereignty Arc
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this sheet when an Iran-lane read, hexagon stress test, transaction, clause, or current event invokes dignity, sovereignty, deterrence, sanctions endurance, nuclear latency, Hormuz leverage, non-regime-change, verification, martyrdom, or imposed vulnerability.
@@ -88,5 +86,3 @@ Use this sheet to sharpen:
 ## Membrane Rule
 
 If a live read reveals a durable new dignity form, sanctions sequence, verification rule, modern carrier, or failure threshold, stage it in `iran/updates/pending.md` before changing Iran lane book surfaces.
-
-

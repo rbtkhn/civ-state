@@ -1,7 +1,5 @@
 # China - Iran Nuclear Latency Recognition Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Anti-disorder nuclear restraint compact.
@@ -12,16 +10,16 @@ Anti-disorder nuclear restraint compact.
 
 ## Source Inputs
 
-- Speaker-state inputs: [Pape](../../../../speakers/pape/) for system leverage and clocks; [Jiang](../../../../speakers/jiang/) for China-facing strategic framing; [Sachs](../../../../speakers/sachs/) for macro-system effects; [Parsi](../../../../speakers/parsi/) for regional architecture; [Crooke](../../../../speakers/crooke/) / [Diesen](../../../../speakers/diesen/) for order transition.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Parsi 2026-02-20](../../../../years/2026/raw-input/2026-02-20/substack-parsi-no-even-a-small-attack-on-iran-will-lead-to-war-2026-02-20.md); [Parsi 2026-05-03](../../../../years/2026/raw-input/2026-05-03/substack-parsi-a-few-observations-on-irans-latest-proposal-to-trump-2026-05-03.md); [Pape 2026-05-13](../../../../years/2026/raw-input/2026-05-13/substack-pape-with-china-its-getting-late-early-2026-05-13.md).
+- Speaker-state inputs: Pape for system leverage and clocks; Jiang for China-facing strategic framing; Sachs for macro-system effects; Parsi for regional architecture; Crooke / Diesen for order transition.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Parsi 2026-02-20; Parsi 2026-05-03; Pape 2026-05-13.
 
 ## Civilization / Empire Helix Input
 
 - Civilization input: Chinese legitimacy centers order, continuity, competence, and prevention of chaos.
 - Empire input: China wants secure energy, trade stability, sanctions workarounds, and reduced U.S. coercive reach.
 - Statecraft regulation: Preserve Iran as counterpressure without enabling a nuclear shock that destabilizes energy and regional order.
-- Relevant lane helix: [China helix](../../china/helix.md).
+- Relevant lane helix: China helix.
 
 ## State Interest
 
@@ -82,6 +80,3 @@ Legacy normalization note: China's successor-stable interest is anti-disorder: p
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

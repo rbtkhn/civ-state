@@ -1,7 +1,5 @@
 # America - Panama Canal Water / Transit Sovereignty Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Panama transit reliability without ownership politics.
@@ -85,6 +83,3 @@ The United States shall support a water-resilience and transit-reliability compa
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

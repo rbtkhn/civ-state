@@ -1,7 +1,5 @@
 # Crisis Test Casebook
 
-WORK only; not Record.
-
 Crisis tests train academy-statecraft to identify the contested object, classify the game, and draft the settlement phrase that makes restraint politically possible.
 
 Use this sheet as method memory. The national lane casebooks preserve what each state learns from the same crisis: [America](../america/crisis-test-casebook.md), [Russia](../russia/crisis-test-casebook.md), [China](../china/crisis-test-casebook.md), and [Iran](../persia/crisis-test-casebook.md).
@@ -22,7 +20,7 @@ The Baltic case is the model failure check: damaged pipelines or cables should n
 | Taiwan quarantine, not invasion | maritime and air access around contested status | ambiguity / coercive lawfare | blockade, quarantine, customs inspection, and insurance panic need separate treatment | Inspection without sovereignty concession; transit without blockade recognition. | Force legal classification before convoy logic. |
 | Baltic shadow-fleet infrastructure damage | damaged cables / pipelines with uncertain intent | attribution / negligence / gray-zone pattern | realism filter: do not jump from capability to intent | Investigate before attributing; harden before retaliating. | Deter patterns without overclaiming intent. |
 | Egypt debt / Suez / food imports | solvency and bread as state contract | creditor coordination under legitimacy constraint | solvency / legitimacy filter: protected domestic obligation comes before reform | Bread before austerity; Suez neutrality before creditor competition. | Fiscal crisis can be statecraft when a legitimacy good is at risk. |
-| Great-power energy absorber threshold | energy absorption under sanctions and chokepoint stress | near-fit / transaction-threshold test | alignment signal is not yet a transaction object; mechanism makes transaction | Energy continuity without sanctions impunity; absorption without escalation ownership. | Use the [threshold sheet](great-power-energy-absorber-threshold.md) before creating a new transaction from a summit or energy-alignment signal. |
+| Great-power energy absorber threshold | energy absorption under sanctions and chokepoint stress | near-fit / transaction-threshold test | alignment signal is not yet a transaction object; mechanism makes transaction | Energy continuity without sanctions impunity; absorption without escalation ownership. | Use the threshold sheet before creating a new transaction from a summit or energy-alignment signal. |
 
 ## Reuse Pattern
 
@@ -39,5 +37,3 @@ The Baltic case is the model failure check: damaged pipelines or cables should n
 - Panama Canal water crisis - climate constraint as transit statecraft.
 - Fertilizer allocation crisis - food security without a single chokepoint.
 - U.S. digital identity collapse - sovereignty under acceleration and successor authority.
-
-

@@ -1,7 +1,5 @@
 # China Empire Instrument
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this object as the phase-one China empire-side carrier for the symmetric-first CIV-EMP migration. It names the outward instruments through which China tries to secure energy, routes, finance, industrial continuity, and anti-coercion leverage without letting the stabilizer role harden into visible policing burden or premature coalition containment.
@@ -151,5 +149,3 @@ The more subtle danger is reputational. Beijing can become so invested in being 
 The template lesson here is broad: quiet leverage is only really quiet if it preserves room not to own the final crisis. Once Beijing must choose publicly between humiliation and escalation, the instrument has already drifted too far from the anti-disorder logic that authorized it. A strong China empire object therefore treats selective distance as part of strategic competence, not as evidence that the leverage failed.
 
 That point matters beyond China because it turns patience into a measurable discipline. The question is not whether Beijing stayed involved. It is whether Beijing stayed free enough to narrow involvement on its own terms. If the answer is yes, the instrument is still serving order. If the answer is no, then quiet leverage has already become a soft form of entrapment.
-
-

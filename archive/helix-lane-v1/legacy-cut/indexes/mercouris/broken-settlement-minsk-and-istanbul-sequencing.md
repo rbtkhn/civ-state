@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Broken Settlement, Minsk, And Istanbul Sequencing
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Mercouris theme in which false seque
 
 ## Modern Activation
 
-Mercouris-side activation surface: [Broken settlement, Minsk, and Istanbul sequencing](../../../../../speakers/mercouris/themes/broken-settlement-minsk-and-istanbul-sequencing.md)
+Mercouris-side activation surface: Broken settlement, Minsk, and Istanbul sequencing
 
 ## Backward Historical Question
 
@@ -56,5 +54,3 @@ Some interim arrangements are necessary; the point is not to reject staging alto
 1. Use lane-local peace objects when they already hold the settlement logic.
 2. Use this scaffold when the problem is still sequencing and trust exhaustion.
 3. Use legacy `archive memory` only when a deeper settlement genealogy is needed.
-
-

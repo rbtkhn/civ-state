@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Canonical Family Synthesis: Older Strategic Memories Still Constraining Present Actors
 
 ## Scope
@@ -176,6 +174,3 @@ Use the lane geo objects when the unresolved issue is the spatial or infrastruct
 - [Persia geo](../persia/civilization/geo.md)
 
 Use the lane empire-instrument objects when the unresolved issue is how the same older memory is still shaping deterrence, routes, access, bargaining posture, or outward control design today.
-
-
-

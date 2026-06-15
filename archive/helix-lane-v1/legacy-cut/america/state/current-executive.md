@@ -1,7 +1,5 @@
 # Current Executive Carrier
 
-WORK only; not Record.
-
 Refresh current officeholder facts before load-bearing use.
 
 ## Role In Current State Form
@@ -51,5 +49,3 @@ High. America lane instruments should ask whether the compact survives election,
 ## Binding Instrument Test
 
 Can this executive express durable American state interest, or is the instrument only a personal or factional move? If the latter, add congressional, allied, judicial, or institutional carriers before treating it as statecraft.
-
-

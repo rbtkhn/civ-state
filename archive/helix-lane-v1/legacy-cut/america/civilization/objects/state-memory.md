@@ -1,7 +1,5 @@
 # America State Memory
 
-WORK only; not Record.
-
 This civilization object stores the long authority grammar behind the America lane. It treats America as a British imperial/provincial authority field until the independence rupture, then as a procedural republic whose outward reach must still be carried through lawful domestic authority, allied cooperation, and a form that a later government can plausibly inherit. When that carrying grammar fails, republic becomes emergency empire by drift rather than by declaration.
 
 Helix-first role: in the America proving case, this object now functions as a supporting civilization-side strand beneath the primary [America helix](../../helix.md). Use the helix for the integrated lane reading; use this note when the governing question has clearly narrowed to inherited legitimacy, procedural carry, or successor-stable authority.
@@ -192,5 +190,3 @@ Additional strong falsifiers:
 
 - Current-event reads involving war powers, sanctions, alliance burden-sharing, maritime guarantees, executive emergency powers, domestic fracture, contested succession, Vance, congressional authorization, court review, or platform/identity sovereignty.
 - Any transaction where America appears to gain leverage by bypassing the domestic legitimacy that makes the leverage durable.
-
-

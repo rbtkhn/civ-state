@@ -1,7 +1,5 @@
 # Security Council Carrier
 
-WORK only; not Record.
-
 Use this note when a Russia-lane instrument appears to require collective elite backing rather than only presidential signature.
 
 ## Role In Current State Form
@@ -30,5 +28,3 @@ Use this carrier when:
 ## Warning
 
 If a Russia transaction lacks a Security Council or equivalent institutional carrier, treat it as fragile.
-
-

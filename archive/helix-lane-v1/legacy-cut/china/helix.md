@@ -1,7 +1,5 @@
 # China Civilization / Empire Helix
 
-WORK only; not Record.
-
 Purpose: hold together China's order-centered civilizational code and its outward infrastructure-finance power so statecraft can keep expansion adaptive.
 
 ## Where This Sits
@@ -85,5 +83,3 @@ If the question needs deep continuity and order grammar, go to [state memory](ci
 - Where does control create the disorder China fears?
 - What quiet instrument preserves leverage without public ownership?
 - What settlement makes China stabilizer without becoming policeman?
-
-

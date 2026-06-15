@@ -1,7 +1,5 @@
 # China - Zangezur Transit / Sovereignty Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Zangezur infrastructure access without ownership of dispute.
@@ -85,6 +83,3 @@ China shall support corridor financing only under terms that preserve territoria
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

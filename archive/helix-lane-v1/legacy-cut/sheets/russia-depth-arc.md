@@ -1,7 +1,5 @@
 # Russia Depth Arc
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this sheet when a Russia-lane read, hexagon stress test, transaction, clause, or current event invokes Russian depth, exposure, encirclement, recognition, buffers, access, sanctions resistance, or great-power equilibrium.
@@ -85,5 +83,3 @@ Use this sheet to sharpen:
 ## Membrane Rule
 
 If a live read reveals a durable new depth form, threshold, or rule, stage it in `russia/updates/pending.md` before changing Russia lane book surfaces.
-
-

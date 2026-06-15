@@ -1,7 +1,5 @@
 # Heaven, Mandate, and the Fear of Disorder
 
-WORK only; not Record.
-
 ## Why This Chapter Matters
 
 If the China volume is going to begin truthfully, it cannot treat sacred legitimacy as decorative atmosphere. The Chinese lane is not sacred in the same way as a confessional or ecclesial civilization, but it is sacred in a structurally serious way. Rule is measured against a political-cosmic expectation that order should hold, provisioning should continue, hierarchy should remain legible, and fragmentation should not become normal. A system that fails at those tasks does not merely disappoint. It begins to look mandate-broken. That judgment can be voiced in classical, bureaucratic, nationalist, developmental, or party-state language, but the underlying burden remains remarkably stable. China expects authority to justify itself through ordered continuity.

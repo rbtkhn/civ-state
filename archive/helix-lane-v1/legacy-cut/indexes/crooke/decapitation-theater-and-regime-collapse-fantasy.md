@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Decapitation Theater And Regime-Collapse Fantasy
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Crooke theme in which interveners re
 
 ## Modern Activation
 
-Crooke-side activation surface: [Decapitation theater and regime-collapse fantasy](../../../../../speakers/crooke/themes/decapitation-theater-and-regime-collapse-fantasy.md)
+Crooke-side activation surface: Decapitation theater and regime-collapse fantasy
 
 ## Backward Historical Question
 
@@ -54,5 +52,3 @@ Some systems do collapse quickly. The burden is to show whether the current case
 1. Use future intervention-memory or regime-change objects when they exist.
 2. Use this scaffold when the question is still at the pattern-recognition layer.
 3. Use legacy `archive memory` only when a deeper regime-collapse lineage needs recovery.
-
-

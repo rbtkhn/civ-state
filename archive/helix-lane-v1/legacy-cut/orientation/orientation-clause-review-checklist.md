@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Helix-First Clause-Review Checklist
 
 ## Purpose
@@ -254,6 +252,3 @@ If the draft fails because the problem-shape is still wrong, return to [orientat
 If the draft fails because the lane versus family choice is still unresolved, return to [orientation-helix-front-door.md](orientation-helix-front-door.md).
 
 If the draft fails one of the architecture-specific add-ons, return to the matching family, meta, and lane-comparison surfaces before redrafting.
-
-
-

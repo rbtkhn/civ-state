@@ -1,7 +1,5 @@
 # Putin Carrier Profile
 
-WORK only; not Record.
-
 Refresh current officeholder facts before load-bearing use.
 
 ## Role In Current State Form
@@ -48,5 +46,3 @@ Medium to high. A settlement must be framed as Russian state interest, not only 
 ## Binding Instrument Test
 
 Is the leader expressing the Russian state, capturing the state, or failing to carry a settlement that the state requires?
-
-

@@ -1,7 +1,5 @@
 # America - Baltic Shadow-Fleet Infrastructure Damage Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Baltic hardening before retaliation.
@@ -85,6 +83,3 @@ The United States shall support immediate infrastructure hardening, shared inves
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

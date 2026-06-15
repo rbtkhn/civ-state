@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # CIV-EMP Architecture
 
 ## Purpose
@@ -93,4 +91,3 @@ Every serious reading should eventually be able to say:
 Short form:
 
 `pattern -> carrier -> restraint -> settlement`
-

@@ -1,7 +1,5 @@
 # Russia Peace
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Russian peace memory as a statecraft lens for recognition, buffer settlement, security guarantees, controlled ambiguity, nuclear restraint, non-subordination, and the difference between peace as equilibrium and peace as humiliation disguised as order.
@@ -202,5 +200,3 @@ Counterweights:
 ## Recursive Candidate Check
 
 Recursive candidates should be staged only when a read reveals a durable new rule about recognition, buffer design, non-subordination, controlled ambiguity, third-party sovereignty, or the boundary between peace as equilibrium and peace as frozen domination.
-
-

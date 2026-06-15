@@ -1,7 +1,5 @@
 # Baltic Framework - Three-Lane Comparison
 
-WORK only; not Record.
-
 | lane | wants | fears | workable formula |
 | --- | --- | --- | --- |
 | Russia | block overattribution | coalition hardening | inquiry before retaliation |
@@ -15,6 +13,3 @@ Investigate before attributing; harden before retaliating.
 ## Entropy Signal
 
 Amplification degrades when deterrence theater outruns evidence and turns infrastructure defense into war momentum.
-
-
-

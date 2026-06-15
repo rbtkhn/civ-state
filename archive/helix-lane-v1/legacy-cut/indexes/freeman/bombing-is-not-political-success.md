@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Bombing Is Not Political Success
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Freeman theme in which coercion, bom
 
 ## Modern Activation
 
-Freeman-side activation surface: [Bombing is not political success](../../../../../speakers/freeman/themes/bombing-is-not-political-success.md)
+Freeman-side activation surface: Bombing is not political success
 
 ## Backward Historical Question
 
@@ -63,5 +61,3 @@ Counterweight rule:
 1. Cite lane-local war-memory or war objects when they already hold the pattern.
 2. Cite this scaffold when the question is coercion-versus-settlement conversion.
 3. Use legacy `archive memory` only when the historical war-memory lineage needs deeper recovery.
-
-

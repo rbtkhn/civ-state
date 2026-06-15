@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Treaty Form Vs Transactional Settlement
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Crooke theme in which serious settle
 
 ## Modern Activation
 
-Crooke-side activation surface: [Treaty form vs transactional settlement](../../../../../speakers/crooke/themes/treaty-form-vs-transactional-settlement.md)
+Crooke-side activation surface: Treaty form vs transactional settlement
 
 ## Backward Historical Question
 
@@ -60,5 +58,3 @@ Formal treaty language alone does not save a settlement if the parties never int
 1. Use lane-local peace objects when they already carry the relevant treaty or recognition logic.
 2. Use this scaffold when the question is still about pattern and carrier type.
 3. Use legacy `archive memory` only when a specific settlement genealogy needs deeper provenance.
-
-

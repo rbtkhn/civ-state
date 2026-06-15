@@ -1,7 +1,5 @@
 # America - Egypt Debt / Suez / Bread Legitimacy Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Egypt creditor restraint and bread floor.
@@ -92,6 +90,3 @@ The United States shall support debt sequencing that protects a minimum food-imp
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

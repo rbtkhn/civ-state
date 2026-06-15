@@ -1,8 +1,6 @@
 # America Crisis Test Casebook
 
-WORK only; not Record.
-
-Use this lane casebook to track what America learns from each crisis test. The shared method index is [Crisis Test Casebook](../sheets/crisis-test-casebook.md).
+Use this lane casebook to track what America learns from each crisis test. The shared method index is Crisis Test Casebook.
 
 | crisis test | what America sees first | what America fears | leverage | face-saving phrase | best instrument | lesson for America |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16,5 +14,3 @@ Use this lane casebook to track what America learns from each crisis test. The s
 ## Lane Rule
 
 America should not confuse visible resolve with durable command. The best instrument usually preserves allied confidence while narrowing the path to uncontrolled escalation.
-
-

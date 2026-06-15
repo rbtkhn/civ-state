@@ -1,7 +1,5 @@
 # Iran - U.S. Digital Identity Collapse / Sovereignty Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Sanctions-resilient identity continuity without surveillance overreach.
@@ -85,6 +83,3 @@ Iran shall support sanctions-resilient identity and payment continuity with publ
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

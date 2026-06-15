@@ -1,7 +1,5 @@
 # Persia Geo
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Iranian geography as a statecraft arc-lens for the Iranian Plateau, Zagros and Alborz defensive ring, deserts, Persian Gulf and Hormuz, Caspian, Caucasus, Mesopotamia approaches, water stress, corridor exposure, sanctions ecology, and resource sovereignty.
@@ -174,7 +172,3 @@ Status: **Full-strength backfill**.
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default. Stage one in `iran/updates/pending.md` only if a live transaction reveals a durable new rule about plateau endurance, Hormuz overuse, water stress, sanctions ecology, or corridor exposure.
-
-
-
-

@@ -1,7 +1,5 @@
 # State Braid Model
 
-WORK only; not Record.
-
 ## Purpose
 
 The braid is a statecraft drafting aid for linked crisis objects that cannot be handled through one arc alone. Some problems become draftable only when several strategic lines are kept together long enough to design authority, restraint, and settlement rather than treating each line as an isolated topic.
@@ -126,13 +124,13 @@ Keep the lens `announced-vs-material`. The drafting claim is that Iran cannot tu
 2. **Route the crisis object.**
 Open [Transaction Router](transaction-router.md) and ask which settlement spine is actually being drafted.
 
-- If the object is cross-lane and the main question is regional or system-wide bargaining over shipping, sanctions relief, escorts, and verification, route to [Hormuz Transit / Sanctions Relief Compact](../transactions/hormuz-transit-sanctions-relief-compact/).
-- If the object is Iran-lane first and the main question is how Tehran converts restraint into recognition without losing leverage, route to [Hormuz Recognition Transit Transaction](../persia/transactions/hormuz-recognition-transit-transaction.md).
+- If the object is cross-lane and the main question is regional or system-wide bargaining over shipping, sanctions relief, escorts, and verification, route to Hormuz Transit / Sanctions Relief Compact.
+- If the object is Iran-lane first and the main question is how Tehran converts restraint into recognition without losing leverage, route to Hormuz Recognition Transit Transaction.
 
 The worked example here takes the second path. The fit is not "shipping disruption in general." The fit is "Iran-local recognition through transit restraint."
 
 3. **Spend the braid inside the transaction.**
-In [Hormuz Recognition Transit Transaction](../persia/transactions/hormuz-recognition-transit-transaction.md), the braid becomes a clause with four coupled parts:
+In Hormuz Recognition Transit Transaction, the braid becomes a clause with four coupled parts:
 
 - transit guarantee
 - reciprocal security recognition
@@ -168,5 +166,3 @@ The braid is only strong if it survives both checks at once: it must have a carr
 ## Boundary
 
 Braids are statecraft drafting structures. They are not truth labels, not substitutes for source capture, and not proof that a crisis has one correct reading. They exist to help the workshop preserve linked lines long enough to turn them into authority, restraint, and settlement.
-
-

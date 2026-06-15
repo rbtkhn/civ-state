@@ -1,7 +1,5 @@
 # China Lit
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Chinese literature and classical thought as a statecraft lens for order, sages, ritual legitimacy, statecraft classics, dynastic cycle, harmony / disorder, strategic patience, face, mediation, and the difference between quiet competence and brittle control.
@@ -114,5 +112,3 @@ Ask:
 - Does the wording avoid normalizing fragmentation in Taiwan, maritime, border, or sovereignty contexts?
 
 Recursive candidates should be staged only when a read reveals a durable new rule about harmony, mandate, face, strategic patience, warning suppression, or implementable anti-disorder settlement language.
-
-

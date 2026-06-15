@@ -1,7 +1,5 @@
 # America - Pakistan Command-Integrity Scare Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Pakistan command reassurance without sovereignty humiliation.
@@ -85,6 +83,3 @@ The United States shall support a confidential command-integrity reassurance cha
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

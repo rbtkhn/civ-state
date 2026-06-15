@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Canonical Family Synthesis: Exclusion And Direct Settlement
 
 ## Scope
@@ -167,6 +165,3 @@ Use the lane peace objects when the question has narrowed to recognition, review
 - [Persia peace](../persia/civilization/peace.md)
 
 Use the lane empire-instrument objects when the unresolved issue is the outward geographic carrier that makes the room either governable or quietly prewritten.
-
-
-

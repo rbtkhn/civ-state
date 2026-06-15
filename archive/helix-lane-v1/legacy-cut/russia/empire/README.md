@@ -1,7 +1,5 @@
 # Russia Empire
 
-WORK only; not Record.
-
 Purpose: name Russia's outward striving for security and control so statecraft can distinguish necessary depth from overbinding expansion.
 
 Helix-first role: this folder now serves as the empire-side strand bench beneath the primary [Russia helix](../helix.md). Use the helix for the integrated lane interpretation; use this folder when the real question has narrowed to the control stack itself.
@@ -42,5 +40,3 @@ Russia's control must preserve strategic optionality. A commitment that removes 
 ## Development Queue
 
 Start with [Russia empire instrument](seed-instruments.md), which is now the active phase-one empire-side pilot object and the preferred empire-side strand surface beneath the [Russia helix](../helix.md). Promote a separate instrument into its own note only when statecraft drafting needs a regulator beyond the paired pilot surface.
-
-

@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Monroe Doctrine And Hemispheric Prerogative
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Freeman theme in which republics or 
 
 ## Modern Activation
 
-Freeman-side activation surface: [Monroe Doctrine and hemispheric prerogative](../../../../../speakers/freeman/themes/monroe-doctrine-and-hemispheric-prerogative.md)
+Freeman-side activation surface: Monroe Doctrine and hemispheric prerogative
 
 ## Backward Historical Question
 
@@ -63,5 +61,3 @@ Counterweight rule:
 1. Cite America-lane objects when they already carry the lawful-reach or empire-republic logic.
 2. Cite this scaffold when the question is hemispheric privilege as historical pattern.
 3. Use legacy `archive memory` only if deeper sphere-doctrine provenance is required.
-
-

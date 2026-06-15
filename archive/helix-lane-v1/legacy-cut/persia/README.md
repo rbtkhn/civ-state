@@ -1,7 +1,5 @@
 # Persia Statecraft Lane
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this lane to draft from Persia's statecraft perspective: sovereignty, deterrence, sanctions endurance, regional legitimacy, controlled chokepoint leverage, and survival under coercive pressure.
@@ -74,7 +72,7 @@ Transit-security bargains, phased sanctions relief, non-regime-change guarantees
 
 ## Transactions
 
-Use [Persia statecraft transactions](transactions/) to spend speaker-state into reusable instruments with provenance, historical continuity, Richelieu / Bismarck validation, mirror test, and revisit triggers.
+Use Persia statecraft transactions to spend speaker-state into reusable instruments with provenance, historical continuity, Richelieu / Bismarck validation, mirror test, and revisit triggers.
 
 ## Crisis Test Casebook
 
@@ -102,8 +100,3 @@ India clarifies the metric. India may be stronger as a comprehensive power, but 
 - What sanctions relief sequence can be verified without humiliation?
 - How can Persia monetize leverage without becoming a permanent spoiler?
 - What clause preserves deterrence while reopening transit and diplomacy?
-
-
-
-
-

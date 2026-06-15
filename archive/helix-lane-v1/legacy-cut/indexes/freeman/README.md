@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Freeman-CIV-EMP Theme Companions
 
 Purpose: hold the `civ-emp`-facing companion surfaces for the six Freeman historical themes activated in the `2025-01-01 -> present` Freeman arc.
@@ -28,5 +26,3 @@ Open this folder when:
 - These files do not replace lane-local `civilization/`, `empire/`, `state/`, `helix.md`, or `transactions/` surfaces.
 - These files do not make Freeman the upstream authority for civilizational history.
 - When an existing `civ-emp` object already carries the pattern, point to it rather than duplicating it.
-
-

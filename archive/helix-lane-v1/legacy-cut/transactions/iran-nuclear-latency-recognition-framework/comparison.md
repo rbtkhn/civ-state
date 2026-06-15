@@ -1,7 +1,5 @@
 # Iran Nuclear Latency - Four-Lane Comparison
 
-WORK only; not Record.
-
 Purpose: compare the four national transactions without collapsing latency, weaponization, recognition, and restraint into one generic nuclear deal.
 
 ## Orthogonality
@@ -44,6 +42,3 @@ The first serious instrument should not reopen maximal JCPOA nostalgia or demand
 - Russia / China jointly propose verification or guarantees.
 - Gulf states demand inclusion in the framework.
 - Pape coercive-center and Mearsheimer structural-realist scoreboards diverge sharply.
-
-
-

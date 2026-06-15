@@ -1,7 +1,5 @@
 # China - Taiwan Quarantine / Maritime Access Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Taiwan inspection pressure without blockade ownership.
@@ -89,6 +87,3 @@ China can accept deconfliction only if it is framed as maritime safety, customs,
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

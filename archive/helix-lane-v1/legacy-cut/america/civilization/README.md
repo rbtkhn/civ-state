@@ -1,7 +1,5 @@
 # America Civilization
 
-WORK only; not Record.
-
 Purpose: name the inherited American code that any durable America-lane instrument must respect, even if the current United States fractures, reforms, or gives way to a successor continental authority.
 
 Helix-first role: this folder now serves as the civilization-side strand bench beneath the primary [America helix](../helix.md). Use the helix for the integrated lane interpretation; use the notes here when the governing question has clearly narrowed to legitimacy memory, geography, war grammar, peace grammar, or later second-wave arc-lenses.
@@ -41,9 +39,9 @@ Any successor American power center would still need continental coherence, mari
 
 Start with [seed-patterns.md](seed-patterns.md). Use [god](god.md), [lit](lit.md), [art](art.md), [geo](geo.md), [war](war.md), and [peace](peace.md) as compact statecraft arc-lenses for sacred boundary, cultural memory, legitimacy, terrain, coercion, settlement, beauty, and failure modes. Promote a seed into a full note only when a transaction, current-event brief, or comparative test needs it.
 
-Use the [present-day arc extension matrix](../../sheets/present-day-arc-extension-matrix.md) when an America read needs to bridge older constitutional, frontier, empire / republic, or civil-war arcs into modern carriers such as platforms, sanctions finance, alliances, executive authority, technology industry, or successor legitimacy.
+Use the present-day arc extension matrix when an America read needs to bridge older constitutional, frontier, empire / republic, or civil-war arcs into modern carriers such as platforms, sanctions finance, alliances, executive authority, technology industry, or successor legitimacy.
 
-For America-specific empire / republic analysis, use the [America empire-republic arc](../../sheets/america-empire-republic-arc.md) to distinguish imperial-provincial inheritance, revolutionary-republic, constitutional-union, continental-expansion, maritime-commercial order, emergency-empire, and platform-sovereignty before turning lawful reach, sanctions, alliances, technology, extraction, suppression, or successor legitimacy into clause language.
+For America-specific empire / republic analysis, use the America empire-republic arc to distinguish imperial-provincial inheritance, revolutionary-republic, constitutional-union, continental-expansion, maritime-commercial order, emergency-empire, and platform-sovereignty before turning lawful reach, sanctions, alliances, technology, extraction, suppression, or successor legitimacy into clause language.
 
 Use [civilization objects](objects/) for long-pattern authority surfaces such as [state memory](objects/state-memory.md). In the phase-one symmetric CIV-EMP migration, state memory is the preferred America civilization-side opening and is paired directly with the [America empire instrument](../empire/seed-instruments.md), but it now operates as a supporting strand input beneath the [America helix](../helix.md).
 
@@ -57,5 +55,3 @@ Use the first-wave civilization objects in this order when the drafting problem 
 - [peace](peace.md) for lawful settlement, review, relief, burden-sharing, and successor-stable exit
 
 These are now the preferred America civilization-side strand openings ahead of older compact notes or direct `archive memory` provenance files. Use them after the [America helix](../helix.md) has identified which strand should lead the draft.
-
-

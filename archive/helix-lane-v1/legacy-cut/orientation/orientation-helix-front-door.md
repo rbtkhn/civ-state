@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Helix-First Orientation Surface
 
 ## Purpose
@@ -149,6 +147,3 @@ If you still cannot tell what governs the object after reading this note, use th
 4. [Persia helix](../persia/helix.md) for dignity-sanctions deterrent carry
 
 That sequence usually clarifies which grammar the crisis is actually asking you to respect.
-
-
-

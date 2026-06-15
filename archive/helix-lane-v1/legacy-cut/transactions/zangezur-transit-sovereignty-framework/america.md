@@ -1,7 +1,5 @@
 # America - Zangezur Transit / Sovereignty Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Zangezur access guarantee without extraterritoriality.
@@ -85,6 +83,3 @@ The United States shall support a monitored transit arrangement that preserves i
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

@@ -1,7 +1,5 @@
 # America Art
 
-WORK only; not Record.
-
 ## Purpose
 
 Use American art as a statecraft lens for visual art, music, architecture, sculpture, monument, performance, mass culture, civic ritual, landscape, industrial modernity, technological confidence, and the image of freedom.
@@ -74,5 +72,3 @@ Questions:
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default. Stage one in `america/updates/pending.md` only if a live transaction reveals a durable new rule about spectacle, technology, civic ritual, or visible command masking weak authority.
-
-

@@ -1,7 +1,5 @@
 # Hormuz Recognition Transit Transaction
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Hormuz recognition-for-transit restraint clause.
@@ -12,10 +10,10 @@ Hormuz recognition-for-transit restraint clause.
 
 ## Source Inputs
 
-- Speaker-state inputs: [Pape](../../../../speakers/pape/) for coercive-center leverage and shortage clocks; [Parsi](../../../../speakers/parsi/) for settlement architecture and sanctions-relief sequencing; [Marandi](../../../../speakers/marandi/) for Iranian bargaining logic; [Crooke](../../../../speakers/crooke/) for Western misreading; [Ritter](../../../../speakers/ritter/) for regime-change and military-risk warnings.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Pape, 2026-04-16](../../../../years/2026/raw-input/2026-04-16/substack-pape-the-iran-war-is-about-to-hit-a-supply-2026-04-16.md); [Pape, 2026-05-03](../../../../years/2026/raw-input/2026-05-03/substack-pape-what-the-first-60-days-actually-changed-and-why-the-next-30-will-be-worse-2026-05-03.md); [Pape, 2026-05-18](../../../../years/2026/raw-input/2026-05-18/substack-pape-june-could-be-the-most-brutal-month-2026-05-18.md); [Parsi, 2026-05-01](../../../../years/2026/raw-input/2026-05-01/substack-parsi-trumps-blockade-snatches-defeat-from-the-jaws-of-victory-2026-05-01.md); [Parsi, 2026-05-03](../../../../years/2026/raw-input/2026-05-03/substack-parsi-a-few-observations-on-irans-latest-proposal-to-trump-2026-05-03.md).
-- Prior statecraft drafts: [Hormuz Strait Transit Agreement v0](../../../../hormuz-strait-transit-agreement-v0.md); [Hormuz Reciprocal Transit De-escalation Framework v2.1](../../../../hormuz-reciprocal-transit-deescalation-framework-v2-1.md).
+- Speaker-state inputs: Pape for coercive-center leverage and shortage clocks; Parsi for settlement architecture and sanctions-relief sequencing; Marandi for Iranian bargaining logic; Crooke for Western misreading; Ritter for regime-change and military-risk warnings.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Pape, 2026-04-16; Pape, 2026-05-03; Pape, 2026-05-18; Parsi, 2026-05-01; Parsi, 2026-05-03.
+- Prior statecraft drafts: Hormuz Strait Transit Agreement v0; Hormuz Reciprocal Transit De-escalation Framework v2.1.
 
 ## Historical Continuity
 
@@ -47,8 +45,8 @@ Hormuz recognition-for-transit restraint clause.
 
 This file is the concrete endpoint of the workshop's new three-step example:
 
-1. [State braid model](../../sheets/state-braid-model.md) keeps the Hormuz arcs together as one draftable object.
-2. [Transaction router](../../sheets/transaction-router.md) distinguishes the Iran-local recognition route from the wider cross-lane transit / sanctions route.
+1. State braid model keeps the Hormuz arcs together as one draftable object.
+2. Transaction router distinguishes the Iran-local recognition route from the wider cross-lane transit / sanctions route.
 3. This transaction spends the routed braid as one clause that couples transit restraint, recognition, relief sequencing, and review.
 
 The practical question answered here is not "can Hormuz be reopened?" It is "what would let Iran present reopening as recognized restraint rather than surrender or permanent spoiler leverage?"
@@ -148,6 +146,3 @@ What is the shortest plausible objection from each of the other national lanes?
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

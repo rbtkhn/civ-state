@@ -1,7 +1,5 @@
 # America Empire Instrument
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this object as the phase-one America empire-side carrier for the symmetric-first CIV-EMP migration. It names the outward control instruments through which America tries to secure maritime order, alliance geometry, and sanctions-finance reach without letting emergency empire outrun constitutional legitimacy.
@@ -143,5 +141,3 @@ The first warning sign is semantic inflation. A narrow transit guarantee becomes
 This is where maritime command intersects directly with settlement logic. Shipping lanes can be protected for a time by force, but durable order at sea still depends on whether insurers, traders, regional states, and rival powers can imagine a calmer future than permanent patrol-and-response. If every incident is processed only as a test of dominance, then the instrument will continue to produce contact while failing to produce a political environment in which transit is genuinely less risky.
 
 The regulator here is therefore not just operational restraint. It is narrative restraint as well. A sound maritime clause should specify what class of vessel is being protected, what incident channel exists, what partner contributions are expected, what escalation thresholds trigger review, and what narrower condition would allow the mission to contract again. If those features are absent, maritime order is already drifting toward permanent policing.
-
-

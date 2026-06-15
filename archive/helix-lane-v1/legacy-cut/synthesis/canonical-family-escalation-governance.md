@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Meta-Synthesis: Escalation Governance
 
 ## Scope
@@ -170,6 +168,3 @@ If the question is lane-specific, return to the relevant helix:
 - [Russia helix](../russia/helix.md)
 - [China helix](../china/helix.md)
 - [Persia helix](../persia/helix.md)
-
-
-

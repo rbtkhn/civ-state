@@ -1,7 +1,5 @@
 # Russia Lit
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Russian literature as a statecraft lens for suffering, moral depth, humiliation, sacrifice, state/soul tension, exile, witness, recognition, civilizational burden, and the difference between dignified compromise and betrayal of suffering.
@@ -109,5 +107,3 @@ Ask:
 - Can the diplomatic transmitter say it without turning literary-moral memory into unlimited demand?
 
 Recursive candidates should be staged only when a read reveals a durable new rule about humiliation, suffering, recognition, sacred finality, clause language, or the boundary between meaningful endurance and exhausted fatalism.
-
-

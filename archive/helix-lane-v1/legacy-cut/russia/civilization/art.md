@@ -1,7 +1,5 @@
 # Russia Art
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Russian art as a statecraft lens for icon, liturgy, architecture, music, ballet, monument, museum, ceremony, Soviet monumental form, wartime endurance, and beauty under pressure.
@@ -76,5 +74,3 @@ Questions:
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default. Stage one in `russia/updates/pending.md` only if a live transaction reveals a durable new rule about ceremony, monument, music, cultural humiliation, or beauty as state spectacle.
-
-

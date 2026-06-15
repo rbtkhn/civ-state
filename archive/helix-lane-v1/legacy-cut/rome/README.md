@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Rome
 
 This lane is intentionally reserved and explicitly deferred.
@@ -30,4 +28,3 @@ Byzantium belongs inside the Rome lane as one of its major transformed continuit
 ## Why It Is Deferred
 
 Rome is being filled last because it is one of the largest succession-civilization carriers in the whole corpus. It will need to hold internal tensions that are too large to fake with a thin early scaffold.
-

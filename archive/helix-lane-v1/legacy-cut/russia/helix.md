@@ -1,7 +1,5 @@
 # Russia Civilization / Empire Helix
 
-WORK only; not Record.
-
 Purpose: hold together Russian civilizational security memory and Russian outward power so the lane can draft restraint as strength rather than retreat.
 
 ## Where This Sits
@@ -114,5 +112,3 @@ If the question needs deep continuity and recognition grammar, go to [state memo
 - What restraint preserves Russia's ability to choose timing?
 - What settlement can Russia inherit without permanent mobilization?
 - Where is Russia preserving Abrahamic plurality, and where is it merely freezing rivalry for leverage?
-
-

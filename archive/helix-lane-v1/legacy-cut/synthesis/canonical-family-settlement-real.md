@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Canonical Family Synthesis: Real Settlement
 
 ## Scope
@@ -139,6 +137,3 @@ Use the lane peace objects when the question has narrowed to civilization-side s
 - [Persia peace](../persia/civilization/peace.md)
 
 Use the lane empire-instrument objects when the unresolved problem is the guarantor, enforcement, or implementation carrier that would make the bargain governable instead of theatrical.
-
-
-

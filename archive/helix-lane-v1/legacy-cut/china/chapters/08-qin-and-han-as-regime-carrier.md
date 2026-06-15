@@ -1,7 +1,5 @@
 # Qin and Han as the Regime Carrier of Continuity
 
-WORK only; not Record.
-
 ## Why This Chapter Matters
 
 If the China volume is going to prove that portrait or carrier chapters belong in this series, it should not begin with a solitary great man. It should begin with a regime-scale carrier that made later Chinese continuity thinkable. Qin and Han together supply exactly that. Qin shows the terrible necessity and danger of standardization. Han shows the civilizational habitability of that standardization once it is moderated, routinized, and turned into a more durable administrative order. Together they become the first great regime carrier of the Chinese intuition that unity is not merely preferable to fragmentation, but morally and materially necessary if civilized life is to survive recurrent pressure.

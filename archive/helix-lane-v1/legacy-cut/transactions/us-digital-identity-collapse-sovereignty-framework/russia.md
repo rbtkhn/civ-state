@@ -1,7 +1,5 @@
 # Russia - U.S. Digital Identity Collapse / Sovereignty Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Digital sovereignty resilience without isolation trap.
@@ -85,6 +83,3 @@ Russia shall build identity-continuity rules that preserve domestic legal standi
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

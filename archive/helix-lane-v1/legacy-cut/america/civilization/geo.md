@@ -1,7 +1,5 @@
 # America Geo
 
-WORK only; not Record.
-
 ## Purpose
 
 Use American geography as a statecraft arc-lens for continental scale, Atlantic and Pacific buffers, inland circulation, agriculture, energy, water stress, infrastructure, ports, rivers, plains, mountains, and the ecological limits of continental power.
@@ -167,5 +165,3 @@ Status: **Full-strength backfill**.
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default. Stage one in `america/updates/pending.md` only if a live transaction reveals a durable new rule about water allocation, continental logistics, maritime access, ecological constraint, or infrastructure sovereignty.
-
-

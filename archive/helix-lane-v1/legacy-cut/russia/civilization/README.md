@@ -1,7 +1,5 @@
 # Russia Civilization
 
-WORK only; not Record.
-
 Purpose: name the inherited Russian code that shapes security-depth demands, sovereignty claims, and the fear of encirclement.
 
 Helix-first role: this folder now serves as the civilization-side strand bench beneath the primary [Russia helix](../helix.md). Use the helix for the integrated lane interpretation; use the notes here when the governing question has clearly narrowed to continuity memory, geography, war grammar, peace grammar, or later second-wave arc-lenses.
@@ -43,9 +41,9 @@ Any successor Russian authority would still need strategic depth, secure borders
 
 Start with [seed-patterns.md](seed-patterns.md). Use [god](god.md), [lit](lit.md), [art](art.md), [geo](geo.md), [war](war.md), and [peace](peace.md) as compact statecraft arc-lenses for sacred boundaries, cultural memory, legitimacy, terrain, coercion, settlement, beauty, and failure modes. Promote a seed into a full note only when a transaction, current-event brief, or comparative test needs it.
 
-For Russia-specific depth analysis, use the [Russia depth arc](../../sheets/russia-depth-arc.md) to distinguish frontier-depth, symbolic-depth, imperial-depth, space-depth, system-depth, and dependency-depth before turning exposure into recognition language.
+For Russia-specific depth analysis, use the Russia depth arc to distinguish frontier-depth, symbolic-depth, imperial-depth, space-depth, system-depth, and dependency-depth before turning exposure into recognition language.
 
-Use the [present-day arc extension matrix](../../sheets/present-day-arc-extension-matrix.md) when a Russia read needs to bridge older depth, recognition, encirclement, or system-equilibrium arcs into modern carriers such as energy routing, sanctions resistance, China absorption risk, nuclear warning time, or Black Sea / Baltic / Arctic pressure.
+Use the present-day arc extension matrix when a Russia read needs to bridge older depth, recognition, encirclement, or system-equilibrium arcs into modern carriers such as energy routing, sanctions resistance, China absorption risk, nuclear warning time, or Black Sea / Baltic / Arctic pressure.
 
 Use [civilization objects](objects/) when a recurring authority pattern needs to connect the Russia book surface to current state carriers, diplomatic transmitters, and transaction authority checks. First object: [state memory](objects/state-memory.md), paired with [Russia empire instrument](../empire/seed-instruments.md) as the active phase-one civ/emp opening set, but now operating as supporting strand inputs beneath the [Russia helix](../helix.md).
 
@@ -59,5 +57,3 @@ Use the first-wave civilization objects in this order when the drafting problem 
 - [peace](peace.md) for reciprocal limits, recognition formulas, and bounded equilibrium
 
 These are now the preferred Russia civilization-side strand openings ahead of older compact notes or direct `archive memory` provenance files. Use them after the [Russia helix](../helix.md) has identified which strand should lead the draft.
-
-

@@ -1,7 +1,5 @@
 # China Order Arc
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this sheet when a China-lane read, hexagon stress test, transaction, clause, or current event invokes order, mandate, unity, development continuity, maritime ambiguity, party-state implementation, compute sovereignty, or fear of disorder.
@@ -108,5 +106,3 @@ Use this sheet to sharpen:
 ## Membrane Rule
 
 If a live read reveals a durable new order form, modern carrier, threshold, or rule, stage it in `china/updates/pending.md` before changing China lane book surfaces.
-
-

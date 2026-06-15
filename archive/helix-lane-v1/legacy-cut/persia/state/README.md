@@ -1,7 +1,5 @@
 # Persia State
 
-WORK only; not Record.
-
 Use this folder for the current Iranian state apparatus: supreme authority, elected government, foreign ministry, parliament, IRGC, security councils, clerical legitimacy carriers, and partner channels. This is the near-term institutional layer that turns Iranian civilizational memory and imperial/security striving into deterrence, retaliation, restraint, sanctions bargaining, transit leverage, and implementable instruments.
 
 ## Start Here
@@ -24,7 +22,3 @@ State is the current-government and institutional-carrier layer. It is not the w
 ## Drafting Use
 
 Open this folder when a Persia-lane instrument depends on who can authorize, implement, veto, sell, restrain, or spoil a policy. A settlement that cannot pass through this state layer is wishful brokerage, not statecraft.
-
-
-
-

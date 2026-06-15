@@ -1,8 +1,6 @@
 # Russia Crisis Test Casebook
 
-WORK only; not Record.
-
-Use this lane casebook to track what Russia learns from each crisis test. The shared method index is [Crisis Test Casebook](../sheets/crisis-test-casebook.md).
+Use this lane casebook to track what Russia learns from each crisis test. The shared method index is Crisis Test Casebook.
 
 | crisis test | what Russia sees first | what Russia fears | leverage | face-saving phrase | best instrument | lesson for Russia |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16,5 +14,3 @@ Use this lane casebook to track what Russia learns from each crisis test. The sh
 ## Lane Rule
 
 Russia should turn disruption into optionality, not overbinding. The best instrument gives Moscow recognition or influence without requiring it to own another actor's crisis.
-
-

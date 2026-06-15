@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Helix-First Problem-Shape Router
 
 ## Purpose
@@ -175,6 +173,3 @@ If you already know the family, leave this note and go straight to the synthesis
 If you already know the lane, leave this note and go straight to the helix.
 
 If you still do not know whether the problem is lane-carried or cross-lane, return to [orientation-helix-front-door.md](orientation-helix-front-door.md).
-
-
-

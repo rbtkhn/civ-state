@@ -1,7 +1,5 @@
 # Russia Civilization Seed Patterns
 
-WORK only; not Record.
-
 These seeds translate archive memory into Russia-lane civilization patterns. State rules should draw from these patterns and the Russia empire folder, not directly from archive memory.
 
 ## Encirclement And Security Depth
@@ -24,5 +22,3 @@ These seeds translate archive memory into Russia-lane civilization patterns. Sta
 - **Pattern:** Recognition as a civilizational pole is treated as a security condition.
 - **Statecraft use:** Offer recognition formulas that distinguish legitimate security voice from unlimited veto.
 - **Failure mode:** Recognition language becomes license for overreach or permanent mobilization.
-
-

@@ -1,7 +1,5 @@
 # Hormuz Transit / Sanctions Relief Compact
 
-WORK only; not Record.
-
 Purpose: compare one crisis object across the four academy-statecraft national lanes. The compact tests how the same Hormuz transit / sanctions-relief problem changes when drafted from America, Russia, China, and Iran.
 
 ## Crisis Object
@@ -19,11 +17,11 @@ Hormuz disruption creates coercive system leverage. A durable compact has to reo
 
 ## Shared Source Frame
 
-- [Pape coercive-center index](../../sheets/pape-coercive-center-index.md) for clocks, shortage pressure, and fourth-center leverage.
-- [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md) for balancing pressure, restraint, and structural limits.
-- [Pape 2026-05-18](../../../../years/2026/raw-input/2026-05-18/substack-pape-june-could-be-the-most-brutal-month-2026-05-18.md) for the contraction clock.
-- [Parsi 2026-05-03](../../../../years/2026/raw-input/2026-05-03/substack-parsi-a-few-observations-on-irans-latest-proposal-to-trump-2026-05-03.md) for proposal / architecture logic.
-- Existing Iran-lane seed: [Hormuz recognition transit transaction](../../persia/transactions/hormuz-recognition-transit-transaction.md).
+- Pape coercive-center index for clocks, shortage pressure, and fourth-center leverage.
+- Mearsheimer structural-realist scoreboard for balancing pressure, restraint, and structural limits.
+- Pape 2026-05-18 for the contraction clock.
+- Parsi 2026-05-03 for proposal / architecture logic.
+- Existing Iran-lane seed: Hormuz recognition transit transaction.
 
 ## Comparison
 
@@ -32,6 +30,3 @@ Use [comparison.md](comparison.md) after reading the four lane drafts. The compa
 ## Validity
 
 Status: `volatile`. The compact depends on moving facts: shipping behavior, sanctions posture, Gulf state alignment, U.S. war powers, Chinese insurance / energy action, Russian support posture, and Iranian transit terms.
-
-
-

@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Thucydidean Misfit And Civilizational-State Difference
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Freeman theme in which imported grea
 
 ## Modern Activation
 
-Freeman-side activation surface: [Thucydidean misfit and civilizational-state difference](../../../../../speakers/freeman/themes/thucydidean-misfit-and-civilizational-state-difference.md)
+Freeman-side activation surface: Thucydidean misfit and civilizational-state difference
 
 ## Backward Historical Question
 
@@ -63,5 +61,3 @@ Counterweight rule:
 1. Cite lane-local China or America state-memory objects when they already hold the comparison.
 2. Cite this scaffold for model-fit and civilizational-form questions.
 3. Use legacy `archive memory` only when deeper provenance is needed for the civilizational substrate itself.
-
-

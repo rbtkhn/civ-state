@@ -1,7 +1,5 @@
 # IRGC Carrier
 
-WORK only; not Record.
-
 Refresh current officeholder facts before load-bearing use.
 
 ## Role In Current State Form
@@ -29,6 +27,3 @@ Terms that degrade deterrence without reciprocal recognition, expose networks, o
 ## Binding Instrument Test
 
 Can the instrument give security institutions a reason to enforce restraint rather than profit from escalation?
-
-
-

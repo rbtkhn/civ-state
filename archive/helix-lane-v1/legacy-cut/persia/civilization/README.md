@@ -1,7 +1,5 @@
 # Persia Civilization
 
-WORK only; not Record.
-
 Purpose: name the inherited Persian and Iranian civilizational code that shapes sovereignty, dignity, deterrence, resistance, and the demand to be treated as a necessary regional actor.
 
 Helix-first role: this folder now serves as the civilization-side strand bench beneath the primary [Persia helix](../helix.md). Use the helix for the integrated lane interpretation; use the notes here when the governing question has clearly narrowed to continuity memory, geography, war grammar, peace grammar, or later second-wave arc-lenses.
@@ -43,9 +41,9 @@ Any successor Iranian authority would still need sovereignty, territorial integr
 
 Start with [seed-patterns.md](seed-patterns.md). Use [god](god.md), [lit](lit.md), [art](art.md), [geo](geo.md), [war](war.md), and [peace](peace.md) as compact statecraft arc-lenses for sacred boundary, cultural memory, legitimacy, terrain, coercion, settlement, beauty, and failure modes. Promote a seed into a full note only when a transaction, current-event brief, or comparative test needs it.
 
-Use the [present-day arc extension matrix](../../sheets/present-day-arc-extension-matrix.md) when a Persia read needs to bridge older dignity, sovereignty, endurance, martyrdom, or anti-domination arcs into modern carriers such as sanctions endurance, nuclear latency, Hormuz leverage, regional network architecture, verification without humiliation, or compute-siege autonomy.
+Use the present-day arc extension matrix when a Persia read needs to bridge older dignity, sovereignty, endurance, martyrdom, or anti-domination arcs into modern carriers such as sanctions endurance, nuclear latency, Hormuz leverage, regional network architecture, verification without humiliation, or compute-siege autonomy.
 
-For Persia-specific dignity analysis, use the [Persia dignity-sovereignty arc](../../sheets/iran-dignity-sovereignty-arc.md) to distinguish plateau-sovereignty, righteous-order, Persianate-continuity, Shi'a-resistance, resource-sovereignty, martyrdom-endurance, and sanctions-sovereignty before turning recognition, relief, verification, or restraint claims into clause language.
+For Persia-specific dignity analysis, use the Persia dignity-sovereignty arc to distinguish plateau-sovereignty, righteous-order, Persianate-continuity, Shi'a-resistance, resource-sovereignty, martyrdom-endurance, and sanctions-sovereignty before turning recognition, relief, verification, or restraint claims into clause language.
 
 Use [civilization objects](objects/) when a recurring authority pattern needs to connect the Persia book surface to current state carriers, diplomatic transmitters, and transaction authority checks. First object: [state memory](objects/state-memory.md), paired with [Persia empire instrument](../empire/seed-instruments.md) as the active phase-one civ/emp opening set.
 
@@ -59,8 +57,3 @@ Use the first-wave civilization objects in this order when the drafting problem 
 - [peace](peace.md) for recognition formulas, review, relief, and bounded equilibrium
 
 These are now the preferred Persia civilization-side openings ahead of older compact notes or direct `archive memory` provenance files.
-
-
-
-
-

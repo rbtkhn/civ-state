@@ -1,7 +1,5 @@
 # U.S. Digital Identity Collapse / Sovereignty Under Acceleration Framework
 
-WORK only; not Record.
-
 Purpose: compare a digital identity collapse across America, China, Russia, and Iran. The framework connects academy-statecraft to sovereignty under acceleration: identity continuity, automated permissions, data sovereignty, audit, rollback, and successor authority.
 
 ## Crisis Object
@@ -18,9 +16,7 @@ The contested object is identity infrastructure under failure: who can prove per
 | Iran | sanctions-resilient identity continuity without surveillance overreach | [iran.md](iran.md) |
 
 ## Shared Source Frame
-
-- [Sovereignty Under Acceleration](../../../singularity/workshop/sheets/sovereignty-under-acceleration.md) for AI infrastructure risk.
-- [Civilization and Empire cycle](../../sheets/civilization-empire-cycle.md) for entropy/restoration.
+- Civilization and Empire cycle for entropy/restoration.
 - Relevant statecraft lane helix files for authority and successor continuity.
 
 ## Comparison
@@ -30,6 +26,3 @@ Use [comparison.md](comparison.md) to keep identity continuity, platform control
 ## Validity
 
 Status: `draft`. Requires specific failure scenario and infrastructure source packet before validation.
-
-
-

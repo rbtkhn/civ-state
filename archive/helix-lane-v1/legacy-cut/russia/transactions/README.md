@@ -1,8 +1,6 @@
 # Russia Statecraft Transactions
 
-WORK only; not Record.
-
-This bench spends compact speaker-state into Russia-lane instruments. Use the canonical [Statecraft Transaction Template](../../templates/statecraft-transaction.md) for any reusable transaction.
+This bench spends compact speaker-state into Russia-lane instruments. Use the canonical Statecraft Transaction Template for any reusable transaction.
 
 ## Transaction Bias
 
@@ -38,5 +36,3 @@ Each transaction should separate:
 - Does it exploit disruption without becoming trapped by Iran's or another partner's escalation calendar?
 - Which adversaries must not be unified against Russia?
 - What settlement lets Russia claim prudence rather than maximal victory?
-
-

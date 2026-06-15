@@ -1,7 +1,5 @@
 # America - Taiwan Quarantine / Maritime Access Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Taiwan transit reassurance without automatic blockade recognition.
@@ -89,6 +87,3 @@ The United States should reassure transit without automatically recognizing bloc
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

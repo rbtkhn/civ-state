@@ -1,7 +1,5 @@
 # Iran - Pakistan Command-Integrity Scare Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Pakistan regional spillover restraint.
@@ -85,6 +83,3 @@ Iran shall support regional language affirming Pakistani sovereign command conti
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

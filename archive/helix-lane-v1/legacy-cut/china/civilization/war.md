@@ -1,7 +1,5 @@
 # China War
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Chinese war memory as a statecraft lens for disorder, humiliation, fragmentation, maritime coercion, Taiwan ambiguity, quarantine / blockade classification, PLA restraint, and the boundary between anti-disorder stabilization and escalation.
@@ -190,5 +188,3 @@ Status: **Full-strength backfill**.
 ## Recursive Candidate Check
 
 Do not stage a candidate by default. Stage in `china/updates/pending.md` only if the read reveals a durable new lane rule about quarantine / blockade classification, maritime ambiguity, PLA restraint, anti-disorder escalation, insurance panic, or development legitimacy.
-
-

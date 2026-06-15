@@ -1,7 +1,5 @@
 # China Statecraft Lane
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this lane to draft from China's statecraft perspective: industrial continuity, energy security, trade-route stability, anti-chaos diplomacy, and quiet leverage under long time horizons.
@@ -76,7 +74,7 @@ Transit compacts, energy and LNG arrangements, yuan settlement, shipping insuran
 
 ## Transactions
 
-Use [China statecraft transactions](transactions/) to spend speaker-state into reusable instruments with provenance, historical continuity, Richelieu / Bismarck validation, mirror test, and revisit triggers.
+Use China statecraft transactions to spend speaker-state into reusable instruments with provenance, historical continuity, Richelieu / Bismarck validation, mirror test, and revisit triggers.
 
 ## Crisis Test Casebook
 
@@ -104,6 +102,3 @@ India is both a long-horizon comprehensive-power candidate and a possible U.S.-b
 - Which clause lets Beijing support Iran without owning Iran's escalation?
 - What insurance, finance, or logistics mechanism makes a transit compact real?
 - Where does China need silence more than public credit?
-
-
-

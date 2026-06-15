@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Monroe Reassertion And Hegemonic Retrenchment
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Crooke theme in which a pressured he
 
 ## Modern Activation
 
-Crooke-side activation surface: [Monroe reassertion and hegemonic retrenchment](../../../../../speakers/crooke/themes/monroe-reassertion-and-hegemonic-retrenchment.md)
+Crooke-side activation surface: Monroe reassertion and hegemonic retrenchment
 
 ## Backward Historical Question
 
@@ -54,5 +52,3 @@ Not every home-base security move is imperial. The pattern only holds when the p
 1. Use America-lane empire or geo objects when they already exist.
 2. Use this scaffold for perimeter and retrenchment pattern recognition.
 3. Use legacy `archive memory` only if a specific Monroe-lineage recovery becomes necessary.
-
-

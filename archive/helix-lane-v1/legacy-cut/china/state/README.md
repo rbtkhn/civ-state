@@ -1,7 +1,5 @@
 # China State
 
-WORK only; not Record.
-
 Use this folder for the current Chinese party-state apparatus: top leadership, party organs, State Council, foreign ministry, PLA, banks, firms, ports, insurers, provinces, and diplomatic channels. This is the near-term institutional layer that turns Chinese civilizational memory and imperial/security striving into quiet pressure, warnings, finance, logistics, forums, guarantees, and implementable instruments.
 
 ## Start Here
@@ -22,5 +20,3 @@ State is the current-government and institutional-carrier layer. It is not the w
 ## Drafting Use
 
 Open this folder when a China-lane instrument depends on who can quietly implement, finance, insure, warn, broker, or restrain a policy. A settlement that cannot pass through this state layer is declaratory diplomacy, not statecraft.
-
-

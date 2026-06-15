@@ -1,7 +1,5 @@
 # Iran - Hormuz Transit / Sanctions Relief Compact
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Recognition-for-transit restraint clause.
@@ -12,17 +10,17 @@ Recognition-for-transit restraint clause.
 
 ## Source Inputs
 
-- Full Iran-lane seed: [Hormuz recognition transit transaction](../../persia/transactions/hormuz-recognition-transit-transaction.md).
-- Speaker-state inputs: [Pape](../../../../speakers/pape/) for fourth-center leverage and shortage clocks; [Parsi](../../../../speakers/parsi/) / [Marandi](../../../../speakers/marandi/) for Iranian bargaining logic; [Crooke](../../../../speakers/crooke/) for Western misreading; [Ritter](../../../../speakers/ritter/) for regime-change skepticism and military risk.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Pape 2026-04-16](../../../../years/2026/raw-input/2026-04-16/substack-pape-the-iran-war-is-about-to-hit-a-supply-2026-04-16.md); [Pape 2026-05-18](../../../../years/2026/raw-input/2026-05-18/substack-pape-june-could-be-the-most-brutal-month-2026-05-18.md); [Parsi 2026-05-01](../../../../years/2026/raw-input/2026-05-01/substack-parsi-trumps-blockade-snatches-defeat-from-the-jaws-of-victory-2026-05-01.md); [Parsi 2026-05-03](../../../../years/2026/raw-input/2026-05-03/substack-parsi-a-few-observations-on-irans-latest-proposal-to-trump-2026-05-03.md).
+- Full Iran-lane seed: Hormuz recognition transit transaction.
+- Speaker-state inputs: Pape for fourth-center leverage and shortage clocks; Parsi / Marandi for Iranian bargaining logic; Crooke for Western misreading; Ritter for regime-change skepticism and military risk.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Pape 2026-04-16; Pape 2026-05-18; Parsi 2026-05-01; Parsi 2026-05-03.
 
 ## Civilization / Empire Helix Input
 
 - Civilization input: Iran's dignity, sovereignty, resistance memory, Persian continuity, and refusal of humiliation.
 - Empire input: Iran's outward striving for deterrence, Hormuz leverage, sanctions relief, partner networks, and recognition.
 - Statecraft regulation: Convert leverage into recognized restraint before disruption becomes isolation.
-- Relevant lane helix: [Persia helix](../../persia/helix.md).
+- Relevant lane helix: Persia helix.
 
 ## State Interest
 
@@ -83,6 +81,3 @@ Legacy normalization note: Iran's successor-stable interest is Hormuz salience, 
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

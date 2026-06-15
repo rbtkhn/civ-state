@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Helsinki Process And Post-Hegemonic Security Architecture
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Mercouris theme in which postwar coe
 
 ## Modern Activation
 
-Mercouris-side activation surface: [Helsinki process and post-hegemonic security architecture](../../../../../speakers/mercouris/themes/helsinki-process-and-post-hegemonic-security-architecture.md)
+Mercouris-side activation surface: Helsinki process and post-hegemonic security architecture
 
 ## Backward Historical Question
 
@@ -56,5 +54,3 @@ Helsinki is a pattern family, not a magic template; regional actors, regime type
 1. Use lane-local Gulf or security-architecture objects when they already exist.
 2. Use this scaffold when the question is about post-hegemonic design patterning.
 3. Use legacy `archive memory` only when a deeper conference-process lineage is needed.
-
-

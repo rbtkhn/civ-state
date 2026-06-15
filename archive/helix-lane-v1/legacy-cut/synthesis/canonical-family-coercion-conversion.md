@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Canonical Family Synthesis: Coercion Conversion
 
 ## Scope
@@ -149,6 +147,3 @@ Use the lane empire-instrument objects when the unresolved problem is the outwar
 - [Russia empire instrument](../russia/empire/seed-instruments.md)
 - [China empire instrument](../china/empire/seed-instruments.md)
 - [Persia empire instrument](../persia/empire/seed-instruments.md)
-
-
-

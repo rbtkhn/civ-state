@@ -1,7 +1,5 @@
 # China Peace
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Chinese peace memory as a statecraft lens for harmony, hierarchy, anti-disorder stabilization, development continuity, face-saving restraint, quiet implementation, mediation, maritime access, and managed unity.
@@ -208,5 +206,3 @@ Counterweights:
 ## Recursive Candidate Check
 
 Recursive candidates should be staged only when a read reveals a durable new rule about face-saving restraint, quiet implementation, development continuity, mediation without ownership, maritime access, or the boundary between harmony and coercive concealment.
-
-

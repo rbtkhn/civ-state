@@ -1,7 +1,5 @@
 # China - Hormuz Transit / Sanctions Relief Compact
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Anti-disorder Hormuz energy compact.
@@ -12,17 +10,17 @@ Anti-disorder Hormuz energy compact.
 
 ## Source Inputs
 
-- Speaker-state inputs: [Pape](../../../../speakers/pape/) for shock clocks and coercive leverage; [Jiang](../../../../speakers/jiang/) for China-facing strategic framing; [Sachs](../../../../speakers/sachs/) / [Krainer](../../../../speakers/krainer/) for macro-system effects; [Crooke](../../../../speakers/crooke/) / [Diesen](../../../../speakers/diesen/) for order transition; [Parsi](../../../../speakers/parsi/) for regional architecture.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Pape 2026-05-18](../../../../years/2026/raw-input/2026-05-18/substack-pape-june-could-be-the-most-brutal-month-2026-05-18.md); [Pape 2026-05-13](../../../../years/2026/raw-input/2026-05-13/substack-pape-with-china-its-getting-late-early-2026-05-13.md); [Parsi 2026-05-03](../../../../years/2026/raw-input/2026-05-03/substack-parsi-a-few-observations-on-irans-latest-proposal-to-trump-2026-05-03.md).
-- Prior statecraft drafts: [Hormuz Reciprocal Transit De-escalation Framework v2.1](../../../../hormuz-reciprocal-transit-deescalation-framework-v2-1.md).
+- Speaker-state inputs: Pape for shock clocks and coercive leverage; Jiang for China-facing strategic framing; Sachs / Krainer for macro-system effects; Crooke / Diesen for order transition; Parsi for regional architecture.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Pape 2026-05-18; Pape 2026-05-13; Parsi 2026-05-03.
+- Prior statecraft drafts: Hormuz Reciprocal Transit De-escalation Framework v2.1.
 
 ## Civilization / Empire Helix Input
 
 - Civilization input: Chinese legitimacy centers order, continuity, competence, unity, and protection from humiliation.
 - Empire input: China seeks control over energy flows, supply chains, finance, insurance, infrastructure, and anti-coercion alternatives.
 - Statecraft regulation: Preserve Iran as useful counterpressure while preventing energy disorder from damaging China's industrial base.
-- Relevant lane helix: [China helix](../../china/helix.md).
+- Relevant lane helix: China helix.
 
 ## State Interest
 
@@ -83,6 +81,3 @@ Legacy normalization note: China's successor-stable interest is energy and suppl
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

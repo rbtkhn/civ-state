@@ -1,7 +1,5 @@
 # Iran God
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Iran's sacred-boundary memory as a statecraft lens for Asha and Druj, Islam, Shia legitimacy, martyrdom, justice, dignity, anti-domination, sovereignty, and restraint as righteous endurance rather than surrender.
@@ -100,6 +98,3 @@ The practical test:
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default from this file alone. Stage one in `iran/updates/pending.md` only if a live transaction reveals a durable new rule about sacred dignity, forbidden bargains, verification humiliation, martyrdom lock, or the distinction between resistance-as-sovereignty and resistance-as-veto.
-
-
-

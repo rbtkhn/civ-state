@@ -1,7 +1,5 @@
 # Persia Empire
 
-WORK only; not Record.
-
 Purpose: name Persia's outward striving for security and control so statecraft can regulate leverage before it becomes uncontrolled disruption.
 
 Helix-first role: this folder now serves as the empire-side strand bench beneath the primary [Persia helix](../helix.md). Use the helix for the integrated lane interpretation; use this folder when the real question has narrowed to the control stack itself.
@@ -42,7 +40,3 @@ Leverage must be monetized into recognition, relief, and restraint. If Persia ca
 ## Development Queue
 
 Start with [Persia empire instrument](seed-instruments.md), which is now the active phase-one empire-side pilot object. Promote a separate instrument into its own note only when statecraft drafting needs a regulator beyond the paired pilot surface.
-
-
-
-

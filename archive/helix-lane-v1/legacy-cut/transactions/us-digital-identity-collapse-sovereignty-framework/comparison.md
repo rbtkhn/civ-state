@@ -1,7 +1,5 @@
 # U.S. Digital Identity Framework - Four-Lane Comparison
 
-WORK only; not Record.
-
 | lane | wants | fears | workable formula |
 | --- | --- | --- | --- |
 | America | rights and legal continuity | platform sovereignty or emergency permanence | audit, fallback, appeal, rollback |
@@ -16,6 +14,3 @@ Identity continuity before platform control; audit and rollback before automatio
 ## Entropy Signal
 
 Amplification degrades when identity infrastructure turns persons into permissions without appeal, fallback, or public authority.
-
-
-

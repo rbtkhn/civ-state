@@ -1,7 +1,5 @@
 # Egypt Framework - Four-Lane Comparison
 
-WORK only; not Record.
-
 | lane | wants | fears | workable formula |
 | --- | --- | --- | --- |
 | America | Suez stability and allied order | austerity collapse and rival capture | protected bread floor plus creditor coordination |
@@ -16,6 +14,3 @@ Bread before austerity; Suez neutrality before creditor competition.
 ## Entropy Signal
 
 Amplification degrades when creditor leverage consumes the legitimacy goods that keep the state governable.
-
-
-

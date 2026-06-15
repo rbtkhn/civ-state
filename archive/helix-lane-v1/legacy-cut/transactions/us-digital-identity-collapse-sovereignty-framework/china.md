@@ -1,7 +1,5 @@
 # China - U.S. Digital Identity Collapse / Sovereignty Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Order-preserving identity recovery without lock-in.
@@ -85,6 +83,3 @@ China shall treat digital identity continuity as a public-order infrastructure p
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

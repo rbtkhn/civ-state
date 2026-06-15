@@ -1,7 +1,5 @@
 # China Authority Carrier Objects
 
-WORK only; not Record.
-
 Use this bench for Chinese ministers, party-state officials, military figures, diplomats, and institutional offices that carry state intent across raw-inputs. These are not biographies. They are compact statecraft objects for tracking how China converts continuity, restraint, industrial exposure, sovereignty doctrine, and order-management language into draftable instruments.
 
 ## Objects
@@ -17,5 +15,3 @@ Open an object when a China-lane draft depends on official or institution-weight
 3. Is the signal a warning, offer, reassurance, refusal, or architecture proposal?
 4. What later Chinese statement or action would falsify this reading?
 5. Which speaker-state input helps interpret it without replacing the official signal?
-
-

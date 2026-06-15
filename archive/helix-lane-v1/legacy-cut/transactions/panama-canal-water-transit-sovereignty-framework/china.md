@@ -1,7 +1,5 @@
 # China - Panama Canal Water / Transit Sovereignty Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Panama infrastructure support without canal capture.
@@ -85,6 +83,3 @@ China shall support canal water-resilience infrastructure only under nonexclusiv
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

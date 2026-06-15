@@ -1,7 +1,5 @@
 # CIV-EMP Retrieval Matrix
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this matrix before creating or upgrading civilization, empire, helix, state-memory, or chapter surfaces inside this corpus.
@@ -72,8 +70,4 @@ Route durable discoveries as:
 
 `CIV-EMP signal -> named statecraft pattern -> lane-local update candidate -> human review -> accepted lane change`
 
-Use `<lane>/updates/pending.md` for candidates. Do not directly rewrite transactions, PH-CIV, Record surfaces, raw-input, speaker sources, or current state carrier files unless the operator separately requests that implementation.
-
-
-
-
+Use `<lane>/updates/pending.md` for candidates. Do not directly rewrite transactions, public lecture corpus, Record surfaces, raw-input, speaker sources, or current state carrier files unless the operator separately requests that implementation.

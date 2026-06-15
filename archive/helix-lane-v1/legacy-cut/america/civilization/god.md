@@ -1,7 +1,5 @@
 # America God
 
-WORK only; not Record.
-
 ## Purpose
 
 Use America's sacred-boundary memory as a statecraft lens for covenant, providence, rights, conscience, oath, civil religion, constitutional legitimacy, and liberty under law.
@@ -100,5 +98,3 @@ The practical test:
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default from this file alone. Stage one in `america/updates/pending.md` only if a live transaction reveals a durable new rule about sacred liberty, forbidden bargains, rights hypocrisy, or the distinction between lawful restraint and empire cover.
-
-

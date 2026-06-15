@@ -1,7 +1,5 @@
 # Russia State
 
-WORK only; not Record.
-
 Use this folder for the current Russian state apparatus: government, presidency, Security Council, foreign ministry, military-security institutions, and official authority carriers. This is the near-term institutional layer that turns Russian civilizational memory and imperial/security striving into orders, statements, negotiations, and implementable instruments.
 
 ## Start Here
@@ -22,5 +20,3 @@ State is the current-government and institutional-carrier layer. It is not the w
 ## Drafting Use
 
 Open this folder when a Russia-lane instrument depends on who can actually carry, sign, implement, restrain, or contradict a policy. A settlement that cannot pass through this state layer is commentary, not statecraft.
-
-

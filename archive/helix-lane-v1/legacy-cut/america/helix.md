@@ -1,7 +1,5 @@
 # America Civilization / Empire Helix
 
-WORK only; not Record.
-
 Purpose: hold America's republic / empire tension open long enough to draft instruments that preserve sovereignty and security without consuming constitutional legitimacy.
 
 ## Where This Sits
@@ -85,5 +83,3 @@ If the question needs inherited legitimacy, go to [state memory](civilization/ob
 - Where does the empire begin to endanger the republic?
 - What restraint preserves American sovereignty better than maximal control?
 - What settlement can a successor American authority inherit?
-
-

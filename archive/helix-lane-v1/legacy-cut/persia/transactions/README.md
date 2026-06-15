@@ -1,8 +1,6 @@
 # Persia Statecraft Transactions
 
-WORK only; not Record.
-
-This bench spends compact speaker-state into Persia-lane instruments. Use the canonical [Statecraft Transaction Template](../../templates/statecraft-transaction.md) for any reusable transaction.
+This bench spends compact speaker-state into Persia-lane instruments. Use the canonical Statecraft Transaction Template for any reusable transaction.
 
 This folder is not the primary front door. The canonical workshop entry lives in [../../README.md](../../README.md).
 
@@ -12,8 +10,8 @@ Open this README once the workshop route has already resolved into a Persia-lane
 
 Local continuation route:
 
-1. [State braid model](../../sheets/state-braid-model.md) - keep the linked Hormuz arcs together.
-2. [Transaction router](../../sheets/transaction-router.md) - confirm that the fit is the Persia-local recognition route, not the wider cross-lane compact.
+1. State braid model - keep the linked Hormuz arcs together.
+2. Transaction router - confirm that the fit is the Persia-local recognition route, not the wider cross-lane compact.
 3. [Hormuz recognition transit transaction](hormuz-recognition-transit-transaction.md) - spend the bundle as a concrete Persia-lane clause.
 
 What this bench adds after the front door:
@@ -60,8 +58,8 @@ Each transaction should separate:
 ## Exemplars
 
 - [Hormuz recognition transit transaction](hormuz-recognition-transit-transaction.md) - volatile first pass and default worked example for the braid -> router -> transaction path. It converts Persia's Hormuz leverage into a recognition, restraint, sanctions-relief, and transit-security clause.
-- [Protected Channel / Non-Regime-Change Framework](../../transactions/protected-channel-non-regime-change-framework/) - two-lane Persia / America bundle that converts leadership-martyrdom and off-ramp-destruction risk into protected channels, no-partition language, and sovereignty-preserving sequencing.
-- [Minab Civilian-Harm De-Escalation Framework](../../transactions/minab-civilian-harm-deescalation-framework/) - two-lane Persia / America bundle that preserves Minab dignity while converting civilian-harm memory into inquiry, protected channels, no-regime-change language, and controlled leverage.
+- Protected Channel / Non-Regime-Change Framework - two-lane Persia / America bundle that converts leadership-martyrdom and off-ramp-destruction risk into protected channels, no-partition language, and sovereignty-preserving sequencing.
+- Minab Civilian-Harm De-Escalation Framework - two-lane Persia / America bundle that preserves Minab dignity while converting civilian-harm memory into inquiry, protected channels, no-regime-change language, and controlled leverage.
 
 ## Validity Questions
 
@@ -69,7 +67,3 @@ Each transaction should separate:
 - Does it preserve deterrence without inviting regime-threatening escalation?
 - What sanctions relief can be verified without humiliation?
 - What clause reopens transit and diplomacy while preserving control?
-
-
-
-

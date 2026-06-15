@@ -1,7 +1,5 @@
 # Iran Lit
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Iranian / Persian literature as a statecraft lens for Ferdowsi, Shahnameh, Persianate continuity, poetry as sovereignty, martyrdom, dignity, memory beyond regime, and language as a carrier of civilizational survival.
@@ -75,6 +73,3 @@ Questions:
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default. Stage one in `iran/updates/pending.md` only if a live transaction reveals a durable new rule about poetry as sovereignty, memory beyond regime, dignity wording, or grievance capture.
-
-
-

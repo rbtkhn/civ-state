@@ -1,7 +1,5 @@
 # Mearsheimer Structural-Realist Scoreboard
 
-WORK only; not Record.
-
 This is a statecraft tracking surface inspired by Mearsheimer's offensive-realist logic and adapted for academy-statecraft. It is not a published Mearsheimer index. Use it to score which powers have the strongest structural position in an anarchic system, and whether their strategies are being disciplined by balance-of-power logic or distorted by overreach.
 
 The scoreboard runs parallel to the [Pape coercive-center index](pape-coercive-center-index.md):
@@ -15,15 +13,15 @@ Richelieu and Bismarck supply the statecraft correction: structural power is not
 
 Use Mearsheimer's speaker state as the main theory input:
 
-- [Mearsheimer routing](../../../speakers/mearsheimer/mearsheimer-routing.md)
-- [Mearsheimer helix](../../../speakers/mearsheimer/mearsheimer-helix.md)
-- [Diesen x Mearsheimer](../../../years/2026/diesen/diesen-mearsheimer-speaker-arc.md)
-- [Davis x Mearsheimer](../../../years/2026/davis/davis-mearsheimer-speaker-arc.md)
+- Mearsheimer routing
+- Mearsheimer helix
+- Diesen x Mearsheimer
+- Davis x Mearsheimer
 
 Use Richelieu and Bismarck as statecraft lenses, not as substitutes for Mearsheimer's structural logic:
 
-- [Richelieu lens](../lenses/richelieu.md)
-- [Bismarck lens](../lenses/bismarck.md)
+- Richelieu lens
+- Bismarck lens
 
 Do not attribute this exact scoring system to Mearsheimer unless a future source states it. This is a WORK-only synthesis surface.
 
@@ -132,5 +130,3 @@ Use this crosswalk when a statecraft draft needs both structure and pressure.
 | U.S. civil fracture deepens | America falls if command credibility, sanctions, or military coordination weaken. | America falls if institutional carrier and strategic autonomy degrade. |
 | China brokers a Gulf transit compact | China rises if it monetizes crisis leverage into system adjustment. | China rises if brokerage improves balance-of-power position without overextension. |
 | Israel escalates regionally | Israel may rise as an escalation generator. | Israel may fall if escalation exposes lack of depth, restraint, or autonomy. |
-
-

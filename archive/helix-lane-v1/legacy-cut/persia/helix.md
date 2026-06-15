@@ -1,7 +1,5 @@
 # Persia Civilization / Empire Helix
 
-WORK only; not Record.
-
 Purpose: hold together Persia's dignity-centered civilizational code and its coercive-center leverage so statecraft can convert vulnerability into durable security.
 
 ## Where This Sits
@@ -85,8 +83,3 @@ If the question needs deep continuity and dignity grammar, go to [state memory](
 - Where does outward pressure risk isolating Persia?
 - What restraint makes recognition easier for adversaries to accept?
 - What settlement preserves deterrence while ending permanent crisis?
-
-
-
-
-

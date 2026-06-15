@@ -1,7 +1,5 @@
 # America - U.S. Digital Identity Collapse / Sovereignty Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Identity continuity before platform control.
@@ -85,6 +83,3 @@ The United States shall establish an emergency identity-continuity protocol that
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

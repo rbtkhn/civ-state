@@ -1,7 +1,5 @@
 # Russia - Pakistan Command-Integrity Scare Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Pakistan strategic-stability channel.
@@ -85,6 +83,3 @@ Russia shall support a strategic-stability consultation format that confirms com
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

@@ -1,7 +1,5 @@
 # Iran - Egypt Debt / Suez / Bread Legitimacy Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Egypt legitimacy-good sovereignty reading.
@@ -92,6 +90,3 @@ Iran shall support regional language that protects Egypt's bread floor and Suez 
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

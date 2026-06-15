@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Geostrategic Defeat And Unipolar Exhaustion
 
 ## Purpose
@@ -8,7 +6,7 @@ Provide a `civ-emp` source scaffold for the Mercouris theme in which a conflict 
 
 ## Modern Activation
 
-Mercouris-side activation surface: [Geostrategic defeat and unipolar exhaustion](../../../../../speakers/mercouris/themes/geostrategic-defeat-and-unipolar-exhaustion.md)
+Mercouris-side activation surface: Geostrategic defeat and unipolar exhaustion
 
 ## Backward Historical Question
 
@@ -56,5 +54,3 @@ Not every setback is a system-defining defeat; the pattern only holds when prest
 1. Use lane-local defeat or order-transition objects when they already carry the pattern.
 2. Use this scaffold when the problem is prestige reversal and unipolar exhaustion.
 3. Use legacy `archive memory` only when a deeper defeat genealogy is needed.
-
-

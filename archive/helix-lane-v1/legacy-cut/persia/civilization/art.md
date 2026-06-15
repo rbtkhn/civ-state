@@ -1,7 +1,5 @@
 # Iran Art
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Iranian / Persian art as a statecraft lens for architecture, garden, sculpture, relief, miniature, calligraphy, music, sacred geometry, shrine, city, imperial form, Shia visual memory, plateau beauty, and recognition through endurance.
@@ -75,6 +73,3 @@ Questions:
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default. Stage one in `iran/updates/pending.md` only if a live transaction reveals a durable new rule about beauty, recognition, sacred form, prestige demand, or aesthetic dignity in settlement language.
-
-
-

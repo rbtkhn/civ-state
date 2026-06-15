@@ -1,7 +1,5 @@
 # America - Hormuz Transit / Sanctions Relief Compact
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Bounded Hormuz transit guarantee.
@@ -12,17 +10,17 @@ Bounded Hormuz transit guarantee.
 
 ## Source Inputs
 
-- Speaker-state inputs: [Pape](../../../../speakers/pape/) for coercive leverage and falsifiers; [Parsi](../../../../speakers/parsi/) for settlement architecture; [Ritter](../../../../speakers/ritter/) / [Postol](../../../../speakers/postol/) for military danger; [Freeman](../../../../speakers/freeman/) / [Beebe](../../../../speakers/beebe/) / [Mearsheimer](../../../../speakers/mearsheimer/) for realist diplomacy.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Pape 2026-05-18](../../../../years/2026/raw-input/2026-05-18/substack-pape-june-could-be-the-most-brutal-month-2026-05-18.md); [Parsi 2026-05-01](../../../../years/2026/raw-input/2026-05-01/substack-parsi-trumps-blockade-snatches-defeat-from-the-jaws-of-victory-2026-05-01.md); [Parsi 2026-05-03](../../../../years/2026/raw-input/2026-05-03/substack-parsi-a-few-observations-on-irans-latest-proposal-to-trump-2026-05-03.md).
-- Prior statecraft drafts: [Hormuz Strait Transit Agreement v0](../../../../hormuz-strait-transit-agreement-v0.md); [Hormuz Reciprocal Transit De-escalation Framework v2.1](../../../../hormuz-reciprocal-transit-deescalation-framework-v2-1.md).
+- Speaker-state inputs: Pape for coercive leverage and falsifiers; Parsi for settlement architecture; Ritter / Postol for military danger; Freeman / Beebe / Mearsheimer for realist diplomacy.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Pape 2026-05-18; Parsi 2026-05-01; Parsi 2026-05-03.
+- Prior statecraft drafts: Hormuz Strait Transit Agreement v0; Hormuz Reciprocal Transit De-escalation Framework v2.1.
 
 ## Civilization / Empire Helix Input
 
 - Civilization input: American legitimacy depends on lawful authority, maritime order, allied confidence, and domestic consent.
 - Empire input: America wants control over sea lanes, sanctions access, insurance, coalition command, and escalation tempo.
 - Statecraft regulation: Bound the control claim so reopening Hormuz does not require unlimited war or executive drift.
-- Relevant lane helix: [America helix](../../america/helix.md).
+- Relevant lane helix: America helix.
 
 ## State Interest
 
@@ -83,6 +81,3 @@ Legacy normalization note: America's successor-stable interest is predictable ma
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

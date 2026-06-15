@@ -1,7 +1,5 @@
 # President / Government Carrier
 
-WORK only; not Record.
-
 Refresh current officeholder facts before load-bearing use.
 
 ## Role In Current State Form
@@ -27,6 +25,3 @@ Can implement relief, inspections logistics, trade channels, energy exports, and
 ## Warning
 
 Administrative signature is not enough for nuclear, Hormuz, or regional-security restraint unless the supreme/security carriers are aligned.
-
-
-

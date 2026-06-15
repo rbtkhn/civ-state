@@ -1,8 +1,6 @@
 # Persia Crisis Test Casebook
 
-WORK only; not Record.
-
-Use this lane casebook to track what Persia learns from each crisis test. The shared method index is [Crisis Test Casebook](../sheets/crisis-test-casebook.md).
+Use this lane casebook to track what Persia learns from each crisis test. The shared method index is Crisis Test Casebook.
 
 | crisis test | what Persia sees first | what Persia fears | leverage | face-saving phrase | best instrument | lesson for Persia |
 | --- | --- | --- | --- | --- | --- | --- |
@@ -16,7 +14,3 @@ Use this lane casebook to track what Persia learns from each crisis test. The sh
 ## Lane Rule
 
 Persia should convert vulnerability into legitimate leverage without losing control of escalation. The best instrument lets Persia accept restraint as recognition, not humiliation.
-
-
-
-

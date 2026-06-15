@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # Helix-First Operator-Task Router
 
 ## Purpose
@@ -234,6 +232,3 @@ If the task changes from operational to interpretive, move backward:
 - from this note to [orientation-helix-front-door.md](orientation-helix-front-door.md) when the lane-versus-family choice is still unresolved
 
 If the task remains clear, leave this note and go straight to the named helix, family note, or meta-surface.
-
-
-

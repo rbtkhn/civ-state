@@ -1,7 +1,5 @@
 # Persia Empire Instrument
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this object as the phase-one Persia empire-side carrier for the symmetric-first CIV-EMP migration. It names the outward instruments through which Persia tries to convert vulnerability into deterrent leverage, sanctions relief, regional recognition, and non-disposability without letting pressure tactics harden into self-isolating disruption or partner-driven escalation.
@@ -149,7 +147,3 @@ For statecraft, the real test is whether latency can be converted before it beco
 There is also a domestic carry issue. Latency can become sacred because it appears to preserve dignity without yet forcing a final threshold crossing. But the more it becomes a symbol of national resolve, the harder it becomes to narrow without triggering humiliation anxiety at home. A mature empire object therefore has to ask not only how ambiguity deters, but how ambiguity is later translated into something other than an endless test of will.
 
 That translation is the real maturity test. If Persia cannot explain what verified gain, what relief, what guarantee, or what recognition would justify keeping latency below the highest-risk threshold, then ambiguity has stopped being a bargaining instrument and started becoming a permanent theater of honor. A bounded empire object must leave room for Tehran to claim dignity through disciplined non-crossing as well as through visible resistance.
-
-
-
-

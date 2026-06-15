@@ -1,7 +1,5 @@
 # Iran Civilization Seed Patterns
 
-WORK only; not Record.
-
 These seeds translate archive memory into Iran-lane civilization patterns. State rules should draw from these patterns and the Iran empire folder, not directly from archive memory.
 
 ## Dignity And Sovereignty
@@ -24,6 +22,3 @@ These seeds translate archive memory into Iran-lane civilization patterns. State
 - **Pattern:** Iran's geography and civilizational depth make survival and autonomy central.
 - **Statecraft use:** Treat territorial integrity, export autonomy, and regional voice as successor-stable interests.
 - **Failure mode:** A deal assumes the current regime is the whole Iranian question and misses deeper state continuity.
-
-
-

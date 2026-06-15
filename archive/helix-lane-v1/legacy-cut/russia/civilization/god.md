@@ -1,7 +1,5 @@
 # Russia God
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Russia's sacred-boundary memory as a statecraft lens for Orthodoxy, Rus inheritance, holy endurance, suffering / redemption, civilizational sovereignty, and recognition as a pole rather than a managed periphery.
@@ -100,5 +98,3 @@ The practical test:
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default from this file alone. Stage one in `russia/updates/pending.md` only if a live transaction reveals a durable new rule about sacred continuity, forbidden bargains, or the distinction between identity protection and state overreach.
-
-

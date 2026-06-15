@@ -1,7 +1,5 @@
 # China - Baltic Shadow-Fleet Infrastructure Damage Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Baltic route protection without attribution trap.
@@ -85,6 +83,3 @@ China shall support a technical inquiry, infrastructure repair, and insurance co
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

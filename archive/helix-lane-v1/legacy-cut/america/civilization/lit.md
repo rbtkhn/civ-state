@@ -1,7 +1,5 @@
 # America Lit
 
-WORK only; not Record.
-
 ## Purpose
 
 Use American literature as a statecraft lens for republic conscience, constitutional moral language, frontier self-making, individual dissent, anti-imperial critique, public witness, war fatigue, and the difference between liberty as lawful self-rule and liberty as imperial cover.
@@ -115,5 +113,3 @@ Ask:
 - Can the instrument survive executive turnover, congressional challenge, court review, public fatigue, and successor rejection?
 
 Recursive candidates should be staged only when a read reveals a durable new rule about republican conscience, dissent, anti-imperial critique, lawful exit, or the boundary between liberty and imperial cover.
-
-

@@ -1,5 +1,3 @@
-WORK only; not Record.
-
 # CIV-EMP
 
 `civ-emp` is a helix-first civilizational statecraft corpus.
@@ -43,8 +41,8 @@ The corpus assumes:
 
 - [Synthesis](synthesis/)
 - [Orientation](orientation/)
-- [Transactions](transactions/)
-- [Indexes](indexes/README.md)
+- Transactions
+- Indexes
 - [Sheets](sheets/)
 
 ## Proof And Provenance
@@ -53,4 +51,3 @@ The corpus assumes:
 - [Founding provenance](FOUNDING-PROVENANCE.md)
 
 This repo is a curated authored corpus. It keeps the live lane, synthesis, and retrieval surfaces in one place without exposing the larger making process that produced them.
-

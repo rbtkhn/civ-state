@@ -1,7 +1,5 @@
 # China Geo
 
-WORK only; not Record.
-
 ## Purpose
 
 Use Chinese geography as a statecraft arc-lens for river systems, hydraulic order, North China Plain, Yellow/Yangtze axes, Grand Canal logistics, coastal ports, Taiwan Strait, South/East China Seas, food/water/energy security, and flood/drought disorder.
@@ -169,5 +167,3 @@ Status: **Full-strength backfill**.
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default. Stage one in `china/updates/pending.md` only if a live transaction reveals a durable new rule about hydraulic legitimacy, maritime access, energy or food exposure, Taiwan Strait ambiguity, or quiet implementation under ecological stress.
-
-

@@ -1,7 +1,5 @@
 # Iran - Taiwan Quarantine / Maritime Access Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Taiwan blockade-precedent discipline.
@@ -85,6 +83,3 @@ Iran shall support maritime classification discipline that rejects automatic blo
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

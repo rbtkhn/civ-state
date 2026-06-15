@@ -1,7 +1,5 @@
 # Baltic Shadow-Fleet Infrastructure Damage Framework
 
-WORK only; not Record.
-
 Purpose: compare an attribution / negligence / gray-zone infrastructure crisis across Russia, America, and China. The framework prevents damaged cables or pipelines from becoming automatic war claims before incentive and evidence filters run.
 
 ## Crisis Object
@@ -18,9 +16,9 @@ The contested object is not "sabotage" by default. It is damaged infrastructure 
 
 ## Shared Source Frame
 
-- [Crisis test casebook](../../sheets/crisis-test-casebook.md) for the realism gate.
-- [Mearsheimer scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md) for balancing and escalation discipline.
-- [Civilization and Empire cycle](../../sheets/civilization-empire-cycle.md) for entropy checks.
+- Crisis test casebook for the realism gate.
+- Mearsheimer scoreboard for balancing and escalation discipline.
+- Civilization and Empire cycle for entropy checks.
 
 ## Comparison
 
@@ -29,6 +27,3 @@ Use [comparison.md](comparison.md) to separate investigation, hardening, pricing
 ## Validity
 
 Status: `draft`. Requires incident-specific evidence before any attribution language can validate.
-
-
-

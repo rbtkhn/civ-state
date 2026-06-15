@@ -1,7 +1,5 @@
 # Taiwan Quarantine / Maritime Access Framework
 
-WORK only; not Record.
-
 Purpose: compare the Taiwan maritime-access crisis across China, America, Russia, and Iran. The framework forces classification before escalation: quarantine, blockade, customs inspection, insurance panic, and sovereignty assertion are not the same object.
 
 ## Crisis Object
@@ -27,9 +25,9 @@ The patch treats inspection, quarantine, customs notice, transit reassurance, in
 
 ## Shared Source Frame
 
-- [Crisis test casebook](../../sheets/crisis-test-casebook.md) for legal classification discipline.
-- [Mearsheimer scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md) for balancing and overextension.
-- [Pape index](../../sheets/pape-coercive-center-index.md) for systemic spillover.
+- Crisis test casebook for legal classification discipline.
+- Mearsheimer scoreboard for balancing and overextension.
+- Pape index for systemic spillover.
 
 ## Comparison
 
@@ -38,6 +36,3 @@ Use [comparison.md](comparison.md) to keep inspection, blockade, insurance, and 
 ## Validity
 
 Status: `draft`. Requires current maritime, insurance, military, and diplomatic source packets before validation.
-
-
-

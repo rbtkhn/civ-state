@@ -1,7 +1,5 @@
 # Successor Authority Patterns
 
-WORK only; not Record.
-
 Use this note when the America lane needs to test whether an instrument survives a possible U.S. federal rupture, constitutional crisis, civil conflict, or reconstitution of continental authority.
 
 ## Civilizational Pattern Link
@@ -35,5 +33,3 @@ Prefer successor-stable guarantees:
 ## Warning
 
 Do not treat the United States as only the current administration when the `america` lane is tracking the possibility of a future America center of power.
-
-

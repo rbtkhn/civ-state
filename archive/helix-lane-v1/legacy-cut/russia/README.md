@@ -1,7 +1,5 @@
 # Russia Statecraft Lane
 
-WORK only; not Record.
-
 ## Purpose
 
 Use this lane to draft from Russia's statecraft perspective: security depth, great-power recognition, sanctions endurance, multipolar bargaining, and the use of disruption without strategic overcommitment.
@@ -72,7 +70,7 @@ Recognition formulas, security guarantees, mediator channels, deconfliction mech
 
 ## Transactions
 
-Use [Russia statecraft transactions](transactions/) to spend speaker-state into reusable instruments with provenance, historical continuity, Richelieu / Bismarck validation, mirror test, and revisit triggers.
+Use Russia statecraft transactions to spend speaker-state into reusable instruments with provenance, historical continuity, Richelieu / Bismarck validation, mirror test, and revisit triggers.
 
 ## Crisis Test Casebook
 
@@ -100,6 +98,3 @@ Keep India visible as a major Eurasian partner and comprehensive-power candidate
 - Which ambiguity preserves options rather than merely postponing conflict?
 - What support to Iran weakens U.S. coercion without making Russia hostage to Hormuz?
 - What settlement lets Russia claim equilibrium rather than maximal victory?
-
-
-

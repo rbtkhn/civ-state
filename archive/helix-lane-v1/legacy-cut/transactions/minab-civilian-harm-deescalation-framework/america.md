@@ -1,7 +1,5 @@
 # America - Minab Civilian-Harm De-Escalation Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Civilian-harm recognition and protected-channel assurance.
@@ -12,9 +10,9 @@ Civilian-harm recognition and protected-channel assurance.
 
 ## Source Inputs
 
-- Speaker-state inputs: [Parsi](../../../../speakers/parsi/) for diplomacy architecture and settlement sequencing; [Mercouris](../../../../speakers/mercouris/) for room-read and legitimacy choreography; [Marandi](../../../../speakers/marandi/) for Iranian dignity and red-line register; [Ritter](../../../../speakers/ritter/) for the Minab targeting scaffold.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Ritter 2026-03-14](../../../../years/2026/raw-input/2026-03-14/substack-ritter-the-backpack-girls-2026-03-14.md); [Marandi 2026-04-28](../../../../years/2026/raw-input/2026-04-28/transcript-marandi-dialogue-works-trump-plan-dead-after-strike-2026-04-28.md); [Mercouris / Parsi 2026-05-06](../../../../years/2026/raw-input/2026-05-06/transcript-duran-mercouris-trita-parsi-us-iran-blockade-diplomacy-2026-05-06.md).
+- Speaker-state inputs: Parsi for diplomacy architecture and settlement sequencing; Mercouris for room-read and legitimacy choreography; Marandi for Iranian dignity and red-line register; Ritter for the Minab targeting scaffold.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Ritter 2026-03-14; Marandi 2026-04-28; Mercouris / Parsi 2026-05-06.
 
 ## Realism / Incentive Filter
 
@@ -45,7 +43,7 @@ Civilian-harm recognition and protected-channel assurance.
 - Civilization input: law, accountable command, and the need for America to distinguish strength from impunity.
 - Empire input: coercive reach, sanctions, naval pressure, intelligence targeting, and alliance control.
 - Statecraft regulation: restrain coercive control before it destroys the authority carrier needed for settlement.
-- Relevant lane helix: [America helix](../../america/helix.md).
+- Relevant lane helix: America helix.
 
 ## Pattern / Narrative Conversion
 
@@ -111,6 +109,3 @@ Draft clause:
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

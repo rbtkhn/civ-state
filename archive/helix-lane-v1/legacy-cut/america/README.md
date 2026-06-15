@@ -1,7 +1,5 @@
 # America Statecraft Lane
 
-WORK only; not Record.
-
 Aliases: United States, U.S., Washington.
 
 ## Purpose
@@ -73,7 +71,7 @@ Transit guarantees, maritime deconfliction, sanctions relief sequences, allied b
 
 ## Transactions
 
-Use [America statecraft transactions](transactions/) to spend speaker-state into reusable instruments with provenance, historical continuity, Richelieu / Bismarck validation, mirror test, and revisit triggers.
+Use America statecraft transactions to spend speaker-state into reusable instruments with provenance, historical continuity, Richelieu / Bismarck validation, mirror test, and revisit triggers.
 
 ## Crisis Test Casebook
 
@@ -101,6 +99,3 @@ India remains a long-horizon comprehensive-power partner and balancing pole. Do 
 - Which guarantee can allies help carry instead of merely endorsing?
 - What is the smallest de-escalation package that restores freedom of action?
 - What authority, review, or sunset clause prevents emergency policy from becoming drift?
-
-
-

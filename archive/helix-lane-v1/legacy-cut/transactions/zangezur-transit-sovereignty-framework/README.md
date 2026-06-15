@@ -1,7 +1,5 @@
 # Zangezur Transit / Sovereignty Framework
 
-WORK only; not Record.
-
 Purpose: compare one corridor crisis across the America, Russia, China, and Persia lanes. The framework tests how transit access can be separated from territorial severance, extraterritorial control, and humiliating sovereignty loss.
 
 ## Crisis Object
@@ -19,8 +17,8 @@ Zangezur is a corridor-class problem: access, inspection, customs, security, and
 
 ## Shared Source Frame
 
-- [Crisis test casebook](../../sheets/crisis-test-casebook.md) for the corridor classification rule.
-- [Civilization and Empire cycle](../../sheets/civilization-empire-cycle.md) for amplification and entropy checks.
+- Crisis test casebook for the corridor classification rule.
+- Civilization and Empire cycle for amplification and entropy checks.
 - Relevant lane helix files for successor-stable interests.
 
 ## Comparison
@@ -30,6 +28,3 @@ Use [comparison.md](comparison.md) to test which wording preserves transit acces
 ## Validity
 
 Status: `draft`. The framework is a classification and settlement scaffold until paired with current source packets.
-
-
-

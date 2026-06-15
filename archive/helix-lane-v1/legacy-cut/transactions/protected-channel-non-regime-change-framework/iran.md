@@ -1,7 +1,5 @@
 # Iran - Protected Channel / Non-Regime-Change Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Sovereignty-preserving protected-channel sequence.
@@ -12,16 +10,16 @@ Sovereignty-preserving protected-channel sequence.
 
 ## Source Inputs
 
-- Speaker-state inputs: [Parsi](../../../../speakers/parsi/) for off-ramp destruction and settlement architecture; [Marandi](../../../../speakers/marandi/) for institutional continuity; [Ritter](../../../../speakers/ritter/) for regime-change blowback and martyrdom warning; [Pape](../../../../speakers/pape/) for coercive-center leverage.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Parsi 2026-03-08](../../../../years/2026/raw-input/2026-03-08/substack-parsi-why-the-iranian-theocracy-will-likely-survive-2026-03-08.md); [Parsi 2026-03-17](../../../../years/2026/raw-input/2026-03-17/substack-parsi-why-was-larijani-targeted-2026-03-17.md).
+- Speaker-state inputs: Parsi for off-ramp destruction and settlement architecture; Marandi for institutional continuity; Ritter for regime-change blowback and martyrdom warning; Pape for coercive-center leverage.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Parsi 2026-03-08; Parsi 2026-03-17.
 
 ## Civilization / Empire Helix Input
 
 - Civilization input: Iranian sovereignty, dignity, anti-partition memory, religious-political legitimacy, and continuity after attacks on supreme authority.
 - Empire input: Iran wants deterrent reach, sanctions relief, Hormuz leverage, partner depth, and recognition as a necessary regional actor.
 - Statecraft regulation: Accept channel protection only when it preserves dignity and converts resistance into a durable settlement path.
-- Relevant lane helix: [Persia helix](../../persia/helix.md).
+- Relevant lane helix: Persia helix.
 
 ## State Interest
 
@@ -82,6 +80,3 @@ Legacy normalization note: Iran's successor-stable interest is protected-channel
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

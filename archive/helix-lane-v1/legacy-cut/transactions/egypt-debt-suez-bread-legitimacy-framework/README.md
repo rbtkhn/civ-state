@@ -1,7 +1,5 @@
 # Egypt Debt / Suez / Bread Legitimacy Framework
 
-WORK only; not Record.
-
 Purpose: compare a solvency and public-order crisis across America, China, Russia, and Iran. The framework treats bread, canal neutrality, and debt pressure as statecraft objects rather than merely economic variables.
 
 ## Crisis Object
@@ -19,9 +17,9 @@ Egypt's debt, Suez throughput, and food-import pressure can become a legitimacy 
 
 ## Shared Source Frame
 
-- [Crisis test casebook](../../sheets/crisis-test-casebook.md) for solvency / legitimacy filter.
-- [Pape index](../../sheets/pape-coercive-center-index.md) for food, energy, and route spillover.
-- [Civilization and Empire cycle](../../sheets/civilization-empire-cycle.md) for degradation/restoration checks.
+- Crisis test casebook for solvency / legitimacy filter.
+- Pape index for food, energy, and route spillover.
+- Civilization and Empire cycle for degradation/restoration checks.
 
 ## Comparison
 
@@ -30,6 +28,3 @@ Use [comparison.md](comparison.md) to test bread before austerity and canal neut
 ## Validity
 
 Status: `draft`. Requires debt, food-import, Suez, and creditor source packets before validation.
-
-
-

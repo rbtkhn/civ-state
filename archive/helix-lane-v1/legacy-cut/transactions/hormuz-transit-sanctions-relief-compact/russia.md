@@ -1,7 +1,5 @@
 # Russia - Hormuz Transit / Sanctions Relief Compact
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Hormuz leverage-without-entrapment formula.
@@ -12,17 +10,17 @@ Hormuz leverage-without-entrapment formula.
 
 ## Source Inputs
 
-- Speaker-state inputs: [Crooke](../../../../speakers/crooke/) for order rupture and Western misreading; [Diesen](../../../../speakers/diesen/) for multipolar structure; [Ritter](../../../../speakers/ritter/) / [Macgregor](../../../../speakers/macgregor/) / [Martyanov](../../../../speakers/martyanov/) for force constraints; [Parsi](../../../../speakers/parsi/) / [Freeman](../../../../speakers/freeman/) for settlement architecture.
-- Scoreboards used: [Pape coercive-center index](../../sheets/pape-coercive-center-index.md); [Mearsheimer structural-realist scoreboard](../../sheets/mearsheimer-structural-realist-scoreboard.md).
-- Raw-input / provenance anchors: [Pape 2026-05-18](../../../../years/2026/raw-input/2026-05-18/substack-pape-june-could-be-the-most-brutal-month-2026-05-18.md); [Parsi 2026-05-03](../../../../years/2026/raw-input/2026-05-03/substack-parsi-a-few-observations-on-irans-latest-proposal-to-trump-2026-05-03.md).
-- Prior statecraft drafts: [Hormuz Reciprocal Transit De-escalation Framework v2.1](../../../../hormuz-reciprocal-transit-deescalation-framework-v2-1.md).
+- Speaker-state inputs: Crooke for order rupture and Western misreading; Diesen for multipolar structure; Ritter / Macgregor / Martyanov for force constraints; Parsi / Freeman for settlement architecture.
+- Scoreboards used: Pape coercive-center index; Mearsheimer structural-realist scoreboard.
+- Raw-input / provenance anchors: Pape 2026-05-18; Parsi 2026-05-03.
+- Prior statecraft drafts: Hormuz Reciprocal Transit De-escalation Framework v2.1.
 
 ## Civilization / Empire Helix Input
 
 - Civilization input: Russian security memory values depth, sovereignty, recognition, and resistance to Western coercion.
 - Empire input: Russia wants leverage against U.S. primacy through energy, diplomacy, military support, and multipolar institutions.
 - Statecraft regulation: Exploit disruption without becoming trapped by Iran's escalation calendar.
-- Relevant lane helix: [Russia helix](../../russia/helix.md).
+- Relevant lane helix: Russia helix.
 
 ## State Interest
 
@@ -83,6 +81,3 @@ Legacy normalization note: Russia's successor-stable interest is optionality: we
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

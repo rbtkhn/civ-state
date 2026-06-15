@@ -1,7 +1,5 @@
 # Panama Framework - Three-Lane Comparison
 
-WORK only; not Record.
-
 | lane | wants | fears | workable formula |
 | --- | --- | --- | --- |
 | America | reliable transit | ownership backlash | water compact without command claim |
@@ -15,6 +13,3 @@ Water discipline before control claims; transit reliability without ownership po
 ## Entropy Signal
 
 Amplification degrades when a climate constraint becomes a sovereignty contest.
-
-
-

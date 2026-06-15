@@ -1,7 +1,5 @@
 # China God
 
-WORK only; not Record.
-
 ## Purpose
 
 Use China's sacred-boundary memory as a statecraft lens for Heaven, mandate, ritual order, ancestor continuity, harmony, sage authority, cosmic-political order, unity, and legitimacy through competent rule.
@@ -101,5 +99,3 @@ The practical test:
 ## Recursive Candidate Check
 
 No lane update candidate is staged by default from this file alone. Stage one in `china/updates/pending.md` only if a live transaction reveals a durable new rule about mandate, face, sacred order, forbidden bargains, or the distinction between order-preserving restraint and visible containment.
-
-

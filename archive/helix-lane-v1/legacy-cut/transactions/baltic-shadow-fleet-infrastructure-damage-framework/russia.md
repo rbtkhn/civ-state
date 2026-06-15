@@ -1,7 +1,5 @@
 # Russia - Baltic Shadow-Fleet Infrastructure Damage Framework
 
-WORK only; not Record.
-
 ## Transaction Name
 
 Baltic attribution discipline and non-escalation channel.
@@ -85,6 +83,3 @@ Russia shall support an incident inquiry mechanism that distinguishes intent, ne
 - Target:
 - Candidate summary:
 - Suggested action:
-
-
-

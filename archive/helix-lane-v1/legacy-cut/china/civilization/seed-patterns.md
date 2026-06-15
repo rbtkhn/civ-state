@@ -1,7 +1,5 @@
 # China Civilization Seed Patterns
 
-WORK only; not Record.
-
 These seeds translate archive memory into China-lane civilization patterns. State rules should draw from these patterns and the China empire folder, not directly from archive memory.
 
 ## Order Against Chaos
@@ -24,5 +22,3 @@ These seeds translate archive memory into China-lane civilization patterns. Stat
 - **Pattern:** Development, competence, and continuity carry legitimacy.
 - **Statecraft use:** Tie external restraint to energy flow, industrial continuity, credit stability, and trade predictability.
 - **Failure mode:** Ideological victory language disrupts the economic basis of order.
-
-
