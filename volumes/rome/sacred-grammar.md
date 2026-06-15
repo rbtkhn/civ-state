@@ -1,4 +1,6 @@
-# Rome Sacred Grammar
+# Sacred Grammar
+
+Volume-local deep grammar for **Civilizational Statecraft**, Volume III — Rome.
 
 - **Core grammar**
   Civic-sacral order, law, citizenship, and universality. Rome makes rightful rule legible through public order, juridical form, imperial inclusion, and later Christianized universality.
@@ -19,4 +21,4 @@
   Seed MEMs: MEM–ROME–CHRISTIANITY and MEM–ROME–LAW–CITIZENSHIP
   MEM CONNECTIONS cluster: Christianity + law/citizenship -> Constantinople -> Great Schism / Papacy / Vatican
   Corroborating overview: CIV–STATE–ROME
-  Local shape reference: [CIV-STATE Rome](../volumes/rome/README.md)
+  Local shape reference: [Volume front door](README.md)
