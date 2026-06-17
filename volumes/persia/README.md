@@ -4,6 +4,8 @@
 
 Persia is the civilizational title of the live Persia lane. Use this volume when the problem is dignity, sovereignty, sacred legitimacy, plateau endurance, chokepoint leverage, or recognition under pressure.
 
+**Source-lattice:** [Persia source shelf](../../sources/persia/README.md) · [Source-Lattice](../../sources/source-lattice.md)
+
 Read [Order of Asha](introduction.md) for the volume entry. Cyrus-founded chain with deeper Zoroastrian grammar; Islamic and Shi'a transformation without civilizational erasure.
 
 Primary live lane: Persia statecraft lane
@@ -17,7 +19,7 @@ Primary live lane: Persia statecraft lane
 - Civilization chapter: [Persia civilization](civilization-persia.md)
 - Empire chapter: [Persia empire](empire-persia.md)
 - Shelf reader: [Persia shelf reader](shelf-reader.md)
-- Volume bibliography: [Persia bibliography](bibliography.md)
+- Volume bibliography: [Persia bibliography](../../sources/persia/bibliography.md)
 - Sovereign continuity support note: Persia sovereign continuity
 - Geo-strategy chapter: [Persia geo-strategy](geo-strategy-persia.md)
 - Secret-history chapter: [Persia secret-history](secret-history-persia.md)

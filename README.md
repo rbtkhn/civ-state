@@ -2,6 +2,8 @@
 
 **Public home:** [rbtkhn/civ-state](https://github.com/rbtkhn/civ-state)
 
+**Publisher:** **Statecraft Intelligence Desk**
+
 A comparative book for the general statesman reader: five civilization-state volumes, a source-lattice for each case, and whole-work apparatus for continuity, legitimacy, and settlement judgment.
 
 ## What this book is
@@ -37,7 +39,7 @@ See [Reader Guide](reader-guide.md#names-and-titles) and [Glossary](glossary.md)
 1. [Civilization and Empire](introduction.md)
 2. [Table of Contents](table-of-contents.md)
 3. [Reader Guide](reader-guide.md)
-4. [Source-Lattice](source-lattice.md) — how to read shelves before synthesis
+4. [Sources](sources/README.md) — source-lattice and era shelves
 5. [Volume Map](volumes/README.md)
 
 ## Reading order
@@ -54,9 +56,9 @@ Within each volume: **volume introduction** (thematic title) → **Civilization*
 
 ## Whole-work apparatus
 
-- [Framework shelf](framework/README.md)
-- [Rhythm](framework/rhythm.md) · [Form](framework/form.md) · [Truth](framework/truth.md) · [Memory](framework/memory.md) · [Time](framework/time.md)
-- [Continuity mechanism](framework/continuity.md) · [Pattern library](framework/patterns/README.md)
+- [Theory shelf](theory/README.md)
+- [Rhythm](theory/rhythm.md) · [Civilization](theory/civilization.md) · [Empire](theory/empire.md) · [Entropy](theory/entropy.md) · [Faith](theory/faith.md) · [Science](theory/science.md) · [Memory](theory/memory.md) · [Time](theory/time.md)
+- [Cross-case recurrence](essays/cross-case-recurrence-and-sovereignty.md)
 
 ## Essays
 
@@ -64,6 +66,7 @@ Within each volume: **volume introduction** (thematic title) → **Civilization*
 - [Hormuz recognition / transit restraint](essays/hormuz-recognition-transit-restraint.md)
 
 ## More apparatus
+- [Docs](docs/README.md) · [Skills](skills/README.md) · [Sources](sources/README.md)
 - [Sacred grammar (volume-local)](reader-guide.md#sacred-grammar-volume-local) · [Volume Map](volumes/README.md)
 - [Glossary](glossary.md) · [Hybrid references](hybrid-references.md) · [Index](index.md)
 

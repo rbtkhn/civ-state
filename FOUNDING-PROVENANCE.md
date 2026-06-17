@@ -4,19 +4,48 @@
 
 **Repository:** [rbtkhn/civ-state](https://github.com/rbtkhn/civ-state)  
 **Reader title:** Civilizational Statecraft  
-**Release:** v0.1.11
+**Release:** v0.1.13
+
+## Publisher
+
+**Statecraft Intelligence Desk** — publisher of *Civilizational Statecraft*.
 
 ## Lineage
 
 1. **Founding cut (helix-lane v1):** Exported from the upstream workshop as `rbtkhn/civ-emp` — a helix-first operator corpus (lanes, strands, transactions, orientation routers). Preserved under [`archive/helix-lane-v1/`](archive/helix-lane-v1/README.md).
 2. **Repo rename:** `civ-emp` → `civ-state` to align public slug with the civilization-**state** book architecture.
-3. **Reshape v0.2 (this release):** Replaced helix-first navigation with the book-first export from `statecraft/states/` — five-volume whole work (China, Persia, Rome, Russia, America), source-lattice per volume, comparative and sacred-grammar apparatus in the appendix.
+3. **Reshape v0.2:** Replaced helix-first navigation with the book-first export — five-volume whole work (China, Persia, Rome, Russia, America), source-lattice per volume, comparative and sacred-grammar apparatus in the appendix.
+4. **Theory reshape v0.1.12:** Pair pages (`form`, `truth`) → eight term files (civilization, empire, entropy, faith, science, memory, rhythm, time); pattern library retired from public shelf.
+
+## v0.1.12 — theory shelf migration
+
+Whole-work theory SSOT: **`theory/`** in this repository.
+
+| Retired path | Replacement |
+|--------------|-------------|
+| `theory/form.md` | `theory/civilization.md` · `theory/empire.md` |
+| `theory/truth.md` | `theory/faith.md` · `theory/science.md` |
+| `theory/continuity.md` | [Cross-case recurrence essay](essays/cross-case-recurrence-and-sovereignty.md) |
+| `theory/patterns/*` | Same essay; operator archive in the upstream workshop |
+| governing term **desire** | **entropy** (behavioral overreach in `theory/entropy.md`) |
+
+## v0.1.13 — sources shelf consolidation
+
+Whole-work sources SSOT: **`sources/`** in this repository.
+
+| Retired path | Replacement |
+|--------------|-------------|
+| `source-lattice.md` (repo root) | `sources/source-lattice.md` |
+| `volumes/{civ}/sources/primary\|secondary/` | `sources/{civ}/primary\|secondary/` |
+| `volumes/{civ}/bibliography.md` (canonical) | `sources/{civ}/bibliography.md` (volume stub redirects) |
+| Volume-owned evidence paths | Volume doors link up to `sources/{civ}/` |
 
 ## Workshop rule
 
-- **Draft** in the upstream workshop source tree.
-- **Publish** only via export PR to this repository.
-- **Do not** dual-edit canonical public paths from the workshop after cutover.
+- **Ship-bound theory prose:** edit **`public/civ-state/theory/`** only.
+- **Ship-bound source shelves:** edit **`public/civ-state/sources/`** only.
+- **Workshop** `statecraft/states/` — analysis, promotion residue, operator archive — not dual SSOT for public ship-bound prose.
+- **Publish** to [rbtkhn/civ-state](https://github.com/rbtkhn/civ-state) from workspace commits on `public/civ-state/`.
 
 ## Export
 

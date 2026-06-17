@@ -16,27 +16,39 @@ The **whole-work opening essay** ([introduction.md](introduction.md)) — civili
 
 ### Civilizational motion
 
-The recurrent three-beat rhythm — civilization beautifies, empire amplifies, entropy degrades — plus the retrieval movement memory → legitimacy → carrier → pressure → settlement. Canonical framework page: [framework/rhythm.md](framework/rhythm.md) (shelf label **Rhythm**). Distinct from paired-civilization **double-helix** analysis in external memory corpora.
+The recurrent three-beat rhythm — civilization beautifies, empire amplifies, entropy degrades — plus the retrieval movement memory → legitimacy → carrier → pressure → settlement. Canonical framework page: [theory/rhythm.md](theory/rhythm.md) (shelf label **Rhythm**). Distinct from paired-civilization **double-helix** analysis in external memory corpora.
 
 ### Civilizational Statecraft Framework
 
-The governing six-term frame — civilization, empire, faith, science, memory, desire — organized as three structural pairs on the [framework shelf](framework/README.md): **Form** · **Truth** · **Memory**, plus **Rhythm** (motion law) and **Time** (era law). Diagnostic retrieval grammar, not prescriptive command doctrine.
+The governing frame — **six terms** (civilization, empire, entropy, faith, science, memory) plus **two law pages** (Rhythm, Time) on the [theory shelf](theory/README.md). Diagnostic retrieval grammar, not prescriptive command doctrine. **Desire** is retired; overreach → [entropy](theory/entropy.md).
 
-### Form
+### Civilization (governing term)
 
-The **civilization ↔ empire** pair: inherited order versus outward instrument. Canonical page: [framework/form.md](framework/form.md). Use when legitimacy substrate and amplification stack must be separated before lane descent.
+Inherited order and legitimacy substrate. Canonical page: [theory/civilization.md](theory/civilization.md). Not the whole-work essay title *Civilization and Empire* ([introduction.md](introduction.md)).
 
-### Truth
+### Empire (governing term)
 
-The **faith ↔ science** pair: coequal truth-orders that authorize, hybridize, or compete. Canonical page: [framework/truth.md](framework/truth.md). Not reducible to religion versus laboratories.
+Outward instrument and amplification stack. Canonical page: [theory/empire.md](theory/empire.md).
 
-### Memory (framework pair)
+### Entropy
 
-The **memory ↔ desire** pair: continuity-bearing inheritance under appetite, acceleration, and compensatory overreach. Canonical page: [framework/memory.md](framework/memory.md). Distinct from lane **`state-memory`** surfaces (downstream retrieval) and from the retrieval-sequence step also named memory.
+Degradation when form and instrument diverge; the degrades beat. Canonical page: [theory/entropy.md](theory/entropy.md).
+
+### Faith
+
+Sacred and moral truth-order. Canonical page: [theory/faith.md](theory/faith.md).
+
+### Science
+
+Procedural and evidentiary truth-order. Canonical page: [theory/science.md](theory/science.md).
+
+### Memory (governing term)
+
+Continuity-bearing inheritance and retrieval entry. Canonical page: [theory/memory.md](theory/memory.md). Distinct from lane **`state-memory`** surfaces and from the retrieval-sequence step also named memory.
 
 ### Era law
 
-The shared form-historical spine — Ancient → Medieval → Colonial → Industrial → Cybernetic — with the post-`1991` **Industrial / Cybernetic** boundary load-bearing for bibliography retrieval. Canonical page: [framework/time.md](framework/time.md) (shelf label **Time**).
+The shared form-historical spine — Ancient → Medieval → Colonial → Industrial → Cybernetic — with the post-`1991` **Industrial / Cybernetic** boundary load-bearing for bibliography retrieval. Canonical page: [theory/time.md](theory/time.md) (shelf label **Time**).
 
 ### civ-state
 
@@ -146,4 +158,4 @@ The Russian continuity claim that Moscow inherits the sacred and civilizational 
 
 This glossary is a book-native CIV-STATE surface.
 
-Its visible prose should stay compact and operator-legible. Its stronger upstream evidence belongs primarily in [Hybrid References](hybrid-references.md), with retrieval discipline reinforced by the index and source-lattice.md) and Source Retrieval Matrix.
+Its visible prose should stay compact and operator-legible. Its stronger upstream evidence belongs primarily in [Hybrid References](hybrid-references.md), with retrieval discipline reinforced by the index and [source-lattice](sources/source-lattice.md).
