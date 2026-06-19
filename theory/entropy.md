@@ -5,7 +5,7 @@
 Status: Active doctrine  
 Surface: `civ-state`  
 Purpose: govern reads where war, revolution, disease, famine, ecological disaster, or compound shocks are load-bearing  
-Last updated: 2026-06-15
+Last updated: 2026-06-17
 
 ## Why this term
 
@@ -50,6 +50,10 @@ The third beat of [Memory — civilizational rhythm](memory.md#civilizational-rh
 ### Memory, faith, and science
 
 Post-shock carry often distorts [Memory](memory.md) — wound sacredized, succession frozen, revenge cycle without renewal. [Faith](faith.md) and [Science](science.md) may survive as authorization rhetoric after practice fails — distinguish living carry from performed legitimacy after rupture.
+
+## Volume depth (Rome)
+
+When **Rome** is the live case and **entropy** governs, open [rome-entropy.md](../volumes/rome/rome-entropy.md). Chain segment: [Sovereignty chain — entropy lens](../volumes/rome/rome-entropy.md#sovereignty-chain-entropy-lens). Language segment: [Dual language heritage — entropy lens](../volumes/rome/rome-entropy.md#dual-language-heritage-entropy-lens). Military segment: [Military history — entropy lens](../volumes/rome/rome-entropy.md#military-history-entropy-lens). Faith segment: [Faith history — entropy lens](../volumes/rome/rome-entropy.md#faith-history-entropy-lens). Science segment: [Science history — entropy lens](../volumes/rome/rome-entropy.md#science-history-entropy-lens). Language spine: [Language spine](../volumes/rome/rome-memory.md#language-spine). Military spine: [Military spine](../volumes/rome/rome-memory.md#military-spine). Faith spine: [Faith spine](../volumes/rome/rome-memory.md#faith-spine). **Science spine:** [Science spine](../volumes/rome/rome-memory.md#science-spine). Essay: [Science history Rome](../volumes/rome/essays/science-history-rome.md). Roman law cross-cutting table: [Theory shelf — Cross-cutting objects](README.md#cross-cutting-objects).
 
 ## Failure modes
 

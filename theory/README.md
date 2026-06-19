@@ -4,7 +4,7 @@ Whole-work governing shelf for *Civilizational Statecraft*. Read [Civilization a
 
 **Overlap is intentional.** Shared concepts appear in multiple term pages with different emphasis. Open the page whose **causal lens** matches the live object.
 
-Each volume will eventually carry its own **six-file** `theory/` subtree under `volumes/<civ>/theory/` (case-specific history through the same lenses). Whole-work pages here remain the comparative grammar until those shelves mature.
+Each volume will eventually carry **six** volume-local theory files as `{civ}-{term}.md` in `volumes/<civ>/`. **Pilot:** Rome — `rome-{term}.md` orchestrated from this shelf (Roman law mirror); open a whole-work term page first, then **Volume depth (Rome)** on that page or the cross-cutting table below.
 
 ## Civilizational Statecraft Framework
 
@@ -27,11 +27,7 @@ The older `power / truth / time` triad and `god / lit / art / geo / war / peace`
 
 ## Cross-case comparison
 
-Named pattern library and continuity mechanism are **retired from this public shelf** (v0.1.12). Operator archive: `statecraft/states/archive/theory-cross-case-v1/` in the upstream workshop.
-
-Reader-facing replacement:
-
-- [Cross-case recurrence and sovereignty](../essays/cross-case-recurrence-and-sovereignty.md) — bounded comparative essay
+Named pattern library and continuity mechanism are **retired from this public shelf** (v0.1.12). Reader-facing replacement: [Cross-case recurrence and sovereignty](../essays/cross-case-recurrence-and-sovereignty.md).
 
 Bounded case essays live under [essays/](../essays/) — not mixed into the term shelf.
 
@@ -42,6 +38,27 @@ Ask first:
 > Which governing term is actually carrying this object?
 
 Open that term page before lane descent, era shelves, or transaction design. When **phase** or **era shelf** governs, open [memory.md](memory.md) — [Civilizational rhythm](memory.md#civilizational-rhythm) or [Era law](memory.md#era-law) — even if another term won the governing read.
+
+Each term page carries a **Causal connections** section linking to adjacent terms. Read that section on the governing page before opening a second term — overlap is intentional, but one term should govern first.
+
+## Cross-cutting objects
+
+Some objects legitimately touch **all six terms** in full depth — law, treaty, constitution, corridor regime, and succession compact are the clearest. They are not owned by one page.
+
+**Discipline:** name **one governing term** for the live seam first; then widen through **Causal connections** on that page and the rows below. Do not recite all six equally in one pass — that flattens diagnosis into checklist theater.
+
+| Term | Roman law — what this lens names |
+|------|----------------------------------|
+| [civilization](civilization.md) | **Civilizational grammar** — citizenship, civic order, inherited Roman form ([Rome — civilization](../volumes/rome/rome-civilization.md)) |
+| [empire](empire.md) | **Imperial jurisdiction** — universal claim, provincial administration, coercive reach ([Rome — empire](../volumes/rome/rome-empire.md)) |
+| [faith](faith.md) | **Sacred authorization** — natural law, Christian empire synthesis, canon overlap, moral limit ([Rome — faith](../volumes/rome/rome-faith.md)) |
+| [science](science.md) | **Codification and procedure** — *Twelve Tables* → praetorian edicts → *Corpus Juris Civilis*; jurists, institutes, governable text ([Rome — science](../volumes/rome/rome-science.md)) |
+| [memory](memory.md) | **Legal continuity** — succession of codes, East/West split, restitution of what must not be lost ([Rome — memory](../volumes/rome/rome-memory.md)) |
+| [entropy](entropy.md) | **Rupture** — western fall, reformation fracture, revolution; law as rhetoric without carry after shock ([Rome — entropy](../volumes/rome/rome-entropy.md)) |
+
+Generic cross-cutting families: **law · treaty · constitution · corridor regime · succession compact**. See [Governing term first](../skills/governing-term-first.md) for the operational pick-one-then-widen pass.
+
+**Orchestration:** do not open a volume-local theory door before the governing term. Descend from the term page's **Volume depth (Rome)** section or from the row above. **Chain placement** → [Rome chain spine](../volumes/rome/rome-memory.md#chain-spine); **language placement** → [Rome language spine](../volumes/rome/rome-memory.md#language-spine); **military placement** → [Rome military spine](../volumes/rome/rome-memory.md#military-spine); **faith placement** → [Rome faith spine](../volumes/rome/rome-memory.md#faith-spine); **science placement** → [Rome science spine](../volumes/rome/rome-memory.md#science-spine).
 
 ## SSOT
 

@@ -16,14 +16,18 @@ Eastern Roman Empire and Constantinopolitan continuity:
 - Niketas Choniates, *Historia*, as the major 1204 witness
 - George Sphrantzes, *Chronicle*, as the major 1453 witness
 
-Roman-Christian universality and conciliar continuity:
+Roman-Christian universality and conciliar continuity *(faith-spine + legacy)*:
 
-- Augustine, *City of God*
+- Gratian, *Decretum* *(faith-spine — canon / Counter-Reformation shelf · science-spine S5 cross-ref — canon procedural)*
+- Council of Trent decrees *(faith-spine — western hinge 1545–1563)*
+- Index librorum prohibitorum *(faith-spine — inquisition/index cross-ref)*
+- Justinian, *Codex* — cross-ref science shelf *(faith-spine — civil-sacred overlap)*
+- al-Tabari, *History of the Prophets and Kings* *(faith-spine — caliphal narrative)*
+- Qur'an — **boundary cross-ref only** *(sacred text ≠ civ-state placement row)*
 - Boethius, *Consolation of Philosophy*
 - *Acts of Nicaea*
 - *Acts of Chalcedon*
 - *Pseudo-Isidorean Decretals*
-- Gratian, *Decretum*
 - Gregory IX, *Decretales*
 - Boniface VIII, *Unam Sanctam*
 
@@ -64,11 +68,38 @@ Iberian kingdoms and frontier Christendom:
 
 - Visigothic legal residue, especially the *Liber Iudiciorum* / *Fuero Juzgo*
 - *Usatges de Barcelona*
-- Alfonso X, *Siete Partidas*
+- Alfonso X, *Siete Partidas* *(science-spine-western — S5 Iberian codification · `contested-weight` cross-ref)*
 - *Historia Roderici*
 - *Chronica Adefonsi Imperatoris*
 - James I of Aragon, *Llibre dels Fets*
 - Alfonso X, *Fuero Real*
+
+Science spine shelf *(S3 Islamic · S4 scholastic/Renaissance · S5 codification · S6 Italy branch · S7 France branch)*:
+
+**S5 — codification procedural** *(terminus cross-ref [industrial.md](industrial.md) Code civil)*:
+
+- The *Corpus Juris Civilis* *(science-spine-eastern/western hinge — S5; cross-ref Eastern Roman section above)*
+- Gratian, *Decretum* *(science-spine-western — S5 canon procedural; faith sacred primary cross-ref above)*
+- Alfonso X, *Siete Partidas* *(science-spine-western — S5 Iberian export; cross-ref Iberian section above)*
+
+**S3–S4 · S6–S7:**
+
+- Avicenna, *Canon of Medicine* *(science-spine-eastern — S3)*
+- Averroes, Aristotle commentaries *(science-spine-eastern — S3)*
+- al-Kindi, selected works *(science-spine-eastern — S3 pointer)*
+- Boethius, *Consolation of Philosophy* *(science-spine-western — logic bridge; cross-ref above)*
+- Aquinas, *Summa Theologica* *(science-spine cross-ref — faith sacred synthesis primary)*
+- Galileo, *Dialogue Concerning the Two Chief World Systems* *(science-spine-western — Italy branch · S4/S6)*
+- Galileo, *Two New Sciences* *(science-spine-western — Padua cross-ref · S6)*
+- Leonardo da Vinci, notebooks *(pointer — science-spine-western Italy branch)*
+- Vesalius, *De humani corporis fabrica* *(science-spine-western — Bologna cross-ref · S6)*
+- Accademia dei Lincei founding documents *(pointer — S6)*
+- Univ. Bologna · Siena · Padua · Naples statutes *(pointers — S6)*
+- Descartes, *Discourse on Method* · *Meditations* *(science-spine-western — France branch · S7)*
+- Pascal, *Pensées* · hydrostatics *(science-spine-western — S7)*
+- Lavoisier, *Traité élémentaire de chimie* *(science-spine-western — S7)*
+- Diderot, *Encyclopédie* *(selection — S7; language medium cross-ref)*
+- Academy of Sciences statutes *(pointer — S7)*
 
 Medieval retrieval priority:
 - Christianization without false civilizational death

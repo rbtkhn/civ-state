@@ -32,9 +32,13 @@ The whole work opens with [Civilization and Empire](../docs/introduction.md) (op
 
 Then optional sub-lenses: geo-strategy, secret-history, game-theory.
 
-## Volume-local theory (forthcoming)
+## Volume-local theory
 
-Each volume will carry the same eight theory filenames under `volumes/<civ>/theory/` — case-specific causal history linking up to the [whole-work theory shelf](../theory/README.md). Until those shelves ship, use whole-work [theory](../theory/README.md) for comparative grammar.
+Each volume will carry **six** volume-local theory files as `{civ}-{term}.md` in the volume directory — **orchestrated from** the [whole-work theory shelf](../theory/README.md).
+
+**Pilot:** Rome — `rome-{term}.md` via **Volume depth (Rome)** on each [theory](../theory/README.md) term page (Roman law mirror).
+
+Other volumes: use whole-work [theory](../theory/README.md) until local shelves ship.
 
 ## Source-lattice inside every volume
 

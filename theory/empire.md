@@ -5,7 +5,7 @@
 Status: Active doctrine  
 Surface: `civ-state`  
 Purpose: govern reads where projection, procedural reach, sanctions, corridors, or platform leverage is load-bearing  
-Last updated: 2026-06-15
+Last updated: 2026-06-17
 
 Not to be confused with the whole-work opening essay [*Civilization and Empire*](../docs/introduction.md) — that essay introduces the book; this page names the **empire** governing term.
 
@@ -43,9 +43,17 @@ When imperial strain meets historical shock — war, revolution, famine, plague,
 
 [Science](science.md) often authorizes imperial command — expertise, verification, cybernetic administration, risk models. Post-1991 [Cybernetic era](memory.md#era-law) empire frequently runs on procedural and technical truth-orders.
 
+### Faith
+
+[Faith](faith.md) often **sanctifies** imperial reach — mandate, crusade, civil-religious universalism, providential mission. When coercion claims sacred authorization, read faith + empire before treating reach as mere instrument.
+
 ### Memory
 
 The **amplifies** beat of [Memory — civilizational rhythm](memory.md#civilizational-rhythm) maps to empire-heavy phases — projection grows, universal claims widen, coercive carriage expands.
+
+## Volume depth (Rome)
+
+When **Rome** is the live case and **empire** governs, open [rome-empire.md](../volumes/rome/rome-empire.md). Chain segment: [Sovereignty chain — empire lens](../volumes/rome/rome-empire.md#sovereignty-chain-empire-lens). Language segment: [Dual language heritage — empire lens](../volumes/rome/rome-empire.md#dual-language-heritage-empire-lens). Military segment: [Military history — empire lens](../volumes/rome/rome-empire.md#military-history-empire-lens). Faith segment: [Faith history — empire lens](../volumes/rome/rome-empire.md#faith-history-empire-lens). Science segment: [Science history — empire lens](../volumes/rome/rome-empire.md#science-history-empire-lens). Language spine: [Language spine](../volumes/rome/rome-memory.md#language-spine). Military spine: [Military spine](../volumes/rome/rome-memory.md#military-spine). Faith spine: [Faith spine](../volumes/rome/rome-memory.md#faith-spine). **Science spine:** [Science spine](../volumes/rome/rome-memory.md#science-spine). Roman law cross-cutting table: [Theory shelf — Cross-cutting objects](README.md#cross-cutting-objects). Narrative: [Empire Rome](../volumes/rome/essays/empire-rome.md) · [Science history Rome](../volumes/rome/essays/science-history-rome.md).
 
 ## Failure modes
 

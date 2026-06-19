@@ -5,7 +5,7 @@
 Status: Active doctrine  
 Surface: `civ-state`  
 Purpose: govern reads where legitimacy substrate, symbolic inheritance, or continuity-bearing form is load-bearing  
-Last updated: 2026-06-15
+Last updated: 2026-06-17
 
 Not to be confused with the whole-work opening essay [*Civilization and Empire*](../docs/introduction.md) — that essay introduces the book; this page names the **civilization** governing term.
 
@@ -45,6 +45,14 @@ Useful distinctions:
 ### Faith
 
 [Faith](faith.md) often authorizes civilizational form — mandate, covenant, orthodoxy, forbidden bargains. When legitimacy is sacred or moral before it is procedural, faith and civilization tend to move together.
+
+### Science
+
+[Science](science.md) can **codify** civilization — law codes, examination orders, administrative grammar that outlive dynasties. When inherited order is stored as procedure (Roman law, Chinese examination bureaucracy), civilization and science-order overlap without collapsing into empire.
+
+## Volume depth (Rome)
+
+When **Rome** is the live case and **civilization** governs, open [rome-civilization.md](../volumes/rome/rome-civilization.md). Chain segment: [Sovereignty chain — civilization lens](../volumes/rome/rome-civilization.md#sovereignty-chain-civilization-lens). Language segment: [Dual language heritage — civilization lens](../volumes/rome/rome-civilization.md#dual-language-heritage-civilization-lens) (Greek + Latin rosters). Military segment: [Military history — civilization lens](../volumes/rome/rome-civilization.md#military-history-civilization-lens). Faith segment: [Faith history — civilization lens](../volumes/rome/rome-civilization.md#faith-history-civilization-lens). Science segment: [Science history — civilization lens](../volumes/rome/rome-civilization.md#science-history-civilization-lens). Language spine: [Language spine](../volumes/rome/rome-memory.md#language-spine). Military spine: [Military spine](../volumes/rome/rome-memory.md#military-spine). Faith spine: [Faith spine](../volumes/rome/rome-memory.md#faith-spine). **Science spine:** [Science spine](../volumes/rome/rome-memory.md#science-spine). Roman law cross-cutting table: [Theory shelf — Cross-cutting objects](README.md#cross-cutting-objects). Narrative: [Civilization Rome](../volumes/rome/essays/civilization-rome.md) · [Science history Rome](../volumes/rome/essays/science-history-rome.md).
 
 ## Failure modes
 
