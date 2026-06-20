@@ -37,12 +37,23 @@ Maturing interpretive chapters — open after Civilization and Empire:
 
 | Essay | File | Role |
 |-------|------|------|
-| Connectivity Rome | [connectivity-rome.md](connectivity-rome.md) | Six-term membrane · cross-read matrix · segment anchor index |
-| Hexagonal template | [_template-hexagonal-rome.md](_template-hexagonal-rome.md) | Copy scaffold for demonstrator essays |
+| Connectivity Rome | [connectivity-rome.md](connectivity-rome.md) | Term-depth membrane · cross-read matrix · essay-rome registry |
+| Hexagonal template | [_template-hexagonal-rome.md](_template-hexagonal-rome.md) | Copy scaffold for **hex-frame** essays |
 
-## Hexagonal demonstrators
+## Civilizational Statecraft — demonstrator stack
 
-One friction node × six lenses — membrane visible; link term SSOT, do not duplicate rosters. Template: [_template-hexagonal-rome.md](_template-hexagonal-rome.md). **Wave 1 (first ship):** 1453 · Italian Wars · Justinian 529.
+**Theory:** [Civilizational Statecraft Framework](../../../theory/README.md#civilizational-statecraft-framework) — six governing terms applied to the Rome case.
+
+| Layer | Location | Job |
+|-------|----------|-----|
+| **Constitutional** | [civilization-rome.md](civilization-rome.md) · [empire-rome.md](empire-rome.md) | Volume Parts 1–2 — read first |
+| **Term depth** | [volume root `rome-{term}.md`](../README.md#term-depth-volume-root) | Whole-work term projection · roster SSOT |
+| **hex-frame** | [§ below](#hex-frame-hexagonal-demonstrators) | One friction node × six term passes |
+| **Essay-rome** | [§ below](#essay-rome) | Standalone lattice — **no global read order** |
+
+## hex-frame (hexagonal demonstrators)
+
+Informal name: **hex-frame**. On-disk: `hexagonal-*-rome.md`. One friction node × six term passes — membrane visible; link term SSOT, do not duplicate rosters. Template: [_template-hexagonal-rome.md](_template-hexagonal-rome.md). **Wave 1 (first ship):** 1453 · Italian Wars · Justinian 529.
 
 | Node | File | Status |
 |------|------|--------|
@@ -53,6 +64,25 @@ One friction node × six lenses — membrane visible; link term SSOT, do not dup
 | Republic → principate | [hexagonal-republic-principate-rome.md](hexagonal-republic-principate-rome.md) | active (wave 2) |
 | Colonial procedural tail | [hexagonal-colonial-tail-rome.md](hexagonal-colonial-tail-rome.md) | active (wave 2) |
 
+## Essay-rome
+
+Twenty-one standalone lattice nodes under **Civilizational Statecraft**. **Registry SSOT:** [`essay-rome.registry.yaml`](essay-rome.registry.yaml) · human hub: [connectivity-rome.md § Essay-rome registry](connectivity-rome.md#essay-rome-registry). **Reader essay SSOT:** [civ-state-essay-template.md](../../../templates/civ-state-essay-template.md) · **Meta sidecar:** [_template-essay-rome.meta.yaml](_template-essay-rome.meta.yaml).
+
+**Civic-chain read order** (when narrative continuity helps): genesis → republic → caesar → augustus — each active node has a `.meta.yaml` sidecar for routing.
+
+| slug | essay | meta | status |
+|------|-------|------|--------|
+| genesis | [essay-rome-genesis.md](essay-rome-genesis.md) | [essay-rome-genesis.meta.yaml](essay-rome-genesis.meta.yaml) | active |
+| republic | [essay-rome-republic.md](essay-rome-republic.md) | [essay-rome-republic.meta.yaml](essay-rome-republic.meta.yaml) | active |
+| caesar | [essay-rome-caesar.md](essay-rome-caesar.md) | [essay-rome-caesar.meta.yaml](essay-rome-caesar.meta.yaml) | active |
+| augustus | [essay-rome-augustus.md](essay-rome-augustus.md) | [essay-rome-augustus.meta.yaml](essay-rome-augustus.meta.yaml) | active |
+
+Full lattice (21 nodes, alphabetical by slug in YAML): [`essay-rome.registry.yaml`](essay-rome.registry.yaml).
+
+## Term depth (volume root)
+
+Six whole-work term files — **`../rome-{term}.md`** (not under `essays/`): [civilization](../rome-civilization.md) · [empire](../rome-empire.md) · [faith](../rome-faith.md) · [science](../rome-science.md) · [memory](../rome-memory.md) · [entropy](../rome-entropy.md). Hub: [connectivity-rome.md](connectivity-rome.md).
+
 ## Keep at volume root
 
 | File | Why |
@@ -62,7 +92,7 @@ One friction node × six lenses — membrane visible; link term SSOT, do not dup
 | `shelf-reader.md` | Source-navigation apparatus |
 | `bibliography.md` | Redirect to `sources/rome/` |
 | `sacred-grammar.md` | Export-validator redirect stub |
-| `rome-{term}.md` (six lenses) | Theory case depth — orchestrated from [theory/](../../../theory/README.md) |
+| `rome-{term}.md` (six terms) | Term depth — [§ Term depth](#term-depth-volume-root) · [theory/](../../../theory/README.md) |
 
 ## Archive
 

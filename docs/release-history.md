@@ -4,11 +4,113 @@ Public reshape milestones for [rbtkhn/civ-state](https://github.com/rbtkhn/civ-s
 
 ## Current release
 
+**v0.1.45** — Literary-academic prose: civic-chain four — essay H2 titles, ledes, and body rewritten from schematic to historical narration; prose-voice doctrine in template + reader-guide.
+
+**v0.1.44** — Notes-only apparatus: civic-chain four (genesis, republic, caesar, augustus) — remove `## Scholarship` tables; orphan modern works in sparing end notes; template + reader-guide aligned.
+
+**v0.1.43** — Citation doctrine (max purity): civic-chain essay bodies — authorial + ancient voices only; modern secondary (incl. Gibbon, Mommsen) in footnotes.
+
+**v0.1.42** — Essay-rome titles: one-word H1s (Genesis, Republic, Caesar, Augustus, …) — no `(Rome)` volume suffix; registry + meta sidecars aligned.
+
+**v0.1.41** — Volume README essay-template boilerplate: China, Persia, Russia, America (+ volume map, Rome) point at `civ-state-essay-template.md` before `essays/` folders exist.
+
+**v0.1.40** — Essay template SSOT: remove `_template-essay-rome.md`; all reader-facing essays use [civ-state-essay-template.md](../templates/civ-state-essay-template.md) only; Rome meta sidecar unchanged.
+
+**v0.1.39** — Rome civic-chain standalone prose pass: remove implicit metadata voice and internal body links from genesis, republic, caesar, augustus; historical argument only in essay bodies.
+
+**v0.1.38** — Rome civic-chain essay/meta split: reader-facing `.md` (lede · body · Notes) + `.meta.yaml` sidecars; registry SSOT [`essay-rome.registry.yaml`](../volumes/rome/essays/essay-rome.registry.yaml).
+
+**v0.1.37** — Rome essay-rome genesis hygiene: anti-anachronism (Greek upstream, Polybius retrospective), 312 BC forward glance, Twelve Tables defer, tighter Notes refs.
+
+**v0.1.36** — Rome essay-rome republic rewrite: standalone civic-chain essay (~390–49 BC) — Italian federation, Conflict of Orders, Polybius VI, Punic arc, provinces, late-republic strain; 17 primary pins · full Scholarship table.
+
 **v0.1.35** — Rome hexagonal registry self-describe: archetype headers A–C on wave-1 demonstrators (1453 · Italian Wars/Sack · Justinian 529) under Reading Posture — registry readable without RLJ.
 
 **v0.1.34** — Rome hexagonal wave 2 complete: Republic→principate (E) · colonial procedural tail (F) · registry all active · six archetypes A–F in recursive-learn ladder.
 
 **v0.1.33** — Rome hexagonal wave 2 (partial): 1054 Great Schism demonstrator — archetype D (faith-primary schism) confirmed.
+
+### v0.1.45 — literary-academic prose (civic-chain four)
+
+| Change | Detail |
+|--------|--------|
+| Civic-chain `.md` bodies | H2 essay titles; ledes and sections rewritten — concrete narration over planning shorthand |
+| `civ-state-essay-template.md` · `reader-guide.md` | Prose-voice doctrine documented |
+
+### v0.1.44 — Notes-only apparatus (civic-chain four)
+
+| Change | Detail |
+|--------|--------|
+| Civic-chain `.md` | Remove `## Scholarship`; research in `## Notes` only (+ sparing framing notes [^19]–[^24] per essay) |
+| `civ-state-essay-template.md` · `reader-guide.md` | Two-part essay shape (body + Notes); citation doctrine → footnotes only |
+
+### v0.1.43 — citation doctrine (civic-chain four)
+
+| Change | Detail |
+|--------|--------|
+| Civic-chain `.md` bodies | Modern scholars removed from prose; claims in authorial voice + `[^n]` |
+| `civ-state-essay-template.md` · `reader-guide.md` | Citation doctrine documented |
+| Caesar | +2 footnotes ([^19] Gruen · [^20] Mommsen authorize/embody) |
+
+### v0.1.42 — essay-rome one-word titles
+
+| Change | Detail |
+|--------|--------|
+| Civic-chain `.md` H1s | `Genesis` · `Republic` · `Caesar` · `Augustus` (no `(Rome)`) |
+| `.meta.yaml` · registry | All 21 `h1` / `title` fields aligned |
+| `civ-state-essay-template.md` | H1 rule — one word, no volume suffix |
+
+### v0.1.41 — volume README essay-template boilerplate
+
+| Change | Detail |
+|--------|--------|
+| `volumes/{china,persia,russia,america}/README.md` | **New interpretive essays** → `civ-state-essay-template.md` |
+| `volumes/README.md` · `volumes/rome/README.md` | Cross-volume + Rome parity pointers |
+
+### v0.1.40 — essay template SSOT consolidation
+
+| Change | Detail |
+|--------|--------|
+| `_template-essay-rome.md` | Removed — duplicate of civ-state-essay-template |
+| `civ-state-essay-template.md` | Rome essay-rome naming/registry comments added |
+| `README.md` · `connectivity-rome.md` · `public/civ-state/README.md` | Pointers → single essay template SSOT |
+| `_template-essay-rome.meta.yaml` | Unchanged — Rome meta sidecar only |
+
+### v0.1.39 — civic-chain standalone prose pass
+
+| Change | Detail |
+|--------|--------|
+| Civic-chain `.md` files | Remove peer/sub-lens links, chain/defer voice, essay-self voice from body prose |
+| Caesar · Augustus ledes | Historical recap openings (no "what essay-X proved") |
+| `civ-state-essay-template.md` · `reader-guide.md` | Standalone prose rule documented |
+
+### v0.1.38 — civic-chain essay/meta split
+
+| Change | Detail |
+|--------|--------|
+| `essay-rome.registry.yaml` | Machine SSOT for 21 essay-rome nodes · civic-chain read order |
+| `essay-rome-{genesis,republic,caesar,augustus}.meta.yaml` | Routing · deferrals · membrane · links migrated from essay bodies |
+| Civic-chain `.md` files | Thesis-first lede · no Where This Sits / Links / Return Path / YAML frontmatter |
+| Templates | `civ-state-essay-template.md` · `_template-essay-rome.md` · `_template-essay-rome.meta.yaml` |
+| `connectivity-rome.md` · `README.md` | Registry table dedup → YAML pointer |
+| `reader-guide.md` | Essay vs meta sidecar doctrine |
+
+### v0.1.37 — essay-rome genesis hygiene
+
+| Change | Detail |
+|--------|--------|
+| `essay-rome-genesis.md` | Review pass: sharpened thesis · Greek upstream vs operative Hellenization |
+| Chronology | Polybius as later diagnosis · 312 BC forward glance (not genesis close) |
+| Defer | Twelve Tables named → republic essay |
+| Notes | Tighter book/chapter refs (Livy, Polybius 6.11–18, Cicero Rep. 1.39) |
+
+### v0.1.36 — essay-rome republic rewrite
+
+| Change | Detail |
+|--------|--------|
+| `essay-rome-republic.md` | Clean rewrite — civic-chain · hex_link republic-principate · standalone (~390–49 BC) |
+| Body | Italian federation · Conflict of Orders · Polybius VI · Punic/Carthage/Hannibal · provinces · late-republic strain |
+| Sources | 17 primary Notes pins · Gibbon + Goldsworthy · Everitt · Syme · Durant Scholarship rows |
 
 ### v0.1.35 — Hexagonal archetype headers (wave 1)
 

@@ -93,10 +93,26 @@ Seven-node **Civilization ↔ Empire ↔ Entropy** choreography (prose SSOT): [C
 | Type | Examples | Job |
 |------|----------|-----|
 | **Constitutional** | [civilization-rome.md](civilization-rome.md) · [empire-rome.md](empire-rome.md) | Transformed continuity · outward machinery — volume Parts 1–2 |
+| **Term depth** | [`../rome-{term}.md`](../README.md#term-depth-volume-root) | Whole-work projection of each governing term — roster SSOT · membrane hub |
 | **History sub-lenses** | [language](dual-language-heritage-rome.md) · [military](military-history-rome.md) · [faith](faith-history-rome.md) · [science](science-history-rome.md) | Single-dimension depth on one parallel spine |
-| **Hexagonal demonstrators** | [registry](README.md#hexagonal-demonstrators) · [_template](_template-hexagonal-rome.md) | **One friction node × six term lenses** — shows membrane in action; links rosters, never duplicates them |
+| **hex-frame** | [registry](README.md#hex-frame-hexagonal-demonstrators) · [_template-hexagonal-rome](_template-hexagonal-rome.md) | **One friction node × six term passes** — nodal demonstrator; links rosters, never duplicates them |
+| **Essay-rome** | [registry](#essay-rome-registry) · [civ-state-essay-template](../../../templates/civ-state-essay-template.md) | Standalone lattice nodes — narrative / geographic / hinge prose; **no global read order** |
 
-Open a demonstrator when the operator needs to see **the same node diagnosed six ways**; open a history essay when **one dimension** needs essay-length treatment.
+Open **hex-frame** when the operator needs **the same node diagnosed six ways**; open a **history sub-lens** when **one dimension** needs essay-length treatment; open **essay-rome** for **standalone lattice** depth (wire via `## Links`, not volume-wide sequence).
+
+## Essay-rome registry
+
+**Registry SSOT:** [`essay-rome.registry.yaml`](essay-rome.registry.yaml) — all **21** lattice nodes (slug · file · meta sidecar · tier · hex_link · status).
+
+**Civic-chain read order** (narrative continuity — not global essay-rome order):
+
+```text
+genesis → republic → caesar → augustus
+```
+
+Active civic-chain nodes ship **reader-facing** `essay-rome-{slug}.md` plus editor/machine **`essay-rome-{slug}.meta.yaml`** (scope · deferrals · routing). Reader essay SSOT: [civ-state-essay-template.md](../../../templates/civ-state-essay-template.md) · meta: [_template-essay-rome.meta.yaml](_template-essay-rome.meta.yaml).
+
+**hex_link ids → hex-frame files:** `1453` → [hexagonal-1453-rome.md](hexagonal-1453-rome.md) · `1054-schism` → [hexagonal-1054-schism-rome.md](hexagonal-1054-schism-rome.md) · `republic-principate` → [hexagonal-republic-principate-rome.md](hexagonal-republic-principate-rome.md) · `justinian-529` → [hexagonal-justinian-codification-rome.md](hexagonal-justinian-codification-rome.md) · `italian-wars` → [hexagonal-italian-wars-rome.md](hexagonal-italian-wars-rome.md) · `colonial-tail` → [hexagonal-colonial-tail-rome.md](hexagonal-colonial-tail-rome.md)
 
 ## Return Path
 
@@ -105,5 +121,7 @@ Open a demonstrator when the operator needs to see **the same node diagnosed six
 - Five spines: [chain](../rome-memory.md#chain-spine) · [language](../rome-memory.md#language-spine) · [military](../rome-memory.md#military-spine) · [faith](../rome-memory.md#faith-spine) · [science](../rome-memory.md#science-spine)
 - Four history essays: [language](dual-language-heritage-rome.md) · [military](military-history-rome.md) · [faith](faith-history-rome.md) · [science](science-history-rome.md)
 - Constitutional essays: [civilization](civilization-rome.md) · [empire](empire-rome.md)
-- Hexagonal demonstrators: [registry](README.md#hexagonal-demonstrators) · [template](_template-hexagonal-rome.md)
+- hex-frame: [registry](README.md#hex-frame-hexagonal-demonstrators) · [template](_template-hexagonal-rome.md)
+- Essay-rome: [registry](#essay-rome-registry) · [civ-state-essay-template](../../../templates/civ-state-essay-template.md)
+- Term depth: [volume root](../README.md#term-depth-volume-root)
 - [Theory shelf](../../../theory/README.md)
