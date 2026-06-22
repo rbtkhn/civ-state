@@ -4,6 +4,34 @@ Public reshape milestones for [rbtkhn/civ-state](https://github.com/rbtkhn/civ-s
 
 ## Current release
 
+**v0.1.62** — Egypt geo-branch dependency-system revision: `essay-rome-egypt.md` in-place prose — strip Augustus Actium flight/constitutional overlap and Constantinople doctrinal drift; re-anchor grain, Nile logistics, and administrative continuity; Alexandria grain-primary (Library as administrative intelligibility); `essay-rome-egypt.meta.yaml` `proves_here` + registry `prose_qa`; `civic-chain-rome-humanize` QA (body 2,491 · quoted 455 · 18.3% · ratio-primary-gate).
+
+**v0.1.60** — Rome bibliography downstream wiring: essay citation inventory (`rome-bibliography.md`, civic-chain four verified); retrieve redirect renamed `bibliography.md` → `source-shelf.md`; `civ-state-essay` **v0.2.5** (inventory procedure, lattice-growth when next `essay-rome-*` node goes active).
+
+**v0.1.59** — Rome source-discipline pass (four civic-chain essays): remove body `Later reception` blocks; Gibbon, Mommsen, Syme, Goldsworthy, Everitt, Durant → `## Notes` only with SSOT labels; authorial synthesis + ancient quote weave; genesis Athens beat + L55 republic institutions; `civ-state-essay` v0.2.3 + template L7 aligned; `civic-chain-rome-humanize` QA (genesis body 2,734 · quoted 462; republic 2,607 · 461; caesar 2,490 · 450; augustus 2,630 · 451).
+
+**v0.1.58** — Rome chain polish: Caesar Pompey duplicate-phrase fix; republic Gibbon/Livy reception dedupe (Gibbon block stays in genesis); `civic-chain-rome-humanize` QA (caesar body 2,401 · quoted 455; republic body 2,592 · quoted 461).
+
+**v0.1.57** — Augustus humanizing prose pass: unified `Later reception` weave (Goldsworthy, Syme, Mommsen, Everitt, Gibbon, Durant), removed analyst/meta frames, embodied annona/settlement beats; `civic-chain-rome-humanize` QA (body 2,421 · quoted 453).
+
+**v0.1.56** — Augustus light prose pass: fix duplicate [^2] pin, merge Actium geo duplicate, dedupe Peace administration/spectacle loop, trim restoration-thesis repeats; `civic-chain-rome-v2` QA (body 2,419 · quoted 451).
+
+**v0.1.55** — Republic light human-prose pass: trim liberty/elections formula loop, Florus meta, Punic geography list; vary Athens foil and Polybius tail; align closing with Caesar chain; `civic-chain-rome-humanize` QA (body 2,597 · quoted 479).
+
+**v0.1.54** — Caesar light human-prose pass: consolidate triple `Later reception` in Pompey, dedupe *dignitas*/ultimatum repeats, vary Ides closing, trim Pharsalus redundancy; `civic-chain-rome-humanize` QA (body 2,401 · quoted 455).
+
+**v0.1.53** — Caesar humanizing prose pass: tightened lede (assumes republic strain), unified `Later reception` weave for Gibbon/Mommsen, removed modern-analyst frames, embodied dictatorship honours; `civic-chain-rome-humanize` QA (body 2,438 · quoted 455).
+
+**v0.1.52** — Caesar light human-prose pass: dedupe Pompey strategy triplet, Pharsalus geo duplicate, Gaul ultimatum, Tacitus tail, Florus meta wrapper; fold pre-H2 Pharsalus block into section; v2 QA (body 2,461 · quoted 455).
+
+**v0.1.51** — Republic humanizing prose pass: in-place rhythm, lived institutions (tribune, *imperium*, publicani), Polybius as later hostage-scholar, active Florus weave, deduped prize catalogues; `civic-chain-rome-humanize` QA (body 2,644 · quoted 479).
+
+**v0.1.50** — Genesis light human-prose pass: motif variation, transition dedupe, micro-asides (*pomerium*, *fasces*, Tiber, Livy), sharper paragraph endings, conversational Lucretia weave.
+
+**v0.1.49** — Genesis humanizing prose pass: in-place rhythm, verb, lived-institution, causality, and active-quotation revision; Polybius framed as later writer; `civic-chain-rome-humanize` QA band (body 2,400–2,800).
+
+**v0.1.48** — Source-bearing expansion: Rome civic-chain four (genesis, republic, caesar, augustus) — ~2,500-word bodies with ~20% woven primary/pre-modern quotation; template + reader-guide + `civ-state-essay` v0.2.0 gates; `check_civ_state_essay_prose.py`.
+
 **v0.1.47** — Geo-strategic prose pass: Rome genesis, republic, caesar, augustus — place-as-power narration, causal constraints, de-schematic body language; template + reader-guide geo-strategic doctrine.
 
 **v0.1.46** — Civic-chain expansion: Rome genesis, republic, caesar, augustus expanded to ~1,850–2,150 words body each — new sections (Gaul; Peace/Religion; Gallic rebuild split), deeper Punic/province/Social War and settlement/succession narration; appended primary footnotes; template + reader-guide length guidance.
@@ -33,6 +61,28 @@ Public reshape milestones for [rbtkhn/civ-state](https://github.com/rbtkhn/civ-s
 **v0.1.34** — Rome hexagonal wave 2 complete: Republic→principate (E) · colonial procedural tail (F) · registry all active · six archetypes A–F in recursive-learn ladder.
 
 **v0.1.33** — Rome hexagonal wave 2 (partial): 1054 Great Schism demonstrator — archetype D (faith-primary schism) confirmed.
+
+### v0.1.50 — genesis light human-prose pass
+
+| Change | Detail |
+|--------|--------|
+| `essay-rome-genesis.md` | Surgical pass — vary core motif language; reduce formula transitions; micro-asides; sharper closings; Lucretia block rework |
+| QA | `civic-chain-rome-humanize` band unchanged (body 2,400–2,800) |
+
+### v0.1.49 — genesis humanizing pass
+
+| Change | Detail |
+|--------|--------|
+| `essay-rome-genesis.md` | Prose humanization in place — rhythm variation, abstract→verb rewrites, *pomerium*/*fasces*/tribune/Tables texture, causal bridges, active quote intro/interpret; structure and source weave preserved |
+| `check_civ_state_essay_prose.py` | `civic-chain-rome-humanize` band — body 2,400–2,800 · quoted 450–550 |
+
+### v0.1.48 — source-bearing expansion (civic-chain four)
+
+| Change | Detail |
+|--------|--------|
+| Civic-chain `.md` bodies | Genesis, republic, caesar, augustus — ~2,500 words body each; ~450–550 quoted words woven at section turns (Polybius, Livy, Suetonius, Res Gestae 34, Tacitus, etc.) |
+| `civ-state-essay-template.md` · `reader-guide.md` | 2,500 / 20% quotation gates; Gibbon/Mommsen allowed only inside `"…"`; central quotes in body, locators in Notes |
+| `civ-state-essay` skill v0.2.0 | Quoted-word band + quote-ratio QA; `check_civ_state_essay_prose.py` wired in CURSOR_APPENDIX |
 
 ### v0.1.47 — geo-strategic prose pass (civic-chain four)
 

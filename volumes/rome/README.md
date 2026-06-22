@@ -6,6 +6,8 @@ Rome is currently a source-memory volume rather than a full repo-root lane peer.
 
 **Source-lattice:** [Rome source shelf](../../sources/rome/README.md) · [Source-Lattice](../../sources/source-lattice.md)
 
+**Table of contents (human-readable):** [rome-table-of-contents.md](rome-table-of-contents.md)
+
 **New interpretive essays:** [civ-state-essay-template.md](../../templates/civ-state-essay-template.md) — reader SSOT · meta sidecar [_template-essay-rome.meta.yaml](essays/_template-essay-rome.meta.yaml) · lattice [essays/README.md](essays/README.md).
 
 Read [Pax Romana](../../docs/introduction.md) for the volume entry. Transformed continuity case: sovereignty through republic, empire, Eastern Roman bridge, and Catholic residue — not one uninterrupted territorial state.
@@ -21,7 +23,8 @@ Primary source base: Rome source corpus
 - Civilization chapter: [Rome civilization](essays/civilization-rome.md)
 - Empire chapter: [Rome empire](essays/empire-rome.md)
 - Shelf reader: [Rome shelf reader](shelf-reader.md)
-- Volume bibliography: [Rome bibliography](../../sources/rome/bibliography.md)
+- Volume retrieve shelf: [Rome bibliography](../../sources/rome/bibliography.md) · volume door [source-shelf.md](source-shelf.md)
+- Essay citation inventory (PD URLs, civic-chain): [rome-bibliography.md](rome-bibliography.md) — see [essays README § Essay-rome](essays/README.md#essay-rome)
 - Sovereign continuity support note: [Rome chain spine](rome-memory.md#chain-spine) · [Rome military spine](rome-memory.md#military-spine) · [Rome faith spine](rome-memory.md#faith-spine) · [Rome science spine](rome-memory.md#science-spine)
 - Optional sub-lenses: [essays](essays/README.md) — dual language heritage, military history, faith history, science history, geo-strategy, secret-history, game-theory
 - Volume-local theory: `rome-{term}.md` — orchestrated from [whole-work theory](../../theory/README.md) (Roman law mirror pilot)
